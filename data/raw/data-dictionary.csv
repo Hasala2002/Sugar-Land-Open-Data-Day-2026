@@ -1,0 +1,10 @@
+column,type,label,description
+Incident Date,text,,"Date and time when the incident occurred, including timezone information."
+Incident Type Code,text,,Numeric code representing the type of incident.
+Incident Type,text,,Description of the type of incident that occurred.
+Apparatus Name,text,,Name or identifier of the apparatus (vehicle or equipment) dispatched to the incident.
+Priority,text,,"Level of urgency assigned to the incident (e.g., emergent or non-emergent)."
+District,text,,Numeric or alphanumeric code representing the geographical district where the incident occurred.
+Station,text,,Name or identifier of the fire station associated with the response to the incident.
+City,text,,Name of the city where the incident took place.
+Shift,text,,Work shift during which the incident occurred.

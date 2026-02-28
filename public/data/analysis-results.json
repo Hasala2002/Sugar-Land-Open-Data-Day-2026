@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-14T08:09:36.953Z",
+    "data_period": {
+      "start": "2023-01",
+      "end": "2024-09",
+      "total_months": 21
+    }
+  },
+  "correlation_analysis": {
+    "monthly_correlations": [
+      {
+        "name": "Cross-District Rate vs EMS Response Time",
+        "xLabel": "Cross-District Rate",
+        "yLabel": "EMS Response Time (min)",
+        "n": 21,
+        "r": -0.14859563139637683,
+        "rSquared": 0.0220806616700866,
+        "pValue": 1.0406581364974978,
+        "slope": -4.029097207796083,
+        "intercept": 8.157611973179383,
+        "signalStrength": "Weak",
+        "significant": false
+      },
+      {
+        "name": "Cross-District Rate vs Fire Response Time",
+        "xLabel": "Cross-District Rate",
+        "yLabel": "Fire Response Time (min)",
+        "n": 21,
+        "r": -0.09406630377795033,
+        "rSquared": 0.008848469506447687,
+        "pValue": 1.3701145480875265,
+        "slope": -3.4891105817672696,
+        "intercept": 7.605862418019295,
+        "signalStrength": "Weak",
+        "significant": false
+      },
+      {
+        "name": "Total Incidents vs EMS Response Time",
+        "xLabel": "Total Incidents",
+        "yLabel": "EMS Response Time (min)",
+        "n": 21,
+        "r": 0.011154817094197668,
+        "rSquared": 0.00012442994440564625,
+        "pValue": 1.9234501323226958,
+        "slope": 0.000043805893965248844,
+        "intercept": 7.061297293105432,
+        "signalStrength": "Weak",
+        "significant": false
+      },
+      {
+        "name": "Total Incidents vs Fire Response Time",
+        "xLabel": "Total Incidents",
+        "yLabel": "Fire Response Time (min)",
+        "n": 21,
+        "r": 0.3686619623431711,
+        "rSquared": 0.13591164247870924,
+        "pValue": 0.20014878525757482,
+        "slope": 0.0019805115310781132,
+        "intercept": 5.362536731902192,
+        "signalStrength": "Moderate",
+        "significant": false
+      },
+      {
+        "name": "Emergent Rate vs EMS Response Time",
+        "xLabel": "Emergent Rate",
+        "yLabel": "EMS Response Time (min)",
+        "n": 21,
+        "r": 0.08133903622104702,
+        "rSquared": 0.006616038813305525,
+        "pValue": 1.451927482611739,
+        "slope": 6.387822741856144,
+        "intercept": 0.7305707873587802,
+        "signalStrength": "Weak",
+        "significant": false
+      }
+    ],
+    "main_correlation": {
+      "name": "Cross-District Rate vs EMS Response Time",
+      "r": -0.14859563139637683,
+      "rSquared": 0.0220806616700866,
+      "pValue": 1.0406581364974978,
+      "significant": false,
+      "signal_strength": "Weak"
+    }
+  },
+  "seasonal_analysis": {
+    "quarterly_data": [
+      {
+        "quarter": "Q1",
+        "months": 6,
+        "avgCrossDistrict": 0.2718348068584326,
+        "avgEMSResponseTime": 7.366666666666667,
+        "avgFireResponseTime": 6.7555555555555555,
+        "totalIncidents": 4093
+      },
+      {
+        "quarter": "Q2",
+        "months": 6,
+        "avgCrossDistrict": 0.2651022878799512,
+        "avgEMSResponseTime": 6.897222222222222,
+        "avgFireResponseTime": 6.336111111111111,
+        "totalIncidents": 4229
+      },
+      {
+        "quarter": "Q3",
+        "months": 6,
+        "avgCrossDistrict": 0.25670757149038853,
+        "avgEMSResponseTime": 6.886111111111112,
+        "avgFireResponseTime": 6.536111111111111,
+        "totalIncidents": 3586
+      },
+      {
+        "quarter": "Q4",
+        "months": 3,
+        "avgCrossDistrict": 0.26671172377619673,
+        "avgEMSResponseTime": 7.333333333333333,
+        "avgFireResponseTime": 7.516666666666666,
+        "totalIncidents": 2080
+      }
+    ],
+    "extreme_months": {
+      "lowest_cross_district": {
+        "month": "2024-08",
+        "value": 0.21325051759834368
+      },
+      "highest_cross_district": {
+        "month": "2023-02",
+        "value": 0.30048465266558966
+      },
+      "lowest_ems_response": {
+        "month": "2023-10",
+        "value": 6.15
+      },
+      "highest_ems_response": {
+        "month": "2024-01",
+        "value": 8
+      },
+      "lowest_fire_response": {
+        "month": "2023-02",
+        "value": 5.25
+      },
+      "highest_fire_response": {
+        "month": "2023-12",
+        "value": 7.966666666666667
+      }
+    },
+    "seasonal_variation": 0.015127235368044056
+  },
+  "district_analysis": {
+    "top_strain_districts": [
+      {
+        "rank": 1,
+        "district": "609",
+        "home_station": "Sugar Land Fire Station 1",
+        "total_incidents": 27,
+        "cross_district_rate": 0.7037037037037037
+      },
+      {
+        "rank": 2,
+        "district": "206",
+        "home_station": "Sugar Land Fire Station 7",
+        "total_incidents": 44,
+        "cross_district_rate": 0.6363636363636364
+      },
+      {
+        "rank": 3,
+        "district": "1S2",
+        "home_station": "Sugar Land Fire Station 1",
+        "total_incidents": 44,
+        "cross_district_rate": 0.6136363636363636
+      },
+      {
+        "rank": 4,
+        "district": "3M2",
+        "home_station": "Sugar Land Fire Station 3",
+        "total_incidents": 225,
+        "cross_district_rate": 0.5911111111111111
+      },
+      {
+        "rank": 5,
+        "district": "3S1",
+        "home_station": "Sugar Land Fire Station 4",
+        "total_incidents": 83,
+        "cross_district_rate": 0.5421686746987951
+      },
+      {
+        "rank": 6,
+        "district": "1S1",
+        "home_station": "Sugar Land Fire Station 1",
+        "total_incidents": 175,
+        "cross_district_rate": 0.5085714285714286
+      },
+      {
+        "rank": 7,
+        "district": "302",
+        "home_station": "Sugar Land Fire Station 3",
+        "total_incidents": 699,
+        "cross_district_rate": 0.4821173104434907
+      },
+      {
+        "rank": 8,
+        "district": "3S2",
+        "home_station": "Sugar Land Fire Station 4",
+        "total_incidents": 583,
+        "cross_district_rate": 0.4665523156089194
+      },
+      {
+        "rank": 9,
+        "district": "102",
+        "home_station": "Sugar Land Fire Station 1",
+        "total_incidents": 396,
+        "cross_district_rate": 0.4494949494949495
+      },
+      {
+        "rank": 10,
+        "district": "3M1",
+        "home_station": "Sugar Land Fire Station 3",
+        "total_incidents": 267,
+        "cross_district_rate": 0.449438202247191
+      }
+    ],
+    "district_correlation": {
+      "name": "District Incidents vs Cross-District Rate",
+      "n": 38,
+      "r": -0.3848815789967918,
+      "rSquared": 0.14813382985106416,
+      "pValue": 0.012348340816984216
+    },
+    "station_export_rankings": [
+      {
+        "station": "Sugar Land Fire Station 3",
+        "districtCount": 3,
+        "totalIncidents": 1191,
+        "avgCrossDistrictRate": 0.49538203190596136
+      },
+      {
+        "station": "Sugar Land Fire Station 7",
+        "districtCount": 8,
+        "totalIncidents": 1504,
+        "avgCrossDistrictRate": 0.34773936170212766
+      },
+      {
+        "station": "Sugar Land Fire Station 4",
+        "districtCount": 7,
+        "totalIncidents": 2279,
+        "avgCrossDistrictRate": 0.2948661693725318
+      },
+      {
+        "station": "Sugar Land Fire Station 1",
+        "districtCount": 8,
+        "totalIncidents": 3549,
+        "avgCrossDistrictRate": 0.29219498450267684
+      },
+      {
+        "station": "Sugar Land Fire Station 5",
+        "districtCount": 4,
+        "totalIncidents": 1046,
+        "avgCrossDistrictRate": 0.2552581261950287
+      },
+      {
+        "station": "Sugar Land Fire Station 2",
+        "districtCount": 4,
+        "totalIncidents": 2174,
+        "avgCrossDistrictRate": 0.17479300827966882
+      },
+      {
+        "station": "Sugar Land Fire Station 6",
+        "districtCount": 4,
+        "totalIncidents": 2215,
+        "avgCrossDistrictRate": 0.11286681715575621
+      }
+    ]
+  },
+  "verdict": {
+    "thesis_supported": false,
+    "correlation_strength": "Weak",
+    "recommended_narrative": "resilience",
+    "highlight_districts": [
+      "609",
+      "206",
+      "1S2",
+      "3M2",
+      "3S1"
+    ]
+  }
+}

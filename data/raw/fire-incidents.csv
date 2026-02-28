@@ -1,0 +1,1195 @@
+Incident Date,Incident Type Code,Incident Type,Apparatus Name,Priority,District Name,Station,City,Shift
+2023-01-01 21:14:57-06:00,150,"Outside rubbish fire, other",SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-04 13:46:32-06:00,111,Building fire,SLOPS1,Emergent,STAFFORD,Sugar Land Fire Station 2,HOUSTON,A Shift
+2023-01-04 13:46:32-06:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,HOUSTON,A Shift
+2023-01-04 13:46:32-06:00,111,Building fire,SLL2,Emergent,STAFFORD,Sugar Land Fire Station 2,HOUSTON,A Shift
+2023-01-04 21:53:22-06:00,151,"Outside rubbish, trash or waste fire",SLL2,Non-Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-01-04 15:13:58-06:00,113,"Cooking fire, confined to container",SLE3,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-01-06 14:34:37-06:00,142,Brush or brush-and-grass mixture fire,SLE1,Emergent,S702,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-07 19:00:02-06:00,142,Brush or brush-and-grass mixture fire,SLE3,Non-Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-01-07 15:32:58-06:00,151,"Outside rubbish, trash or waste fire",SLL4,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-07 15:32:58-06:00,151,"Outside rubbish, trash or waste fire",SLB1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-07 15:32:58-06:00,151,"Outside rubbish, trash or waste fire",SLE1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-10 12:34:36-06:00,141,"Forest, woods or wildland fire",SLE3,Non-Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-01-13 15:58:40-06:00,143,Grass fire,SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLE5,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLE6,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLE7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLB1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLL4,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLM2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLE1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-15 19:22:44-06:00,116,"Fuel burner/boiler malfunction, fire confined",SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-17 15:53:34-06:00,141,"Forest, woods or wildland fire",SLE3,Non-Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-01-19 18:25:37-06:00,111,Building fire,SLL2,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-01-19 18:25:37-06:00,111,Building fire,SLE7,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-01-19 18:25:37-06:00,111,Building fire,SLB1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-01-19 18:25:37-06:00,111,Building fire,SLE5,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-01-19 18:25:37-06:00,111,Building fire,SLE6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-01-19 18:25:37-06:00,111,Building fire,SLM6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-01-19 18:25:37-06:00,111,Building fire,SLL4,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-01-19 18:25:37-06:00,111,Building fire,RE42,,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-01-21 08:00:43-06:00,141,"Forest, woods or wildland fire",SLE3,Non-Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLB1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLE6,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLE5,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLE3,Emergent Downgraded to Non-Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLE7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLM4,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLL4,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-21 09:17:57-06:00,111,Building fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-23 00:06:19-06:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-01-23 00:06:19-06:00,111,Building fire,SLL2,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-01-23 00:50:15-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLE5,Non-Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-01-23 00:50:15-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLOPS1,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-01-23 00:50:15-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLE7,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-01-23 00:50:15-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLL4,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-01-23 00:50:15-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLM7,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-01-23 00:50:15-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLB1,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-01-23 00:50:15-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLL2,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLE1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLL2,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLL4,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLM1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLB1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLE3,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLOPS1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLE7,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-24 15:02:27-06:00,111,Building fire,SLM2,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-01-25 18:38:20-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLL4,Non-Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-01-26 04:35:23-06:00,160,"Special outside fire, other",SLB1,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-26 04:35:23-06:00,160,"Special outside fire, other",SLL4,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-26 04:35:23-06:00,160,"Special outside fire, other",SLM2,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-26 04:35:23-06:00,160,"Special outside fire, other",SLOPS1,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-26 04:35:23-06:00,160,"Special outside fire, other",SLE1,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-26 04:35:23-06:00,160,"Special outside fire, other",SLE7,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-26 04:35:23-06:00,160,"Special outside fire, other",SLL2,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-26 04:35:23-06:00,160,"Special outside fire, other",SLM1,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-01-26 16:10:41-06:00,131,Passenger vehicle fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-26 16:10:41-06:00,131,Passenger vehicle fire,SLOPS1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-26 16:10:41-06:00,131,Passenger vehicle fire,SLE7,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-26 16:10:41-06:00,131,Passenger vehicle fire,SLB1,Non-Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,SLB1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,SLE7,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,SLL4,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,SLM2,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,SLOPS1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,SLL2,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,SLE1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,SLM1,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-27 08:20:26-06:00,111,Building fire,FD01,Emergent,S103,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-01-28 04:44:42-06:00,131,Passenger vehicle fire,SLE3,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-28 04:44:42-06:00,131,Passenger vehicle fire,SLL2,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-01-28 04:44:42-06:00,131,Passenger vehicle fire,SLM1,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-02-04 17:33:58-06:00,162,Outside equipment fire,SLOPS1,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-02-04 17:33:58-06:00,162,Outside equipment fire,SLM7,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-02-04 17:33:58-06:00,162,Outside equipment fire,SLL4,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-02-04 17:33:58-06:00,162,Outside equipment fire,SLE7,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-02-04 17:33:58-06:00,162,Outside equipment fire,SLE3,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-02-04 17:33:58-06:00,162,Outside equipment fire,SLE5,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-02-04 17:33:58-06:00,162,Outside equipment fire,SLB1,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-02-05 17:28:56-06:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-02-05 17:28:56-06:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-02-05 15:45:59-06:00,151,"Outside rubbish, trash or waste fire",SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-02-09 17:58:40-06:00,130,"Mobile property (vehicle) fire, other",SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-02-12 11:30:33-06:00,113,"Cooking fire, confined to container",SLE5,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-02-12 11:30:33-06:00,113,"Cooking fire, confined to container",SLE3,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-02-12 11:30:33-06:00,113,"Cooking fire, confined to container",SLB1,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-02-12 11:30:33-06:00,113,"Cooking fire, confined to container",SLL2,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-02-12 11:30:33-06:00,113,"Cooking fire, confined to container",SLE7,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-02-12 11:30:33-06:00,113,"Cooking fire, confined to container",SLM2,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-02-12 11:30:33-06:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-02-14 17:58:46-06:00,141,"Forest, woods or wildland fire",SLE5,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,C Shift
+2023-02-17 18:26:54-06:00,111,Building fire,SLL4,Emergent,S3S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-02-17 18:26:54-06:00,111,Building fire,SLE5,Emergent,S3S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-02-17 18:26:54-06:00,111,Building fire,SLB1,Emergent,S3S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-02-17 18:26:54-06:00,111,Building fire,SLM4,Non-Emergent,S3S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLE6,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLL4,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLM7,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLB1,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLE5,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLE1,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLOPS1,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLM6,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,SLE7,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-17 20:18:32-06:00,111,Building fire,FD03,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-18 14:43:52-06:00,130,"Mobile property (vehicle) fire, other",SLE7,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-18 14:43:52-06:00,130,"Mobile property (vehicle) fire, other",SLOPS1,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-02-21 07:07:47-06:00,111,Building fire,SLE6,Emergent,ROSENBERG,Sugar Land Fire Station 6,ROSENBERG,A Shift
+2023-02-21 07:07:47-06:00,111,Building fire,SLOPS1,Emergent,ROSENBERG,Sugar Land Fire Station 6,ROSENBERG,A Shift
+2023-03-01 15:54:39-06:00,111,Building fire,SLL2,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,B Shift
+2023-03-01 15:54:39-06:00,111,Building fire,SLB1,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,B Shift
+2023-03-01 15:54:39-06:00,111,Building fire,SLE6,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,B Shift
+2023-03-01 15:54:39-06:00,111,Building fire,FD03,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,B Shift
+2023-03-01 15:54:39-06:00,111,Building fire,FD02,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,B Shift
+2023-03-03 15:06:20-06:00,131,Passenger vehicle fire,SLE3,Emergent,S3M2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-03-03 15:06:20-06:00,131,Passenger vehicle fire,SLL2,Emergent,S3M2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-03-05 11:03:45-06:00,154,Dumpster or other outside trash receptacle fire,SLE7,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-05 13:32:06-06:00,131,Passenger vehicle fire,SLL2,Emergent,S202,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-05 14:21:37-06:00,143,Grass fire,SLE7,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-05 14:54:19-06:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-03-05 14:54:19-06:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-03-05 14:54:19-06:00,111,Building fire,SLOPS1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLB1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLE3,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLL2,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLL4,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLM4,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLM1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 18:23:55-06:00,113,"Cooking fire, confined to container",SLE7,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,SLB1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,SLE3,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,SLM7,Non-Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,SLE7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,SLE1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,FD02,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-06 13:13:55-06:00,111,Building fire,SLB2,Non-Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-07 20:27:42-06:00,111,Building fire,SLL2,Emergent,PECAN GROVE,Sugar Land Fire Station 2,FORT BEND COUNTY,B Shift
+2023-03-07 20:27:42-06:00,111,Building fire,FD03,Emergent,PECAN GROVE,Sugar Land Fire Station 2,FORT BEND COUNTY,B Shift
+2023-03-07 20:27:42-06:00,111,Building fire,SLB1,Emergent,PECAN GROVE,Sugar Land Fire Station 2,FORT BEND COUNTY,B Shift
+2023-03-07 17:35:52-06:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-03-07 17:35:52-06:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-03-07 10:15:51-06:00,141,"Forest, woods or wildland fire",SLE6,Non-Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-03-07 10:15:51-06:00,141,"Forest, woods or wildland fire",SLE5,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-03-09 18:39:23-06:00,118,"Trash or rubbish fire, contained",SLOPS1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2023-03-09 18:39:23-06:00,118,"Trash or rubbish fire, contained",SLE5,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2023-03-09 18:39:23-06:00,118,"Trash or rubbish fire, contained",SLL4,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2023-03-09 18:39:23-06:00,118,"Trash or rubbish fire, contained",SLM4,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2023-03-09 18:39:23-06:00,118,"Trash or rubbish fire, contained",SLE7,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2023-03-09 18:39:23-06:00,118,"Trash or rubbish fire, contained",SLB1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2023-03-09 18:39:23-06:00,118,"Trash or rubbish fire, contained",SLE6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2023-03-09 22:15:07-06:00,111,Building fire,SLOPS1,Emergent,STAFFORD,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2023-03-09 22:15:07-06:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2023-03-09 22:15:07-06:00,111,Building fire,SLE3,Emergent,STAFFORD,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2023-03-11 14:44:06-06:00,143,Grass fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-12 16:30:20-06:00,151,"Outside rubbish, trash or waste fire",SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-12 18:41:53-06:00,140,"Natural vegetation fire, other",SLB1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-12 18:41:53-06:00,140,"Natural vegetation fire, other",SLE5,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-12 18:41:53-06:00,140,"Natural vegetation fire, other",SLL4,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-12 18:41:53-06:00,140,"Natural vegetation fire, other",SLM1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-12 18:41:53-06:00,140,"Natural vegetation fire, other",SLOPS1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-12 18:41:53-06:00,140,"Natural vegetation fire, other",SLE1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-12 18:41:53-06:00,140,"Natural vegetation fire, other",SLE7,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-03-13 19:33:56-05:00,141,"Forest, woods or wildland fire",SLE5,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-03-13 19:33:56-05:00,141,"Forest, woods or wildland fire",SLB1,Non-Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-03-13 19:33:56-05:00,141,"Forest, woods or wildland fire",SLE6,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-03-14 13:46:27-05:00,140,"Natural vegetation fire, other",SLL4,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-03-15 17:20:04-05:00,140,"Natural vegetation fire, other",SLE3,Non-Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-03-16 18:20:21-05:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-03-16 18:20:21-05:00,113,"Cooking fire, confined to container",SLE5,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-03-16 18:20:21-05:00,113,"Cooking fire, confined to container",SLL4,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-03-16 18:20:21-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-03-16 18:20:21-05:00,113,"Cooking fire, confined to container",SLE7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-03-16 18:20:21-05:00,113,"Cooking fire, confined to container",SLM6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-03-16 18:20:21-05:00,113,"Cooking fire, confined to container",SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-03-21 11:33:01-05:00,111,Building fire,SLB1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-03-21 11:33:01-05:00,111,Building fire,SLE7,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-03-21 11:33:01-05:00,111,Building fire,SLE5,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-03-21 11:33:01-05:00,111,Building fire,SLOPS1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-03-21 11:33:01-05:00,111,Building fire,SLM2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-03-21 11:33:01-05:00,111,Building fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-03-21 11:33:01-05:00,111,Building fire,SLL4,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-03-23 18:50:07-05:00,112,Fires in structure other than in a building,SLB1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-23 18:50:07-05:00,112,Fires in structure other than in a building,SLE7,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-23 18:50:07-05:00,112,Fires in structure other than in a building,SLL2,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-23 18:50:07-05:00,112,Fires in structure other than in a building,SLL4,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-23 18:50:07-05:00,112,Fires in structure other than in a building,SLM1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-23 18:50:07-05:00,112,Fires in structure other than in a building,SLOPS1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-23 18:50:07-05:00,112,Fires in structure other than in a building,SLE1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLE5,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLE6,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLM7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLM6,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLM4,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLE7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLB1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLE1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLE3,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-23 21:18:52-05:00,111,Building fire,SLM2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-25 08:39:33-05:00,111,Building fire,SLB1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-03-25 08:39:33-05:00,111,Building fire,SLE3,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-03-25 08:39:33-05:00,111,Building fire,SLL4,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-03-25 08:39:33-05:00,111,Building fire,SLM2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-03-25 08:39:33-05:00,111,Building fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-03-25 08:39:33-05:00,111,Building fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-03-25 08:39:33-05:00,111,Building fire,SLE1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-03-30 14:07:29-05:00,132,Road freight or transport vehicle fire,SLE7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-30 14:07:29-05:00,132,Road freight or transport vehicle fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-30 14:07:29-05:00,132,Road freight or transport vehicle fire,SLE2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-03-30 04:53:47-05:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-03-30 04:53:47-05:00,111,Building fire,SLE2,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-03-30 04:53:47-05:00,111,Building fire,SLE3,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-03-30 04:53:47-05:00,111,Building fire,SLE5,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-04-01 18:57:51-05:00,111,Building fire,SLB1,Emergent,RICHMOND,Sugar Land Fire Station 6,RICHMOND,B Shift
+2023-04-01 18:57:51-05:00,111,Building fire,SLE6,Emergent,RICHMOND,Sugar Land Fire Station 6,RICHMOND,B Shift
+2023-04-01 13:03:59-05:00,143,Grass fire,SLE6,Non-Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-04-01 22:15:55-05:00,111,Building fire,SLOPS1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2023-04-01 22:15:55-05:00,111,Building fire,SLE3,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2023-04-01 22:15:55-05:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2023-04-01 22:15:55-05:00,111,Building fire,SLE2,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2023-04-02 20:05:38-05:00,150,"Outside rubbish fire, other",SLE1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-04-02 20:05:38-05:00,150,"Outside rubbish fire, other",SLE2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-04-08 17:53:39-05:00,131,Passenger vehicle fire,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-04-10 18:01:48-05:00,151,"Outside rubbish, trash or waste fire",SLL2,Non-Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-04-12 01:39:48-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-04-12 01:39:48-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-04-14 06:02:26-05:00,162,Outside equipment fire,SLL4,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLE5,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLL2,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLB1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLE1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLL4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLM1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLM4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,FD02,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,FD03,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 23:07:46-05:00,111,Building fire,SLE7,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-04-16 16:33:53-05:00,141,"Forest, woods or wildland fire",SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-04-19 17:38:17-05:00,143,Grass fire,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-04-21 18:53:15-05:00,118,"Trash or rubbish fire, contained",SLE5,Emergent,S502,Sugar Land Fire Station 5,ETJ AREA,C Shift
+2023-04-23 22:46:02-05:00,151,"Outside rubbish, trash or waste fire",SLL2,Non-Emergent,S202,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-04-27 13:02:18-05:00,131,Passenger vehicle fire,SLM2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-04-27 13:02:18-05:00,131,Passenger vehicle fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-04-30 21:40:45-05:00,160,"Special outside fire, other",SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-05-01 12:36:33-05:00,143,Grass fire,SLE6,Non-Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+,111,Building fire,SLB4,,,,,
+,111,Building fire,SLM3,,,,,
+2023-05-03 09:05:01-05:00,111,Building fire,SLE7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLE3,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLM7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLL2,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLOPS1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLL4,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLM1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLE5,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,SLB1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-03 09:05:01-05:00,111,Building fire,FD02,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-05-06 05:52:13-05:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-05-06 05:52:13-05:00,111,Building fire,SLL2,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-05-06 05:52:13-05:00,111,Building fire,SLFM57,Non-Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-05-08 19:28:19-05:00,162,Outside equipment fire,SLB1,Emergent,S104,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-05-08 19:28:19-05:00,162,Outside equipment fire,SLE7,Emergent,S104,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-05-08 19:28:19-05:00,162,Outside equipment fire,SLOPS1,Emergent,S104,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-05-08 19:28:19-05:00,162,Outside equipment fire,SLM1,Emergent,S104,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-05-08 19:28:19-05:00,162,Outside equipment fire,SLL2,Emergent,S104,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-05-08 19:28:19-05:00,162,Outside equipment fire,SLE1,Emergent,S104,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-05-08 19:28:19-05:00,162,Outside equipment fire,SLL4,Emergent,S104,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-05-08 19:28:19-05:00,162,Outside equipment fire,SLM4,Emergent,S104,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-05-09 11:16:43-05:00,111,Building fire,SLOPS1,Emergent,NORTHEAST,Sugar Land Fire Station 1,HOUSTON,C Shift
+2023-05-09 11:16:43-05:00,111,Building fire,SLL2,Emergent,NORTHEAST,Sugar Land Fire Station 1,HOUSTON,C Shift
+2023-05-10 07:44:32-05:00,111,Building fire,SLL4,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-05-10 07:44:32-05:00,111,Building fire,SLE7,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-05-10 07:44:32-05:00,111,Building fire,SLE1,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-05-10 07:44:32-05:00,111,Building fire,SLOPS1,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-05-10 07:44:32-05:00,111,Building fire,SLM7,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-05-10 07:44:32-05:00,111,Building fire,SLB1,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-05-10 07:44:32-05:00,111,Building fire,SLE5,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-05-10 20:01:17-05:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-05-10 20:01:17-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-05-10 20:01:17-05:00,113,"Cooking fire, confined to container",SLE1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-05-10 20:01:17-05:00,113,"Cooking fire, confined to container",SLE7,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-05-10 20:01:17-05:00,113,"Cooking fire, confined to container",SLL4,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-05-10 20:01:17-05:00,113,"Cooking fire, confined to container",SLM4,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-05-10 20:01:17-05:00,113,"Cooking fire, confined to container",SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-05-13 08:39:43-05:00,111,Building fire,SLOPS1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-05-13 08:39:43-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-05-13 08:39:43-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-05-20 12:56:20-05:00,131,Passenger vehicle fire,SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-05-20 12:56:20-05:00,131,Passenger vehicle fire,SLL2,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-05-20 23:11:40-05:00,112,Fires in structure other than in a building,SLB1,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2023-05-20 23:11:40-05:00,112,Fires in structure other than in a building,SLL2,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2023-05-25 18:09:37-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,STAFFORD,Sugar Land Fire Station 3,STAFFORD,B Shift
+2023-05-25 18:09:37-05:00,113,"Cooking fire, confined to container",SLE3,Emergent,STAFFORD,Sugar Land Fire Station 3,STAFFORD,B Shift
+2023-05-25 20:39:58-05:00,113,"Cooking fire, confined to container",SLE7,Non-Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-05-27 18:18:30-05:00,142,Brush or brush-and-grass mixture fire,SLL4,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-05-30 14:37:04-05:00,131,Passenger vehicle fire,SLE7,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-06-01 08:38:24-05:00,132,Road freight or transport vehicle fire,SLL2,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-06-01 08:38:24-05:00,132,Road freight or transport vehicle fire,SLL4,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-06-05 15:21:57-05:00,111,Building fire,SLL4,Emergent,MISSOURI CITY,Sugar Land Fire Station 4,MISSOURI CITY,B Shift
+2023-06-05 15:21:57-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 4,MISSOURI CITY,B Shift
+2023-06-05 15:21:57-05:00,111,Building fire,SLE3,Non-Emergent,MISSOURI CITY,Sugar Land Fire Station 4,MISSOURI CITY,B Shift
+2023-06-07 22:48:04-05:00,131,Passenger vehicle fire,SLE1,Emergent,S104,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-06-08 18:54:07-05:00,111,Building fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-06-11 14:45:13-05:00,113,"Cooking fire, confined to container",SLE7,Non-Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-06-11 12:51:55-05:00,131,Passenger vehicle fire,SLE1,Emergent,S711,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-06-11 12:51:55-05:00,131,Passenger vehicle fire,SLE7,Emergent,S711,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-06-11 12:51:55-05:00,131,Passenger vehicle fire,SLE6,Emergent,S711,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-06-11 12:51:55-05:00,131,Passenger vehicle fire,SLB1,Emergent,S711,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-06-15 15:52:50-05:00,162,Outside equipment fire,SLB1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-06-15 15:52:50-05:00,162,Outside equipment fire,SLE1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-06-15 15:52:50-05:00,162,Outside equipment fire,SLE7,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-06-15 15:52:50-05:00,162,Outside equipment fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-06-15 15:52:50-05:00,162,Outside equipment fire,SLL4,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-06-15 15:52:50-05:00,162,Outside equipment fire,SLM2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-06-15 15:52:50-05:00,162,Outside equipment fire,FD03,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-06-15 15:52:50-05:00,162,Outside equipment fire,SLOPS1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-06-16 23:25:14-05:00,154,Dumpster or other outside trash receptacle fire,SLL4,Emergent,S3S2,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLB1,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLL4,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLE7,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLE1,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLOPS1,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLM7,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLE5,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLL2,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLM4,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLE3,Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,FD03,Non-Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-17 21:14:39-05:00,111,Building fire,SLFM57,Non-Emergent,S3S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLE1,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLB1,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLE3,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLOPS1,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLL4,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLM1,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLE7,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLL2,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLE6,Non-Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-18 13:54:02-05:00,111,Building fire,SLM4,Emergent,S102,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-06-19 15:05:32-05:00,154,Dumpster or other outside trash receptacle fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-06-21 17:42:45-05:00,143,Grass fire,SLE5,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-06-21 21:30:57-05:00,111,Building fire,SLB1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-06-21 21:30:57-05:00,111,Building fire,SLE1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-06-21 21:30:57-05:00,111,Building fire,SLOPS1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-06-21 21:30:57-05:00,111,Building fire,SLL2,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-06-21 21:30:57-05:00,111,Building fire,SLL4,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-06-21 21:30:57-05:00,111,Building fire,SLM4,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-06-21 21:30:57-05:00,111,Building fire,SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-06-21 21:30:57-05:00,111,Building fire,FD03,Non-Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-06-29 13:12:41-05:00,131,Passenger vehicle fire,SLE6,Emergent,S601,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-06-29 13:12:41-05:00,131,Passenger vehicle fire,SLOPS1,Emergent,S601,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-06-29 13:12:41-05:00,131,Passenger vehicle fire,SLE5,Emergent,S601,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-06-30 18:36:15-05:00,162,Outside equipment fire,SLE7,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-06-30 18:36:15-05:00,162,Outside equipment fire,SLFM56,Non-Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-07-01 16:34:02-05:00,142,Brush or brush-and-grass mixture fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-07-01 16:34:02-05:00,142,Brush or brush-and-grass mixture fire,SLB1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-07-01 16:34:02-05:00,142,Brush or brush-and-grass mixture fire,SLE7,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-07-01 16:34:02-05:00,142,Brush or brush-and-grass mixture fire,SLL4,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-07-01 16:34:02-05:00,142,Brush or brush-and-grass mixture fire,SLOPS1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-07-01 16:34:02-05:00,142,Brush or brush-and-grass mixture fire,SLM2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-07-01 16:34:02-05:00,142,Brush or brush-and-grass mixture fire,SLE1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-07-04 22:39:06-05:00,160,"Special outside fire, other",FD01,Emergent,S706,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-07-04 22:39:06-05:00,160,"Special outside fire, other",SLE5,Emergent,S706,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-07-04 22:39:06-05:00,160,"Special outside fire, other",SLL4,Emergent,S706,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-07-04 22:39:06-05:00,160,"Special outside fire, other",SLM1,Emergent,S706,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-07-04 22:39:06-05:00,160,"Special outside fire, other",SLOPS1,Emergent,S706,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-07-04 22:39:06-05:00,160,"Special outside fire, other",SLB1,Emergent,S706,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-07-04 22:39:06-05:00,160,"Special outside fire, other",SLE1,Emergent,S706,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-07-04 22:39:06-05:00,160,"Special outside fire, other",SLE7,Emergent,S706,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-07-04 17:05:45-05:00,131,Passenger vehicle fire,SLL2,Emergent,S202,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-07-04 17:05:45-05:00,131,Passenger vehicle fire,SLE3,Emergent,S202,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-07-05 01:49:26-05:00,154,Dumpster or other outside trash receptacle fire,SLE1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-07-11 19:54:17-05:00,131,Passenger vehicle fire,SLE1,Emergent,S3S2,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-07-11 19:54:17-05:00,131,Passenger vehicle fire,SLL4,Emergent,S3S2,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-07-18 15:21:55-05:00,111,Building fire,SLE3,Emergent,S3M1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-07-18 16:43:24-05:00,143,Grass fire,SLE7,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-07-19 20:53:23-05:00,151,"Outside rubbish, trash or waste fire",SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-07-21 19:29:43-05:00,131,Passenger vehicle fire,SLL4,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-07-21 19:29:43-05:00,131,Passenger vehicle fire,SLM4,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-07-23 00:13:27-05:00,131,Passenger vehicle fire,SLE7,Emergent,S706,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-07-23 13:53:53-05:00,111,Building fire,SLE1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-07-23 13:53:53-05:00,111,Building fire,SLOPS1,Emergent Downgraded to Non-Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-07-23 13:53:53-05:00,111,Building fire,SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-07-23 13:53:53-05:00,111,Building fire,SLL4,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-07-23 13:53:53-05:00,111,Building fire,SLL2,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-07-23 13:53:53-05:00,111,Building fire,SLB1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-07-23 13:53:53-05:00,111,Building fire,SLM6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-07-23 13:53:53-05:00,111,Building fire,SLM7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-07-27 10:14:07-05:00,131,Passenger vehicle fire,SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-07-29 16:08:53-05:00,111,Building fire,SLB1,Emergent,NEEDVILLE,Sugar Land Fire Station 6,FORT BEND COUNTY,B Shift
+2023-07-29 16:08:53-05:00,111,Building fire,SLE6,Emergent,NEEDVILLE,Sugar Land Fire Station 6,FORT BEND COUNTY,B Shift
+2023-08-04 10:31:28-05:00,111,Building fire,SLOPS1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2023-08-04 10:31:28-05:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2023-08-04 10:31:28-05:00,111,Building fire,SLL2,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2023-08-04 18:49:50-05:00,151,"Outside rubbish, trash or waste fire",SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-04 18:49:50-05:00,151,"Outside rubbish, trash or waste fire",SLM4,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-04 18:49:50-05:00,151,"Outside rubbish, trash or waste fire",SLM7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-04 18:49:50-05:00,151,"Outside rubbish, trash or waste fire",SLB1,Non-Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-04 18:49:50-05:00,151,"Outside rubbish, trash or waste fire",SLFM59,Non-Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-08 15:30:59-05:00,132,Road freight or transport vehicle fire,SLE6,Emergent,S206,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-08 15:30:59-05:00,132,Road freight or transport vehicle fire,SLE7,Emergent,S206,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-09 12:22:04-05:00,140,"Natural vegetation fire, other",SLE7,Non-Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,A Shift
+2023-08-09 18:49:36-05:00,160,"Special outside fire, other",SLE5,Non-Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,A Shift
+2023-08-09 19:08:31-05:00,140,"Natural vegetation fire, other",SLE7,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-08-10 15:25:45-05:00,142,Brush or brush-and-grass mixture fire,SLE5,Emergent,S703,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,FD02,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLSQD1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLL2,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLOPS1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLB1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLE5,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLE1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLM6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLE7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLE3,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,FD03,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-10 11:22:30-05:00,111,Building fire,SLFM58,Non-Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-11 14:50:24-05:00,143,Grass fire,SLB1,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-08-11 14:50:24-05:00,143,Grass fire,SLE5,Emergent,S501,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-08-12 16:53:21-05:00,143,Grass fire,SLL4,Non-Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-08-14 20:35:48-05:00,142,Brush or brush-and-grass mixture fire,SLE6,Emergent,S706,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-14 20:35:48-05:00,142,Brush or brush-and-grass mixture fire,SLE5,Emergent,S706,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-14 20:35:48-05:00,142,Brush or brush-and-grass mixture fire,SLE3,Emergent,S706,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-14 20:35:48-05:00,142,Brush or brush-and-grass mixture fire,SLL4,Emergent,S706,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-14 20:35:48-05:00,142,Brush or brush-and-grass mixture fire,SLM4,Emergent,S706,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-14 20:35:48-05:00,142,Brush or brush-and-grass mixture fire,SLB1,Emergent,S706,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-14 20:35:48-05:00,142,Brush or brush-and-grass mixture fire,SLE1,Emergent,S706,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-14 20:35:48-05:00,142,Brush or brush-and-grass mixture fire,SLOPS1,Emergent,S706,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-16 13:48:22-05:00,143,Grass fire,SLE6,Emergent,S701,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-16 13:48:22-05:00,143,Grass fire,SLE1,Emergent,S701,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-08-16 22:40:36-05:00,111,Building fire,SLE1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-08-18 14:29:14-05:00,143,Grass fire,SLOPS1,Emergent,S503,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-08-18 14:29:14-05:00,143,Grass fire,SLL4,Emergent,S503,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-08-18 14:29:14-05:00,143,Grass fire,SLE7,Emergent,S503,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-08-18 13:49:49-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2023-08-18 13:49:49-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2023-08-18 13:49:49-05:00,111,Building fire,SLE5,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2023-08-18 13:49:49-05:00,111,Building fire,SLE7,Non-Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2023-08-18 13:49:49-05:00,111,Building fire,SLL4,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2023-08-19 14:47:53-05:00,140,"Natural vegetation fire, other",SLE3,Emergent,S3M2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-08-20 07:27:49-05:00,143,Grass fire,SLE3,Emergent,S3M1,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-08-24 16:36:49-05:00,131,Passenger vehicle fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-08-24 19:09:49-05:00,142,Brush or brush-and-grass mixture fire,SLE1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-08-27 08:08:09-05:00,142,Brush or brush-and-grass mixture fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-08-27 12:01:09-05:00,111,Building fire,SLL2,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-27 12:01:09-05:00,111,Building fire,SLM6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-27 12:01:09-05:00,111,Building fire,SLOPS1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-27 12:01:09-05:00,111,Building fire,SLB1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-27 12:01:09-05:00,111,Building fire,SLE1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-27 12:01:09-05:00,111,Building fire,SLL4,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-27 12:01:09-05:00,111,Building fire,SLM7,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-27 12:01:09-05:00,111,Building fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-08-29 18:16:47-05:00,154,Dumpster or other outside trash receptacle fire,SLE5,Emergent,S502,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2023-08-30 18:49:05-05:00,151,"Outside rubbish, trash or waste fire",SLE7,Emergent,S605,Sugar Land Fire Station 7,ETJ AREA,C Shift
+2023-08-31 13:54:25-05:00,143,Grass fire,SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-08-31 13:54:25-05:00,143,Grass fire,SLE5,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-08-31 13:54:25-05:00,143,Grass fire,SLE7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-08-31 09:12:41-05:00,112,Fires in structure other than in a building,SLB1,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2023-08-31 09:12:41-05:00,112,Fires in structure other than in a building,SLE1,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2023-08-31 09:12:41-05:00,112,Fires in structure other than in a building,SLL4,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2023-08-31 09:12:41-05:00,112,Fires in structure other than in a building,SLE2,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2023-09-01 13:09:15-05:00,143,Grass fire,SLL4,Emergent,S1S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-09-01 15:33:27-05:00,140,"Natural vegetation fire, other",SLL4,Emergent,S1S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-09-01 03:28:06-05:00,132,Road freight or transport vehicle fire,SLE1,Emergent,S206,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-09-01 03:28:06-05:00,132,Road freight or transport vehicle fire,SLL4,Emergent,S206,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-09-01 03:28:06-05:00,132,Road freight or transport vehicle fire,SLOPS1,Emergent,S206,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-09-01 03:28:06-05:00,132,Road freight or transport vehicle fire,SLE7,Non-Emergent,S206,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-09-02 07:11:08-05:00,140,"Natural vegetation fire, other",SLE7,Emergent,S101,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-09-07 19:57:58-05:00,151,"Outside rubbish, trash or waste fire",SLE6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-09-08 16:03:22-05:00,143,Grass fire,SLE7,Emergent,RICHMOND,Sugar Land Fire Station 7,ETJ AREA,A Shift
+2023-09-08 16:03:22-05:00,143,Grass fire,SLE6,Emergent,RICHMOND,Sugar Land Fire Station 7,ETJ AREA,A Shift
+2023-09-09 11:14:50-05:00,143,Grass fire,SLB1,Emergent,NEEDVILLE,Sugar Land Fire Station 5,FORT BEND COUNTY,B Shift
+2023-09-09 11:14:50-05:00,143,Grass fire,SLE7,Emergent,NEEDVILLE,Sugar Land Fire Station 5,FORT BEND COUNTY,B Shift
+2023-09-09 15:44:46-05:00,118,"Trash or rubbish fire, contained",SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-09-09 14:44:52-05:00,131,Passenger vehicle fire,SLE7,Emergent,S101,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-09-09 14:44:52-05:00,131,Passenger vehicle fire,SLE1,Emergent,S101,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-09-11 18:07:23-05:00,142,Brush or brush-and-grass mixture fire,SLE3,Emergent Downgraded to Non-Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-13 19:24:47-05:00,150,"Outside rubbish fire, other",SLB1,Emergent,S502,Sugar Land Fire Station 5,ETJ AREA,A Shift
+2023-09-13 19:24:47-05:00,150,"Outside rubbish fire, other",SLE5,Emergent,S502,Sugar Land Fire Station 5,ETJ AREA,A Shift
+2023-09-13 19:24:47-05:00,150,"Outside rubbish fire, other",SLE3,Non-Emergent,S502,Sugar Land Fire Station 5,ETJ AREA,A Shift
+2023-09-18 09:54:25-05:00,111,Building fire,SLE7,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-18 09:54:25-05:00,111,Building fire,SLE6,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-18 09:54:25-05:00,111,Building fire,SLB1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-18 09:54:25-05:00,111,Building fire,SLOPS1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-18 09:54:25-05:00,111,Building fire,SLL2,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-18 09:54:25-05:00,111,Building fire,SLM1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-18 09:54:25-05:00,111,Building fire,SLE1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-18 09:54:25-05:00,111,Building fire,SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-09-19 11:24:06-05:00,131,Passenger vehicle fire,SLE6,Emergent,S607,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-09-20 19:36:50-05:00,111,Building fire,SLB1,Emergent,NORTHEAST,Sugar Land Fire Station 7,FORT BEND COUNTY,A Shift
+2023-09-20 19:36:50-05:00,111,Building fire,SLE7,Emergent,NORTHEAST,Sugar Land Fire Station 7,FORT BEND COUNTY,A Shift
+2023-09-22 08:16:14-05:00,160,"Special outside fire, other",SLE5,Emergent,S702,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2023-09-23 11:20:11-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,Stafford,C Shift
+2023-09-23 11:20:11-05:00,113,"Cooking fire, confined to container",SLL2,Emergent,STAFFORD,Sugar Land Fire Station 2,Stafford,C Shift
+2023-09-23 06:04:43-05:00,131,Passenger vehicle fire,SLE6,Emergent,S604,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-09-25 22:01:48-05:00,131,Passenger vehicle fire,SLL2,Emergent,S202,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-09-29 06:02:38-05:00,140,"Natural vegetation fire, other",SLE7,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2023-09-30 17:09:36-05:00,142,Brush or brush-and-grass mixture fire,SLE7,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-01 21:08:03-05:00,111,Building fire,SLE1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-10-01 21:08:03-05:00,111,Building fire,SLE5,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-10-01 21:08:03-05:00,111,Building fire,SLOPS1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-10-01 21:08:03-05:00,111,Building fire,SLB1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-10-01 21:08:03-05:00,111,Building fire,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-10-01 21:08:03-05:00,111,Building fire,SLL4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-10-01 21:08:03-05:00,111,Building fire,SLM4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-10-01 21:08:03-05:00,111,Building fire,SLB2,Non-Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-10-03 13:34:49-05:00,111,Building fire,SLE5,Emergent,MISSOURI CITY,Sugar Land Fire Station 5,MISSOURI CITY,B Shift
+2023-10-03 11:43:43-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-10-03 11:43:43-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-10-03 11:43:43-05:00,111,Building fire,SLE5,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-10-06 12:28:11-05:00,113,"Cooking fire, confined to container",SLL2,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-06 12:28:11-05:00,113,"Cooking fire, confined to container",SLM1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-06 12:28:11-05:00,113,"Cooking fire, confined to container",SLL4,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-06 12:28:11-05:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-06 12:28:11-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-06 12:28:11-05:00,113,"Cooking fire, confined to container",SLE1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-06 12:28:11-05:00,113,"Cooking fire, confined to container",SLE7,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-07 16:26:12-05:00,111,Building fire,SLB1,Non-Emergent Upgraded to Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-10-07 16:26:12-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-10-07 07:08:10-05:00,111,Building fire,SLOPS1,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,A Shift
+2023-10-07 07:08:10-05:00,111,Building fire,SLB1,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,A Shift
+2023-10-07 07:08:10-05:00,111,Building fire,SLL2,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,A Shift
+2023-10-08 11:58:51-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-10-08 11:58:51-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,A Shift
+2023-10-08 19:01:23-05:00,131,Passenger vehicle fire,SLE1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-10-08 19:01:23-05:00,131,Passenger vehicle fire,SLL2,Non-Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-10-09 13:46:32-05:00,111,Building fire,SLB1,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,B Shift
+2023-10-09 13:46:32-05:00,111,Building fire,SLL2,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,B Shift
+2023-10-09 13:46:32-05:00,111,Building fire,SLOPS1,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,B Shift
+2023-10-14 20:43:15-05:00,111,Building fire,SLE5,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-10-14 20:43:15-05:00,111,Building fire,SLE1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-10-14 20:43:15-05:00,111,Building fire,SLL4,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-10-14 20:43:15-05:00,111,Building fire,SLB1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-10-14 20:43:15-05:00,111,Building fire,SLE6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-10-14 20:43:15-05:00,111,Building fire,SLM6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-10-14 20:43:15-05:00,111,Building fire,SLOPS1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-10-14 20:43:15-05:00,111,Building fire,SLE7,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2023-10-15 11:44:07-05:00,142,Brush or brush-and-grass mixture fire,SLE6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2023-10-16 19:41:50-05:00,162,Outside equipment fire,SLM1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-10-16 19:41:50-05:00,162,Outside equipment fire,SLE5,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-10-16 19:41:50-05:00,162,Outside equipment fire,SLB1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-10-16 19:41:50-05:00,162,Outside equipment fire,SLE1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-10-16 19:41:50-05:00,162,Outside equipment fire,SLL4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-10-16 19:41:50-05:00,162,Outside equipment fire,SLM4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-10-16 19:41:50-05:00,162,Outside equipment fire,SLOPS1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-10-16 19:41:50-05:00,162,Outside equipment fire,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2023-10-16 00:23:20-05:00,111,Building fire,SLOPS1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-10-16 00:23:20-05:00,111,Building fire,SLL4,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-10-16 00:23:20-05:00,111,Building fire,SLB1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-10-16 00:23:20-05:00,111,Building fire,SLE5,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-10-16 00:23:20-05:00,111,Building fire,SLE7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-10-16 00:23:20-05:00,111,Building fire,SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-10-16 00:23:20-05:00,111,Building fire,SLM6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2023-10-20 06:08:41-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-10-20 06:08:41-05:00,113,"Cooking fire, confined to container",SLE1,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-10-20 06:08:41-05:00,113,"Cooking fire, confined to container",SLE7,Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-10-20 15:19:44-05:00,131,Passenger vehicle fire,SLB1,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-10-20 15:19:44-05:00,131,Passenger vehicle fire,SLE3,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-10-20 15:19:44-05:00,131,Passenger vehicle fire,SLL4,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-10-20 15:19:44-05:00,131,Passenger vehicle fire,SLM4,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-10-23 13:09:22-05:00,132,Road freight or transport vehicle fire,SLE6,Emergent,S206,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-23 13:09:22-05:00,132,Road freight or transport vehicle fire,SLE7,Emergent,S206,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-23 13:09:22-05:00,132,Road freight or transport vehicle fire,SLOPS1,Emergent,S206,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2023-10-24 11:41:34-05:00,143,Grass fire,SLE1,Emergent,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2023-10-25 08:36:09-05:00,140,"Natural vegetation fire, other",SLE7,Non-Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-10-25 19:46:52-05:00,111,Building fire,SLB1,Emergent,HOUSTON,Sugar Land Fire Station 2,HOUSTON,A Shift
+2023-10-25 19:46:52-05:00,111,Building fire,SLE1,Emergent,HOUSTON,Sugar Land Fire Station 2,HOUSTON,A Shift
+2023-10-25 19:46:52-05:00,111,Building fire,SLOPS1,Emergent,HOUSTON,Sugar Land Fire Station 2,HOUSTON,A Shift
+2023-10-25 19:46:52-05:00,111,Building fire,SLL2,Emergent,HOUSTON,Sugar Land Fire Station 2,HOUSTON,A Shift
+2023-10-29 02:42:16-05:00,131,Passenger vehicle fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-10-29 02:42:16-05:00,131,Passenger vehicle fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-10-29 02:42:16-05:00,131,Passenger vehicle fire,SLM2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLB1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLE3,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLL4,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLM1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLE7,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLE1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLOPS1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLM2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLE5,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 07:29:03-05:00,111,Building fire,SLFM58,Non-Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-01 12:43:42-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-11-01 12:43:42-05:00,113,"Cooking fire, confined to container",SLL4,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-11-01 12:43:42-05:00,113,"Cooking fire, confined to container",SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-11-07 15:44:37-06:00,131,Passenger vehicle fire,SLL2,Emergent,S3M2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2023-11-07 15:44:37-06:00,131,Passenger vehicle fire,SLE3,Emergent,S3M2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+,111,Building fire,SLE1,,S202,Sugar Land Fire Station 2,,A Shift
+,111,Building fire,SLL2,,S202,Sugar Land Fire Station 2,,A Shift
+,111,Building fire,SLE3,,S202,Sugar Land Fire Station 2,,A Shift
+,111,Building fire,SLL4,,S202,Sugar Land Fire Station 2,,A Shift
+,111,Building fire,SLM2,,S202,Sugar Land Fire Station 2,,A Shift
+,111,Building fire,SLE5,,S202,Sugar Land Fire Station 2,,A Shift
+2023-11-10 18:19:36-06:00,113,"Cooking fire, confined to container",SLE2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-11-10 18:19:36-06:00,113,"Cooking fire, confined to container",SLE7,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-11-10 18:19:36-06:00,113,"Cooking fire, confined to container",SLB1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-11-10 18:19:36-06:00,113,"Cooking fire, confined to container",SLE1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2023-11-17 10:32:28-06:00,131,Passenger vehicle fire,SLE1,Emergent,S609,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-11-17 10:32:28-06:00,131,Passenger vehicle fire,SLL4,Emergent,S609,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-11-18 16:36:46-06:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-11-18 16:36:46-06:00,111,Building fire,SLL2,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,A Shift
+2023-11-19 16:56:03-06:00,151,"Outside rubbish, trash or waste fire",SLE3,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 16:56:03-06:00,151,"Outside rubbish, trash or waste fire",SLE7,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 16:56:03-06:00,151,"Outside rubbish, trash or waste fire",SLOPS1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 16:56:03-06:00,151,"Outside rubbish, trash or waste fire",SLE1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 16:56:03-06:00,151,"Outside rubbish, trash or waste fire",SLB1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 16:56:03-06:00,151,"Outside rubbish, trash or waste fire",SLM2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 16:56:03-06:00,151,"Outside rubbish, trash or waste fire",SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 17:23:06-06:00,154,Dumpster or other outside trash receptacle fire,SLE1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-11-19 17:23:06-06:00,154,Dumpster or other outside trash receptacle fire,SLB1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-11-19 18:57:16-06:00,160,"Special outside fire, other",SLB1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 18:57:16-06:00,160,"Special outside fire, other",SLE3,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 18:57:16-06:00,160,"Special outside fire, other",SLL4,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 18:57:16-06:00,160,"Special outside fire, other",SLM1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 18:57:16-06:00,160,"Special outside fire, other",SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 18:57:16-06:00,160,"Special outside fire, other",SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-19 18:57:16-06:00,160,"Special outside fire, other",SLE1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2023-11-20 09:09:41-06:00,131,Passenger vehicle fire,SLB1,Emergent,S1S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-11-20 09:09:41-06:00,131,Passenger vehicle fire,SLL4,Emergent,S1S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-11-23 00:23:09-06:00,111,Building fire,SLB1,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,C Shift
+2023-11-23 00:23:09-06:00,111,Building fire,SLE1,Non-Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,C Shift
+2023-11-23 00:23:09-06:00,111,Building fire,SLE6,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,C Shift
+2023-11-29 04:31:21-06:00,111,Building fire,SLE7,Emergent,RICHMOND,Sugar Land Fire Station 7,RICHMOND,C Shift
+2023-11-29 04:31:21-06:00,111,Building fire,SLB1,Emergent,RICHMOND,Sugar Land Fire Station 7,RICHMOND,C Shift
+2023-11-30 15:54:38-06:00,162,Outside equipment fire,SLE6,Non-Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2023-12-01 22:14:07-06:00,131,Passenger vehicle fire,SLL4,Emergent,S609,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-12-01 22:14:07-06:00,131,Passenger vehicle fire,SLOPS1,Emergent,S609,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-12-01 22:14:07-06:00,131,Passenger vehicle fire,SLM4,Emergent,S609,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-12-01 22:14:07-06:00,131,Passenger vehicle fire,SLB1,Emergent,S609,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-12-01 22:14:07-06:00,131,Passenger vehicle fire,SLE1,Emergent,S609,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2023-12-03 15:12:19-06:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-12-03 15:12:19-06:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2023-12-05 15:49:17-06:00,112,Fires in structure other than in a building,SLB1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-05 15:49:17-06:00,112,Fires in structure other than in a building,SLE7,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-05 15:49:17-06:00,112,Fires in structure other than in a building,SLL2,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-05 15:49:17-06:00,112,Fires in structure other than in a building,SLM1,Non-Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-05 15:49:17-06:00,112,Fires in structure other than in a building,SLOPS1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-05 15:49:17-06:00,112,Fires in structure other than in a building,SLE1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-05 15:49:17-06:00,112,Fires in structure other than in a building,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-05 15:49:17-06:00,112,Fires in structure other than in a building,SLM7,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLM2,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLB1,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLE7,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLL4,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,FD02,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLE3,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLE6,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLL2,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLOPS1,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,FD03,Non-Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,SLFM57,Non-Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 14:21:24-06:00,111,Building fire,RE42,,S702,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2023-12-07 15:07:43-06:00,143,Grass fire,SLE5,Emergent,S203,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-12-07 15:07:43-06:00,143,Grass fire,SLM6,Emergent,S203,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLE3,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLM6,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLB1,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLE7,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLL2,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLL4,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLOPS1,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLM7,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLM4,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLE1,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,SLE5,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-15 09:18:17-06:00,111,Building fire,FD03,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2023-12-17 13:54:47-06:00,142,Brush or brush-and-grass mixture fire,SLL4,Non-Emergent,S3S2,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-12-19 17:45:29-06:00,142,Brush or brush-and-grass mixture fire,SLE1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2023-12-21 10:18:07-06:00,113,"Cooking fire, confined to container",SLL4,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-21 10:18:07-06:00,113,"Cooking fire, confined to container",SLB1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-21 10:18:07-06:00,113,"Cooking fire, confined to container",SLL2,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-21 10:18:07-06:00,113,"Cooking fire, confined to container",FD03,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-21 10:18:07-06:00,113,"Cooking fire, confined to container",SLM4,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-21 10:18:07-06:00,113,"Cooking fire, confined to container",SLE1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-21 10:18:07-06:00,113,"Cooking fire, confined to container",FD02,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-21 10:18:07-06:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-22 09:53:47-06:00,140,"Natural vegetation fire, other",SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,SLOPS1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,SLM6,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,SLL4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,SLB1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,SLL2,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,SLM7,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,FD02,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-22 11:47:17-06:00,111,Building fire,SLE5,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2023-12-28 00:24:02-06:00,111,Building fire,SLM2,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-28 00:24:02-06:00,111,Building fire,SLB1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-28 00:24:02-06:00,111,Building fire,SLE7,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-28 00:24:02-06:00,111,Building fire,SLL4,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-28 00:24:02-06:00,111,Building fire,SLM1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-28 00:24:02-06:00,111,Building fire,SLE1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-28 00:24:02-06:00,111,Building fire,SLL2,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-28 00:24:02-06:00,111,Building fire,SLOPS1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2023-12-28 19:51:56-06:00,113,"Cooking fire, confined to container",SLB1,Emergent,S3S2,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-12-28 19:51:56-06:00,113,"Cooking fire, confined to container",SLE3,Emergent,S3S2,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-12-28 19:51:56-06:00,113,"Cooking fire, confined to container",SLL4,Emergent,S3S2,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2023-12-29 18:40:16-06:00,113,"Cooking fire, confined to container",SLB1,Non-Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-12-29 18:40:16-06:00,113,"Cooking fire, confined to container",SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-12-29 18:40:16-06:00,113,"Cooking fire, confined to container",SLE7,Non-Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-12-29 18:40:16-06:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2023-12-30 13:30:15-06:00,151,"Outside rubbish, trash or waste fire",SLL2,Emergent,S201,Sugar Land Fire Station 2,MEADOWS PLACE,A Shift
+2024-01-01 00:20:41-06:00,141,"Forest, woods or wildland fire",SLE6,Non-Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-01-01 00:31:26-06:00,154,Dumpster or other outside trash receptacle fire,SLE1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-01-01 01:16:03-06:00,111,Building fire,SLB1,Emergent,ROSENBERG,Sugar Land Fire Station 6,ROSENBERG,A Shift
+2024-01-01 01:16:03-06:00,111,Building fire,SLE6,Emergent,ROSENBERG,Sugar Land Fire Station 6,ROSENBERG,A Shift
+2024-01-06 20:08:01-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLB1,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-01-06 20:08:01-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLE7,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-01-06 20:08:01-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLL4,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-01-06 20:08:01-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLM2,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-01-06 20:08:01-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLL2,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-01-06 20:08:01-06:00,114,"Chimney or flue fire, confined to chimney or flue",SLE3,Emergent,S3M2,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-01-12 11:17:52-06:00,151,"Outside rubbish, trash or waste fire",SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-01-12 11:17:52-06:00,151,"Outside rubbish, trash or waste fire",SLB1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-01-12 11:17:52-06:00,151,"Outside rubbish, trash or waste fire",SLE7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-01-12 11:17:52-06:00,151,"Outside rubbish, trash or waste fire",SLM6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-01-14 18:48:47-06:00,118,"Trash or rubbish fire, contained",SLE5,Non-Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-01-14 18:48:47-06:00,118,"Trash or rubbish fire, contained",SLE7,Non-Emergent,S705,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-01-15 05:59:06-06:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 5,STAFFORD,B Shift
+2024-01-15 05:59:06-06:00,111,Building fire,SLL2,Emergent,STAFFORD,Sugar Land Fire Station 5,STAFFORD,B Shift
+2024-01-15 05:59:06-06:00,111,Building fire,SLE1,Emergent,STAFFORD,Sugar Land Fire Station 5,STAFFORD,B Shift
+2024-01-15 05:59:06-06:00,111,Building fire,SLL4,Emergent,STAFFORD,Sugar Land Fire Station 5,STAFFORD,B Shift
+2024-01-15 18:54:52-06:00,111,Building fire,SLB1,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2024-01-15 18:54:52-06:00,111,Building fire,SLL2,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2024-01-16 03:13:21-06:00,111,Building fire,SLE3,Emergent,STAFFORD,Sugar Land Fire Station 3,STAFFORD,C Shift
+2024-01-16 03:13:21-06:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 3,STAFFORD,C Shift
+2024-01-16 03:13:21-06:00,111,Building fire,SLSQD5,Emergent,STAFFORD,Sugar Land Fire Station 3,STAFFORD,C Shift
+2024-01-17 15:17:20-06:00,111,Building fire,SLL2,Emergent,STAFFORD,Sugar Land Fire Station 2,MEADOWS PLACE,A Shift
+2024-01-17 15:17:20-06:00,111,Building fire,FD02,Non-Emergent,STAFFORD,Sugar Land Fire Station 2,MEADOWS PLACE,A Shift
+2024-01-19 19:45:40-06:00,121,Fire in mobile home used as fixed residence,SLE6,Emergent,RICHMOND,Sugar Land Fire Station 6,ROSENBERG,B Shift
+2024-01-19 19:45:40-06:00,121,Fire in mobile home used as fixed residence,SLB1,Emergent,RICHMOND,Sugar Land Fire Station 6,ROSENBERG,B Shift
+2024-01-20 16:23:06-06:00,143,Grass fire,SLL4,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-01-20 16:23:06-06:00,143,Grass fire,SLOPS1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-01-20 16:23:06-06:00,143,Grass fire,SLE7,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-01-20 16:23:06-06:00,143,Grass fire,SLE5,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-01-20 16:23:06-06:00,143,Grass fire,SLB1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-01-20 16:23:06-06:00,143,Grass fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-01-20 16:23:06-06:00,143,Grass fire,SLM6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-01-20 16:23:06-06:00,143,Grass fire,SLM7,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-01-29 16:22:40-06:00,151,"Outside rubbish, trash or waste fire",SLE7,Emergent,S709,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2024-02-09 00:52:16-06:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2024-02-09 00:52:16-06:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,C Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLL2,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLM4,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLE3,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLE5,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLM6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLOPS1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLL4,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-10 11:55:52-06:00,131,Passenger vehicle fire,SLB1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-02-13 12:38:54-06:00,143,Grass fire,SLE5,Emergent,S502,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-02-13 19:56:26-06:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-02-13 19:56:26-06:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-02-15 18:39:51-06:00,143,Grass fire,SLE1,Non-Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-02-17 22:36:24-06:00,111,Building fire,SLE3,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-02-17 22:36:24-06:00,111,Building fire,SLE7,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-02-17 22:36:24-06:00,111,Building fire,SLE5,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-02-17 22:36:24-06:00,111,Building fire,SLB1,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-02-17 22:36:24-06:00,111,Building fire,SLE1,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-02-17 22:36:24-06:00,111,Building fire,SLOPS1,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-02-17 22:36:24-06:00,111,Building fire,SLL4,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-02-17 22:36:24-06:00,111,Building fire,SLM4,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLB1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLE3,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLL4,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLM2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLE1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLE7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-21 18:26:39-06:00,111,Building fire,SLE5,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-02-24 19:41:55-06:00,143,Grass fire,SLE7,Emergent,S702,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-02-25 10:13:58-06:00,131,Passenger vehicle fire,SLB1,Emergent,S104,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-02-25 10:13:58-06:00,131,Passenger vehicle fire,SLE1,Emergent,S104,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-02-25 10:13:58-06:00,131,Passenger vehicle fire,SLE3,Emergent,S104,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-02-25 10:13:58-06:00,131,Passenger vehicle fire,SLOPS1,Emergent,S104,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-02-25 14:23:07-06:00,143,Grass fire,SLB1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-25 14:23:07-06:00,143,Grass fire,SLL4,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-25 14:23:07-06:00,143,Grass fire,SLOPS1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-25 14:23:07-06:00,143,Grass fire,SLM1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-25 14:23:07-06:00,143,Grass fire,SLE5,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-25 14:23:07-06:00,143,Grass fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-25 14:23:07-06:00,143,Grass fire,SLE7,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-25 15:35:19-06:00,131,Passenger vehicle fire,SLB1,Emergent,S4S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-02-25 15:35:19-06:00,131,Passenger vehicle fire,SLM4,Emergent,S4S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-02-25 15:35:19-06:00,131,Passenger vehicle fire,SLE3,Emergent,S4S1,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-02-25 23:47:43-06:00,131,Passenger vehicle fire,SLE7,Emergent,S206,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-25 23:47:43-06:00,131,Passenger vehicle fire,SLE6,Emergent,S206,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-02-27 17:18:09-06:00,131,Passenger vehicle fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-02-27 17:18:09-06:00,131,Passenger vehicle fire,SLM6,Non-Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-02-28 10:39:32-06:00,131,Passenger vehicle fire,SLL2,Emergent,S103,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-02-28 10:39:32-06:00,131,Passenger vehicle fire,SLE3,Emergent,S103,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-02-28 10:39:32-06:00,131,Passenger vehicle fire,SLM2,Emergent,S103,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-02-28 21:50:16-06:00,140,"Natural vegetation fire, other",SLE5,Emergent,S5M1,Sugar Land Fire Station 5,Sugar Land,A Shift
+2024-03-03 10:43:59-06:00,131,Passenger vehicle fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-03-05 22:38:13-06:00,142,Brush or brush-and-grass mixture fire,SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2024-03-11 22:11:53-05:00,154,Dumpster or other outside trash receptacle fire,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2024-03-12 22:22:58-05:00,151,"Outside rubbish, trash or waste fire",SLB1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-03-12 22:22:58-05:00,151,"Outside rubbish, trash or waste fire",SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLE5,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLM1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLOPS1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLM2,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLL4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLM4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLE1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 17:26:26-05:00,111,Building fire,SLB1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-03-15 16:17:15-05:00,143,Grass fire,SLE2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-03-16 07:07:54-05:00,160,"Special outside fire, other",SLL4,Emergent,S403,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-03-19 17:43:11-05:00,112,Fires in structure other than in a building,SLL4,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-03-19 17:43:11-05:00,112,Fires in structure other than in a building,SLE6,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-03-19 17:43:11-05:00,112,Fires in structure other than in a building,SLB1,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-03-19 17:43:11-05:00,112,Fires in structure other than in a building,SLE1,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-03-19 17:43:11-05:00,112,Fires in structure other than in a building,SLM7,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-03-19 17:43:11-05:00,112,Fires in structure other than in a building,SLOPS1,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-03-19 17:43:11-05:00,112,Fires in structure other than in a building,SLE7,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-03-21 12:28:06-05:00,113,"Cooking fire, confined to container",SLL2,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-03-21 12:28:06-05:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-03-21 12:28:06-05:00,113,"Cooking fire, confined to container",SLE7,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-03-21 12:28:06-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-03-21 12:28:06-05:00,113,"Cooking fire, confined to container",SLE5,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-03-21 12:28:06-05:00,113,"Cooking fire, confined to container",SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-03-21 12:28:06-05:00,113,"Cooking fire, confined to container",SLM6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-03-21 14:13:23-05:00,131,Passenger vehicle fire,SLB1,Emergent,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-03-21 14:13:23-05:00,131,Passenger vehicle fire,SLE7,Emergent,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-03-21 14:13:23-05:00,131,Passenger vehicle fire,SLOPS1,Emergent,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-03-21 14:13:23-05:00,131,Passenger vehicle fire,SLL4,Emergent,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-03-21 14:13:23-05:00,131,Passenger vehicle fire,SLM4,Emergent,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-03-21 14:13:23-05:00,131,Passenger vehicle fire,SLE1,Emergent,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-03-21 14:13:23-05:00,131,Passenger vehicle fire,SLE3,,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-03-21 14:13:23-05:00,131,Passenger vehicle fire,SLM1,Emergent,S1S1,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-03-23 08:54:07-05:00,131,Passenger vehicle fire,SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-03-24 22:13:53-05:00,131,Passenger vehicle fire,SLE7,Emergent,S709,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2024-03-25 22:39:54-05:00,151,"Outside rubbish, trash or waste fire",SLL4,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-03-25 22:39:54-05:00,151,"Outside rubbish, trash or waste fire",SLE7,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-03-25 22:39:54-05:00,151,"Outside rubbish, trash or waste fire",SLB1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-03-25 22:39:54-05:00,151,"Outside rubbish, trash or waste fire",SLE5,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-03-25 22:39:54-05:00,151,"Outside rubbish, trash or waste fire",SLE6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-03-25 22:39:54-05:00,151,"Outside rubbish, trash or waste fire",SLM6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-03-25 22:39:54-05:00,151,"Outside rubbish, trash or waste fire",SLOPS1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-03-28 13:24:35-05:00,132,Road freight or transport vehicle fire,SLE5,Emergent,S609,Sugar Land Fire Station 5,SUGAR LAND,C Shift
+2024-03-28 13:24:35-05:00,132,Road freight or transport vehicle fire,SLE7,Emergent,S609,Sugar Land Fire Station 5,SUGAR LAND,C Shift
+2024-03-28 22:14:02-05:00,111,Building fire,SLE1,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,C Shift
+2024-03-28 22:14:02-05:00,111,Building fire,SLL4,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,C Shift
+2024-03-28 22:14:02-05:00,111,Building fire,SLM4,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,C Shift
+2024-03-28 22:14:02-05:00,111,Building fire,SLE3,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,C Shift
+2024-03-28 22:14:02-05:00,111,Building fire,SLE5,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,C Shift
+2024-03-28 22:14:02-05:00,111,Building fire,SLB1,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,C Shift
+2024-03-28 22:14:02-05:00,111,Building fire,SLOPS1,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,C Shift
+2024-03-31 07:00:00-05:00,161,Outside storage fire,SLE5,Non-Emergent,RICHMOND,Sugar Land Fire Station 5,Richmond,B Shift
+2024-03-31 07:00:00-05:00,161,Outside storage fire,SLB1,Non-Emergent,RICHMOND,Sugar Land Fire Station 5,Richmond,B Shift
+2024-03-31 07:00:00-05:00,161,Outside storage fire,SLE3,Non-Emergent,RICHMOND,Sugar Land Fire Station 5,Richmond,B Shift
+2024-03-31 07:00:00-05:00,161,Outside storage fire,SLE7,Non-Emergent,RICHMOND,Sugar Land Fire Station 5,Richmond,B Shift
+2024-03-31 07:00:00-05:00,161,Outside storage fire,SLL2,Non-Emergent,RICHMOND,Sugar Land Fire Station 5,Richmond,B Shift
+2024-03-31 07:00:00-05:00,161,Outside storage fire,SLL4,Non-Emergent,RICHMOND,Sugar Land Fire Station 5,Richmond,B Shift
+2024-03-31 07:00:00-05:00,161,Outside storage fire,SLE1,Non-Emergent,RICHMOND,Sugar Land Fire Station 5,Richmond,B Shift
+2024-03-31 21:59:33-05:00,151,"Outside rubbish, trash or waste fire",SLE1,Emergent,S105,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-04-02 00:25:37-05:00,161,Outside storage fire,SLE5,Emergent,RICHMOND,Sugar Land Fire Station 5,FORT BEND COUNTY,B Shift
+2024-04-02 00:25:37-05:00,161,Outside storage fire,SLE4,Non-Emergent,RICHMOND,Sugar Land Fire Station 5,FORT BEND COUNTY,B Shift
+2024-04-02 15:38:38-05:00,131,Passenger vehicle fire,SLE4,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-04-02 15:38:38-05:00,131,Passenger vehicle fire,SLE1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-04-02 15:38:38-05:00,131,Passenger vehicle fire,SLOPS1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-04-03 14:27:21-05:00,111,Building fire,SLE7,Emergent,NEEDVILLE,Sugar Land Fire Station 7,FORT BEND COUNTY,C Shift
+2024-04-03 14:27:21-05:00,111,Building fire,SLB1,Emergent,NEEDVILLE,Sugar Land Fire Station 7,FORT BEND COUNTY,C Shift
+2024-04-03 15:22:00-05:00,142,Brush or brush-and-grass mixture fire,SLE1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-04-04 17:15:10-05:00,142,Brush or brush-and-grass mixture fire,SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2024-04-05 15:54:14-05:00,154,Dumpster or other outside trash receptacle fire,SLE7,Emergent,S703,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2024-04-06 17:47:32-05:00,142,Brush or brush-and-grass mixture fire,SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-04-06 17:47:32-05:00,142,Brush or brush-and-grass mixture fire,SLM1,Non-Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-04-08 07:31:33-05:00,143,Grass fire,SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-04-10 03:50:17-05:00,111,Building fire,SLB1,Non-Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2024-04-10 03:50:17-05:00,111,Building fire,SLL2,Emergent,NORTHEAST,Sugar Land Fire Station 2,FORT BEND COUNTY,C Shift
+2024-04-10 04:06:01-05:00,111,Building fire,SLOPS1,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-04-10 04:06:01-05:00,111,Building fire,SLE5,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-04-10 04:06:01-05:00,111,Building fire,SLB1,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-04-10 04:06:01-05:00,111,Building fire,SLM7,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-04-10 04:06:01-05:00,111,Building fire,SLE7,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-04-10 04:06:01-05:00,111,Building fire,SLE1,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-04-10 15:58:16-05:00,138,Off-road vehicle or heavy equipment fire,SLB1,Emergent,S501,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-04-10 15:58:16-05:00,138,Off-road vehicle or heavy equipment fire,SLL2,Emergent,S501,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-04-10 15:58:16-05:00,138,Off-road vehicle or heavy equipment fire,SLOPS1,Emergent,S501,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-04-10 15:58:16-05:00,138,Off-road vehicle or heavy equipment fire,SLE7,Emergent,S501,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-04-10 15:58:16-05:00,138,Off-road vehicle or heavy equipment fire,SLM4,Emergent,S501,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-04-10 15:58:16-05:00,138,Off-road vehicle or heavy equipment fire,SLE3,Emergent,S501,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-04-10 15:58:16-05:00,138,Off-road vehicle or heavy equipment fire,SLE5,Emergent,S501,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-04-10 21:13:55-05:00,154,Dumpster or other outside trash receptacle fire,SLE3,Emergent,S3M1,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2024-04-12 16:12:44-05:00,154,Dumpster or other outside trash receptacle fire,SLE5,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2024-04-12 16:12:44-05:00,154,Dumpster or other outside trash receptacle fire,SLE7,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2024-04-12 16:12:44-05:00,154,Dumpster or other outside trash receptacle fire,FD03,Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2024-04-13 06:26:35-05:00,111,Building fire,SLB1,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2024-04-13 06:26:35-05:00,111,Building fire,SLL2,Emergent,STAFFORD,Sugar Land Fire Station 2,STAFFORD,B Shift
+2024-04-13 19:40:18-05:00,111,Building fire,SLB1,Emergent,NORTHEAST,Sugar Land Fire Station 2,HOUSTON,B Shift
+2024-04-13 19:40:18-05:00,111,Building fire,SLL2,Emergent,NORTHEAST,Sugar Land Fire Station 2,HOUSTON,B Shift
+2024-04-23 12:18:50-05:00,111,Building fire,SLE6,Emergent,ROSENBERG,Sugar Land Fire Station 6,ROSENBERG,A Shift
+2024-04-24 23:41:14-05:00,111,Building fire,SLB1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-24 23:41:14-05:00,111,Building fire,SLE3,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-24 23:41:14-05:00,111,Building fire,SLL4,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-24 23:41:14-05:00,111,Building fire,SLM2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-24 23:41:14-05:00,111,Building fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-24 23:41:14-05:00,111,Building fire,SLE1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-24 23:41:14-05:00,111,Building fire,SLE2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-25 13:00:02-05:00,131,Passenger vehicle fire,FD03,Non-Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-25 13:00:02-05:00,131,Passenger vehicle fire,SLE7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-25 13:00:02-05:00,131,Passenger vehicle fire,SLE2,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-04-27 21:32:43-05:00,150,"Outside rubbish fire, other",SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-05-04 02:56:19-05:00,111,Building fire,SLE7,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-05-04 02:56:19-05:00,111,Building fire,SLL4,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-05-04 02:56:19-05:00,111,Building fire,SLB1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-05-04 02:56:19-05:00,111,Building fire,SLE1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-05-04 02:56:19-05:00,111,Building fire,SLM2,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-05-04 02:56:19-05:00,111,Building fire,SLOPS1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-05-04 02:56:19-05:00,111,Building fire,SLE2,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-05-07 19:16:56-05:00,151,"Outside rubbish, trash or waste fire",SLE5,Emergent,S703,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2024-05-07 19:16:56-05:00,151,"Outside rubbish, trash or waste fire",SLE7,Emergent,S703,Sugar Land Fire Station 5,SUGAR LAND,B Shift
+2024-05-07 22:25:25-05:00,111,Building fire,SLB1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-05-07 22:25:25-05:00,111,Building fire,SLL2,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-05-07 22:25:25-05:00,111,Building fire,SLL4,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-05-07 22:25:25-05:00,111,Building fire,SLE1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-05-07 22:25:25-05:00,111,Building fire,SLM1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-05-07 22:25:25-05:00,111,Building fire,SLOPS1,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-05-07 22:25:25-05:00,111,Building fire,SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-05-07 22:25:25-05:00,111,Building fire,SLM4,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-05-08 19:30:07-05:00,140,"Natural vegetation fire, other",SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-05-08 19:30:07-05:00,140,"Natural vegetation fire, other",SLL4,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-05-08 19:30:07-05:00,140,"Natural vegetation fire, other",SLOPS1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-05-08 19:30:07-05:00,140,"Natural vegetation fire, other",SLE7,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-05-08 19:30:07-05:00,140,"Natural vegetation fire, other",SLM6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-05-08 19:30:07-05:00,140,"Natural vegetation fire, other",SLB1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-05-08 19:30:07-05:00,140,"Natural vegetation fire, other",SLE5,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLB3,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLE6,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLE3,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLL4,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLM7,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLOPS1,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLE1,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLE7,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-08 09:16:43-05:00,111,Building fire,SLB1,Emergent,S701,Sugar Land Fire Station 7,SUGAR LAND,C Shift
+2024-05-09 23:29:12-05:00,131,Passenger vehicle fire,SLE5,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2024-05-09 23:29:12-05:00,131,Passenger vehicle fire,SLL4,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2024-05-09 23:29:12-05:00,131,Passenger vehicle fire,SLM6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2024-05-09 23:29:12-05:00,131,Passenger vehicle fire,SLE7,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2024-05-09 23:29:12-05:00,131,Passenger vehicle fire,SLB1,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2024-05-09 23:29:12-05:00,131,Passenger vehicle fire,SLE6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,C Shift
+2024-05-11 19:14:00-05:00,118,"Trash or rubbish fire, contained",SLE3,Non-Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2024-05-12 01:41:21-05:00,111,Building fire,SLB1,Emergent,ROSENBERG,Sugar Land Fire Station 6,ROSENBERG,A Shift
+2024-05-12 01:41:21-05:00,111,Building fire,SLE6,Emergent,ROSENBERG,Sugar Land Fire Station 6,ROSENBERG,A Shift
+2024-05-12 11:00:00-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-05-12 11:00:00-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-05-13 18:09:52-05:00,111,Building fire,SLL2,Emergent,S105,Sugar Land Fire Station 2,HOUSTON,B Shift
+2024-05-13 18:09:52-05:00,111,Building fire,SLB1,Emergent,S105,Sugar Land Fire Station 2,HOUSTON,B Shift
+2024-05-14 07:06:03-05:00,131,Passenger vehicle fire,SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLL2,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLE6,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLE3,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLL4,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLM4,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLM6,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-15 19:53:40-05:00,113,"Cooking fire, confined to container",SLE1,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-05-17 12:04:01-05:00,111,Building fire,SLE7,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-05-17 12:04:01-05:00,111,Building fire,SLL2,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-05-17 12:04:01-05:00,111,Building fire,SLE6,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-05-17 12:04:01-05:00,111,Building fire,SLB1,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-05-17 12:04:01-05:00,111,Building fire,SLM4,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-05-17 12:04:01-05:00,111,Building fire,SLM7,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-05-17 12:04:01-05:00,111,Building fire,SLOPS1,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLM2,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLB1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLE1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLE3,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLE7,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLOPS1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLL2,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLM1,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-19 20:17:00-05:00,111,Building fire,SLL4,Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-05-22 12:26:00-05:00,143,Grass fire,SLE2,Emergent,S105,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-05-22 17:20:44-05:00,142,Brush or brush-and-grass mixture fire,SLE5,Non-Emergent,S503,Sugar Land Fire Station 5,SUGAR LAND,A Shift
+2024-05-23 19:57:10-05:00,100,"Fire, other",SLE7,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,A Shift
+2024-06-06 13:52:40-05:00,151,"Outside rubbish, trash or waste fire",SLM1,,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-06-06 13:52:40-05:00,151,"Outside rubbish, trash or waste fire",SLM2,,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-06-06 13:52:40-05:00,151,"Outside rubbish, trash or waste fire",SLOPS1,,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-06-06 13:52:40-05:00,151,"Outside rubbish, trash or waste fire",SLB1,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-06-06 13:52:40-05:00,151,"Outside rubbish, trash or waste fire",SLE7,,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-06-06 13:52:40-05:00,151,"Outside rubbish, trash or waste fire",SLE3,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-06-06 13:52:40-05:00,151,"Outside rubbish, trash or waste fire",SLL4,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-06-06 13:52:40-05:00,151,"Outside rubbish, trash or waste fire",SLE1,,S4S1,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-06-07 16:02:47-05:00,151,"Outside rubbish, trash or waste fire",SLB1,Emergent,S203,Sugar Land Fire Station 2,Sugar Land,C Shift
+2024-06-07 16:02:47-05:00,151,"Outside rubbish, trash or waste fire",SLE3,Emergent Downgraded to Non-Emergent,S203,Sugar Land Fire Station 2,Sugar Land,C Shift
+2024-06-07 16:02:47-05:00,151,"Outside rubbish, trash or waste fire",SLE7,Emergent,S203,Sugar Land Fire Station 2,Sugar Land,C Shift
+2024-06-07 16:02:47-05:00,151,"Outside rubbish, trash or waste fire",SLOPS1,Emergent,S203,Sugar Land Fire Station 2,Sugar Land,C Shift
+2024-06-07 16:02:47-05:00,151,"Outside rubbish, trash or waste fire",SLM2,Emergent,S203,Sugar Land Fire Station 2,Sugar Land,C Shift
+2024-06-07 16:02:47-05:00,151,"Outside rubbish, trash or waste fire",SLE1,Emergent,S203,Sugar Land Fire Station 2,Sugar Land,C Shift
+2024-06-07 16:02:47-05:00,151,"Outside rubbish, trash or waste fire",SLL2,Emergent,S203,Sugar Land Fire Station 2,Sugar Land,C Shift
+2024-06-07 16:02:47-05:00,151,"Outside rubbish, trash or waste fire",SLFM57,Non-Emergent,S203,Sugar Land Fire Station 2,Sugar Land,C Shift
+,111,Building fire,SLL2,Emergent,S201,Sugar Land Fire Station 2,Sugar Land,C Shift
+,111,Building fire,SLOPS1,,S201,Sugar Land Fire Station 2,Sugar Land,C Shift
+2024-06-08 21:14:00-05:00,112,Fires in structure other than in a building,SLE7,Emergent,PECAN GROVE,Sugar Land Fire Station 7,PECAN GROVE,C Shift
+2024-06-08 21:14:00-05:00,112,Fires in structure other than in a building,SLB1,Emergent,PECAN GROVE,Sugar Land Fire Station 7,PECAN GROVE,C Shift
+2024-06-09 12:15:50-05:00,131,Passenger vehicle fire,SLOPS1,Emergent,S101,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-06-09 12:15:50-05:00,131,Passenger vehicle fire,SLL2,Emergent,S101,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-06-12 14:54:20-05:00,131,Passenger vehicle fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,B Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",SLE6,,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",SLE1,Emergent,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",SLE3,Emergent Downgraded to Non-Emergent,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",SLE7,Emergent,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",SLM4,Emergent,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",SLL4,Emergent,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-13 12:49:40-05:00,113,"Cooking fire, confined to container",FD03,Emergent,S501,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-06-17 08:50:05-05:00,142,Brush or brush-and-grass mixture fire,SLE3,Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-06-18 14:16:51-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-06-18 14:16:51-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-06-22 08:21:36-05:00,154,Dumpster or other outside trash receptacle fire,SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-06-24 08:32:07-05:00,131,Passenger vehicle fire,SLL2,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-06-24 08:32:07-05:00,131,Passenger vehicle fire,SLE1,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-06-24 08:32:07-05:00,131,Passenger vehicle fire,SLM2,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-06-24 23:43:27-05:00,111,Building fire,SLE6,Emergent,PLEAK,Sugar Land Fire Station 6,FORT BEND COUNTY,B Shift
+2024-06-24 23:43:27-05:00,111,Building fire,SLB1,Emergent,PLEAK,Sugar Land Fire Station 6,FORT BEND COUNTY,B Shift
+2024-06-24 23:43:27-05:00,111,Building fire,SLE1,Emergent,PLEAK,Sugar Land Fire Station 6,FORT BEND COUNTY,B Shift
+2024-06-29 06:59:23-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-06-29 06:59:23-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-06-30 11:18:57-05:00,131,Passenger vehicle fire,SLE7,Emergent,S701,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-06-30 15:19:10-05:00,143,Grass fire,SLE6,Emergent,S604,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-06-30 15:19:10-05:00,143,Grass fire,SLB1,,S604,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-06-30 15:19:10-05:00,143,Grass fire,SLE7,Emergent,S604,Sugar Land Fire Station 6,ETJ AREA,B Shift
+2024-07-04 21:49:33-05:00,151,"Outside rubbish, trash or waste fire",SLE1,Non-Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLE1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLE6,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLL4,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLOPS1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLE7,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLB1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLM2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,FD03,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-05 11:34:03-05:00,111,Building fire,SLE3,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLL2,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLE5,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLB1,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLOPS1,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLM4,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLM1,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLE3,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLE1,,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-07 00:54:40-05:00,138,Off-road vehicle or heavy equipment fire,SLL4,Emergent,S402,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLE3,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLB1,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLOPS1,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLL4,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLM1,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLE1,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLE7,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLB4,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLL2,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLM4,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLE6,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,SLE5,Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 05:37:04-05:00,111,Building fire,FD02,Non-Emergent,S4S1,Sugar Land Fire Station 4,SUGAR LAND,C Shift
+2024-07-09 15:52:30-05:00,151,"Outside rubbish, trash or waste fire",SLE3,Non-Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2024-07-09 15:52:30-05:00,151,"Outside rubbish, trash or waste fire",SLFM57,Non-Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,A Shift
+2024-07-09 20:22:06-05:00,142,Brush or brush-and-grass mixture fire,SLE1,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-07-09 20:22:06-05:00,142,Brush or brush-and-grass mixture fire,SLE2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-07-09 20:22:06-05:00,142,Brush or brush-and-grass mixture fire,SLE3,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-07-09 20:22:06-05:00,142,Brush or brush-and-grass mixture fire,SLL4,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-07-09 20:22:06-05:00,142,Brush or brush-and-grass mixture fire,SLM2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,A Shift
+2024-07-10 13:09:01-05:00,131,Passenger vehicle fire,SLE7,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-07-10 17:40:49-05:00,142,Brush or brush-and-grass mixture fire,SLE6,Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2024-07-10 19:20:05-05:00,142,Brush or brush-and-grass mixture fire,SLE6,Non-Emergent,S605,Sugar Land Fire Station 6,ETJ AREA,A Shift
+2024-07-11 11:37:44-05:00,131,Passenger vehicle fire,SLE1,Emergent,S4S1,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-07-11 11:37:44-05:00,131,Passenger vehicle fire,SLL4,Emergent,S4S1,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-07-11 11:37:44-05:00,131,Passenger vehicle fire,SLB1,Emergent,S4S1,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-07-11 11:37:44-05:00,131,Passenger vehicle fire,SLE7,Emergent,S4S1,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-07-11 11:37:44-05:00,131,Passenger vehicle fire,SLE3,Emergent,S4S1,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-07-11 11:37:44-05:00,131,Passenger vehicle fire,SLM7,Emergent,S4S1,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-07-11 11:37:44-05:00,131,Passenger vehicle fire,SLOPS1,Emergent,S4S1,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-07-11 11:37:44-05:00,131,Passenger vehicle fire,SLOPS2,Emergent,S4S1,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLE3,,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLE1,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLL4,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLOPS2,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLM2,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLE2,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLE6,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLB1,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLE7,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLM5,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLM7,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,SLOPS1,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 13:48:10-05:00,111,Building fire,FD02,Emergent,S5M1,Sugar Land Fire Station 5,ETJ AREA,B Shift
+2024-07-11 20:15:09-05:00,111,Building fire,SLB1,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-07-11 20:15:09-05:00,111,Building fire,SLE3,Emergent,MISSOURI CITY,Sugar Land Fire Station 3,MISSOURI CITY,B Shift
+2024-07-17 02:43:54-05:00,161,Outside storage fire,SLL4,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-17 02:43:54-05:00,161,Outside storage fire,SLE3,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-17 02:43:54-05:00,161,Outside storage fire,SLB1,Emergent,S401,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-17 13:28:31-05:00,130,"Mobile property (vehicle) fire, other",SLE1,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-17 13:28:31-05:00,130,"Mobile property (vehicle) fire, other",FD03,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-17 13:28:31-05:00,130,"Mobile property (vehicle) fire, other",SLE2,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-17 13:28:31-05:00,130,"Mobile property (vehicle) fire, other",FD04,Emergent,S205,Sugar Land Fire Station 2,SUGAR LAND,B Shift
+2024-07-18 01:45:43-05:00,118,"Trash or rubbish fire, contained",SLB1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-07-18 01:45:43-05:00,118,"Trash or rubbish fire, contained",SLE5,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-07-18 01:45:43-05:00,118,"Trash or rubbish fire, contained",SLM4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-07-18 01:45:43-05:00,118,"Trash or rubbish fire, contained",SLOPS1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-07-18 01:45:43-05:00,118,"Trash or rubbish fire, contained",SLE1,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-07-18 01:45:43-05:00,118,"Trash or rubbish fire, contained",SLE3,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-07-18 01:45:43-05:00,118,"Trash or rubbish fire, contained",SLL4,Emergent,S302,Sugar Land Fire Station 3,SUGAR LAND,B Shift
+2024-07-28 17:34:26-05:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S5M1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-28 17:34:26-05:00,113,"Cooking fire, confined to container",SLE7,Emergent,S5M1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-28 17:34:26-05:00,113,"Cooking fire, confined to container",SLM4,Emergent,S5M1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-28 17:34:26-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S5M1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-28 17:34:26-05:00,113,"Cooking fire, confined to container",SLE3,Emergent,S5M1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-28 17:34:26-05:00,113,"Cooking fire, confined to container",SLL4,Emergent,S5M1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-28 17:34:26-05:00,113,"Cooking fire, confined to container",SLE5,Emergent,S5M1,Sugar Land Fire Station 4,SUGAR LAND,A Shift
+2024-07-29 08:57:12-05:00,111,Building fire,SLE5,Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-07-29 08:57:12-05:00,111,Building fire,SLE1,Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-07-29 08:57:12-05:00,111,Building fire,SLM1,Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-07-29 08:57:12-05:00,111,Building fire,SLL4,Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-07-29 08:57:12-05:00,111,Building fire,SLE7,Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-07-29 08:57:12-05:00,111,Building fire,SLB1,Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-07-29 08:57:12-05:00,111,Building fire,SLOPS1,Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-07-29 08:57:12-05:00,111,Building fire,SLE6,Emergent,S705,Sugar Land Fire Station 7,ETJ AREA,B Shift
+2024-07-30 13:13:16-05:00,131,Passenger vehicle fire,SLE7,Emergent,S707,Sugar Land Fire Station 7,SUGAR LAND,B Shift
+2024-08-03 16:29:30-05:00,142,Brush or brush-and-grass mixture fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-08-03 20:22:39-05:00,118,"Trash or rubbish fire, contained",SLE1,Non-Emergent,S102,Sugar Land Fire Station 1,SUGAR LAND,A Shift
+2024-08-04 07:15:33-05:00,115,"Incinerator overload or malfunction, fire confined",SLM4,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-04 07:15:33-05:00,115,"Incinerator overload or malfunction, fire confined",SLE3,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-04 07:15:33-05:00,115,"Incinerator overload or malfunction, fire confined",SLE7,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-04 07:15:33-05:00,115,"Incinerator overload or malfunction, fire confined",SLM7,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-04 07:15:33-05:00,115,"Incinerator overload or malfunction, fire confined",SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-04 07:15:33-05:00,115,"Incinerator overload or malfunction, fire confined",SLB1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-04 07:15:33-05:00,115,"Incinerator overload or malfunction, fire confined",SLL4,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-04 07:15:33-05:00,115,"Incinerator overload or malfunction, fire confined",SLOPS1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-06 16:01:00-05:00,142,Brush or brush-and-grass mixture fire,SLE7,Emergent,RICHMOND,Sugar Land Fire Station 7,ETJ AREA,C Shift
+2024-08-08 19:38:41-05:00,111,Building fire,SLL4,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-08-08 19:38:41-05:00,111,Building fire,SLE7,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-08-08 19:38:41-05:00,111,Building fire,SLE5,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-08-08 19:38:41-05:00,111,Building fire,SLB1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-08-08 19:38:41-05:00,111,Building fire,SLOPS1,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-08-08 19:38:41-05:00,111,Building fire,SLM6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-08-08 19:38:41-05:00,111,Building fire,SLE6,Emergent,S610,Sugar Land Fire Station 6,SUGAR LAND,A Shift
+2024-08-10 14:14:05-05:00,112,Fires in structure other than in a building,SLL4,Emergent,S302,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-08-10 14:14:05-05:00,112,Fires in structure other than in a building,SLE3,Emergent,S302,Sugar Land Fire Station 4,SUGAR LAND,B Shift
+2024-08-15 17:13:31-05:00,118,"Trash or rubbish fire, contained",SLE5,Emergent,S5M1,Sugar Land Fire Station 5,Sugar Land,A Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLL2,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLB1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLL4,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLE3,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLM7,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLE7,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLM1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLOPS1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-17 19:37:27-05:00,113,"Cooking fire, confined to container",SLE1,Emergent,S101,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-08-18 12:53:51-05:00,143,Grass fire,SLE1,Emergent Downgraded to Non-Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-08-18 12:53:51-05:00,143,Grass fire,SLE7,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-08-18 12:53:51-05:00,143,Grass fire,SLOPS1,Emergent,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-08-18 12:53:51-05:00,143,Grass fire,SLB1,,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-08-18 12:53:51-05:00,143,Grass fire,SLM2,,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-08-18 12:53:51-05:00,143,Grass fire,SLL2,,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-08-18 12:53:51-05:00,143,Grass fire,SLM6,,S201,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-08-18 18:56:24-05:00,111,Building fire,SLB1,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,C Shift
+2024-08-18 18:56:24-05:00,111,Building fire,SLE6,Emergent,RICHMOND,Sugar Land Fire Station 6,Richmond,C Shift
+2024-08-20 16:17:37-05:00,111,Building fire,SLL2,Emergent,HOUSTON,Sugar Land Fire Station 2,Houston,A Shift
+2024-08-24 08:27:15-05:00,142,Brush or brush-and-grass mixture fire,SLE3,Non-Emergent,S3S2,Sugar Land Fire Station 3,SUGAR LAND,C Shift
+2024-08-31 08:44:52-05:00,113,"Cooking fire, confined to container",SLE6,Emergent,S601,Sugar Land Fire Station 6,SUGAR LAND,C Shift
+2024-09-04 20:20:47-05:00,131,Passenger vehicle fire,SLE1,Emergent,S206,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-09-04 20:20:47-05:00,131,Passenger vehicle fire,SLL4,Emergent,S206,Sugar Land Fire Station 1,SUGAR LAND,B Shift
+2024-09-06 19:32:18-05:00,151,"Outside rubbish, trash or waste fire",SLL2,Emergent,S203,Sugar Land Fire Station 2,SUGAR LAND,C Shift
+2024-09-08 01:34:25-05:00,111,Building fire,SLB1,Emergent,NORTHEAST,Sugar Land Fire Station 2,HOUSTON,A Shift
+2024-09-08 01:34:25-05:00,111,Building fire,SLL2,Emergent,NORTHEAST,Sugar Land Fire Station 2,HOUSTON,A Shift

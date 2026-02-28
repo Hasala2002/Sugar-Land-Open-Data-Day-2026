@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-28T09:08:28.380Z",
+    "description": "Sugar Land Fire Station locations with strain metrics"
+  },
+  "stations": [
+    {
+      "station_id": "Sugar Land Fire Station 1",
+      "name": "Station 1",
+      "address": "1100 Eldridge Rd",
+      "lat": 29.612712249874267,
+      "lng": -95.63564676971885,
+      "district_count": 8,
+      "total_incidents": 3549,
+      "avg_cross_district_rate": 0.29219498450267684
+    },
+    {
+      "station_id": "Sugar Land Fire Station 2",
+      "name": "Station 2",
+      "address": "3950 Elkins Rd",
+      "lat": 29.6409217516119,
+      "lng": -95.60724930524152,
+      "district_count": 4,
+      "total_incidents": 2174,
+      "avg_cross_district_rate": 0.17479300827966882
+    },
+    {
+      "station_id": "Sugar Land Fire Station 3",
+      "name": "Station 3",
+      "address": "1935 First Colony Blvd",
+      "lat": 29.591525990346497,
+      "lng": -95.59495045649187,
+      "district_count": 3,
+      "total_incidents": 1191,
+      "avg_cross_district_rate": 0.49538203190596136
+    },
+    {
+      "station_id": "Sugar Land Fire Station 4",
+      "name": "Station 4",
+      "address": "4238 Sweetwater Blvd",
+      "lat": 29.585396411001913,
+      "lng": -95.61800398653222,
+      "district_count": 7,
+      "total_incidents": 2279,
+      "avg_cross_district_rate": 0.2948661693725318
+    },
+    {
+      "station_id": "Sugar Land Fire Station 5",
+      "name": "Station 5",
+      "address": "13838 Southwest Frwy",
+      "lat": 29.559125619906876,
+      "lng": -95.63090748933,
+      "district_count": 4,
+      "total_incidents": 1046,
+      "avg_cross_district_rate": 0.2552581261950287
+    },
+    {
+      "station_id": "Sugar Land Fire Station 6",
+      "name": "Station 6",
+      "address": "545 Jury Rd",
+      "lat": 29.552337722320416,
+      "lng": -95.69364568463807,
+      "district_count": 4,
+      "total_incidents": 2215,
+      "avg_cross_district_rate": 0.11286681715575621
+    },
+    {
+      "station_id": "Sugar Land Fire Station 7",
+      "name": "Station 7",
+      "address": "19990 SW Frwy",
+      "lat": 29.592215451329363,
+      "lng": -95.65756064474678,
+      "district_count": 8,
+      "total_incidents": 1504,
+      "avg_cross_district_rate": 0.34773936170212766
+    }
+  ]
+}

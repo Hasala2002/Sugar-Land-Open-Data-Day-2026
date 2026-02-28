@@ -1,0 +1,8037 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-14T07:57:25.272Z",
+    "total_districts": 42,
+    "total_incidents": 13988
+  },
+  "districts": {
+    "101": {
+      "district": "101",
+      "home_station": "Sugar Land Fire Station 1",
+      "total_incidents": 2167,
+      "total_apparatus_dispatches": 3995,
+      "cross_district_rate": 0.23211813567143516,
+      "cross_district_apparatus_rate": 0.2095118898623279,
+      "priority_breakdown": {
+        "Emergent": 2060,
+        "Non-Emergent": 93,
+        "Emergent Downgraded to Non-Emergent": 4
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 1979
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 90
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 37
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 26
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 6
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 6
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 4
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 4
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 2
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 2
+        }
+      ],
+      "hourly_distribution": [
+        77,
+        85,
+        77,
+        61,
+        73,
+        92,
+        110,
+        149,
+        157,
+        226,
+        273,
+        279,
+        272,
+        215,
+        227,
+        259,
+        218,
+        187,
+        180,
+        206,
+        152,
+        148,
+        178,
+        94
+      ],
+      "day_of_week_distribution": [
+        494,
+        595,
+        684,
+        588,
+        547,
+        577,
+        510
+      ],
+      "shift_breakdown": {
+        "B Shift": 719,
+        "C Shift": 695,
+        "A Shift": 753
+      },
+      "busiest_hour": 11,
+      "busiest_day_of_week": 2,
+      "busiest_day_name": "Tuesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 205,
+          "cross_district_rate": 0.16964285714285715
+        },
+        {
+          "month": "2023-02",
+          "incidents": 158,
+          "cross_district_rate": 0.3058823529411765
+        },
+        {
+          "month": "2023-03",
+          "incidents": 194,
+          "cross_district_rate": 0.2403846153846154
+        },
+        {
+          "month": "2023-04",
+          "incidents": 194,
+          "cross_district_rate": 0.21818181818181817
+        },
+        {
+          "month": "2023-05",
+          "incidents": 220,
+          "cross_district_rate": 0.2920353982300885
+        },
+        {
+          "month": "2023-06",
+          "incidents": 172,
+          "cross_district_rate": 0.21649484536082475
+        },
+        {
+          "month": "2023-07",
+          "incidents": 193,
+          "cross_district_rate": 0.21238938053097345
+        },
+        {
+          "month": "2023-08",
+          "incidents": 219,
+          "cross_district_rate": 0.2184873949579832
+        },
+        {
+          "month": "2023-09",
+          "incidents": 200,
+          "cross_district_rate": 0.18584070796460178
+        },
+        {
+          "month": "2023-10",
+          "incidents": 224,
+          "cross_district_rate": 0.17857142857142858
+        },
+        {
+          "month": "2023-11",
+          "incidents": 155,
+          "cross_district_rate": 0.2619047619047619
+        },
+        {
+          "month": "2023-12",
+          "incidents": 168,
+          "cross_district_rate": 0.2391304347826087
+        },
+        {
+          "month": "2024-01",
+          "incidents": 228,
+          "cross_district_rate": 0.26956521739130435
+        },
+        {
+          "month": "2024-02",
+          "incidents": 222,
+          "cross_district_rate": 0.2831858407079646
+        },
+        {
+          "month": "2024-03",
+          "incidents": 205,
+          "cross_district_rate": 0.2358490566037736
+        },
+        {
+          "month": "2024-04",
+          "incidents": 197,
+          "cross_district_rate": 0.20909090909090908
+        },
+        {
+          "month": "2024-05",
+          "incidents": 220,
+          "cross_district_rate": 0.2288135593220339
+        },
+        {
+          "month": "2024-06",
+          "incidents": 158,
+          "cross_district_rate": 0.2087912087912088
+        },
+        {
+          "month": "2024-07",
+          "incidents": 248,
+          "cross_district_rate": 0.27586206896551724
+        },
+        {
+          "month": "2024-08",
+          "incidents": 162,
+          "cross_district_rate": 0.18181818181818182
+        },
+        {
+          "month": "2024-09",
+          "incidents": 53,
+          "cross_district_rate": 0.25925925925925924
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 2154,
+        "Fire": 13
+      }
+    },
+    "102": {
+      "district": "102",
+      "home_station": "Sugar Land Fire Station 1",
+      "total_incidents": 396,
+      "total_apparatus_dispatches": 786,
+      "cross_district_rate": 0.4494949494949495,
+      "cross_district_apparatus_rate": 0.405852417302799,
+      "priority_breakdown": {
+        "Emergent": 371,
+        "Non-Emergent": 23,
+        "Non-Emergent Upgraded to Emergent": 2
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 373
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 5
+        },
+        {
+          "item": "Building fire",
+          "count": 5
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 2
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 2
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 1
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 1
+        },
+        {
+          "item": "Special outside fire, other",
+          "count": 1
+        },
+        {
+          "item": "Cooking fire, confined to container",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        42,
+        13,
+        22,
+        13,
+        17,
+        8,
+        24,
+        17,
+        45,
+        32,
+        55,
+        46,
+        52,
+        74,
+        51,
+        28,
+        35,
+        34,
+        35,
+        36,
+        35,
+        27,
+        19,
+        26
+      ],
+      "day_of_week_distribution": [
+        134,
+        90,
+        86,
+        112,
+        147,
+        105,
+        112
+      ],
+      "shift_breakdown": {
+        "A Shift": 137,
+        "C Shift": 139,
+        "B Shift": 120
+      },
+      "busiest_hour": 13,
+      "busiest_day_of_week": 4,
+      "busiest_day_name": "Thursday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 26,
+          "cross_district_rate": 0.5833333333333334
+        },
+        {
+          "month": "2023-02",
+          "incidents": 21,
+          "cross_district_rate": 0.6923076923076923
+        },
+        {
+          "month": "2023-03",
+          "incidents": 26,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2023-04",
+          "incidents": 45,
+          "cross_district_rate": 0.48
+        },
+        {
+          "month": "2023-05",
+          "incidents": 33,
+          "cross_district_rate": 0.3888888888888889
+        },
+        {
+          "month": "2023-06",
+          "incidents": 56,
+          "cross_district_rate": 0.43478260869565216
+        },
+        {
+          "month": "2023-07",
+          "incidents": 34,
+          "cross_district_rate": 0.47368421052631576
+        },
+        {
+          "month": "2023-08",
+          "incidents": 34,
+          "cross_district_rate": 0.35
+        },
+        {
+          "month": "2023-09",
+          "incidents": 45,
+          "cross_district_rate": 0.44
+        },
+        {
+          "month": "2023-10",
+          "incidents": 23,
+          "cross_district_rate": 0.5714285714285714
+        },
+        {
+          "month": "2023-11",
+          "incidents": 28,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-12",
+          "incidents": 53,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2024-01",
+          "incidents": 54,
+          "cross_district_rate": 0.4230769230769231
+        },
+        {
+          "month": "2024-02",
+          "incidents": 81,
+          "cross_district_rate": 0.45714285714285713
+        },
+        {
+          "month": "2024-03",
+          "incidents": 41,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-04",
+          "incidents": 32,
+          "cross_district_rate": 0.29411764705882354
+        },
+        {
+          "month": "2024-05",
+          "incidents": 57,
+          "cross_district_rate": 0.5925925925925926
+        },
+        {
+          "month": "2024-06",
+          "incidents": 25,
+          "cross_district_rate": 0.3888888888888889
+        },
+        {
+          "month": "2024-07",
+          "incidents": 36,
+          "cross_district_rate": 0.55
+        },
+        {
+          "month": "2024-08",
+          "incidents": 29,
+          "cross_district_rate": 0.26666666666666666
+        },
+        {
+          "month": "2024-09",
+          "incidents": 7,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 385,
+        "Fire": 11
+      }
+    },
+    "103": {
+      "district": "103",
+      "home_station": "Sugar Land Fire Station 1",
+      "total_incidents": 174,
+      "total_apparatus_dispatches": 415,
+      "cross_district_rate": 0.3620689655172414,
+      "cross_district_apparatus_rate": 0.3469879518072289,
+      "priority_breakdown": {
+        "Emergent": 165,
+        "Non-Emergent": 8,
+        "Non-Emergent Upgraded to Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 137
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 21
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 8
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 2
+        },
+        {
+          "item": "Building fire",
+          "count": 2
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Extrication of victim(s) from vehicle",
+          "count": 1
+        },
+        {
+          "item": "Outside rubbish, trash or waste fire",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        8,
+        4,
+        12,
+        8,
+        14,
+        5,
+        8,
+        23,
+        29,
+        25,
+        29,
+        16,
+        12,
+        44,
+        18,
+        26,
+        30,
+        18,
+        16,
+        16,
+        12,
+        19,
+        14,
+        9
+      ],
+      "day_of_week_distribution": [
+        73,
+        60,
+        30,
+        58,
+        60,
+        74,
+        60
+      ],
+      "shift_breakdown": {
+        "C Shift": 52,
+        "A Shift": 63,
+        "B Shift": 59
+      },
+      "busiest_hour": 13,
+      "busiest_day_of_week": 5,
+      "busiest_day_name": "Friday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 57,
+          "cross_district_rate": 0.1875
+        },
+        {
+          "month": "2023-02",
+          "incidents": 23,
+          "cross_district_rate": 0.6
+        },
+        {
+          "month": "2023-03",
+          "incidents": 22,
+          "cross_district_rate": 0.45454545454545453
+        },
+        {
+          "month": "2023-04",
+          "incidents": 22,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2023-05",
+          "incidents": 24,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2023-06",
+          "incidents": 13,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-07",
+          "incidents": 15,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-08",
+          "incidents": 12,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-09",
+          "incidents": 24,
+          "cross_district_rate": 0.36363636363636365
+        },
+        {
+          "month": "2023-10",
+          "incidents": 9,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-11",
+          "incidents": 14,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-12",
+          "incidents": 23,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-01",
+          "incidents": 13,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-02",
+          "incidents": 36,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-03",
+          "incidents": 11,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2024-04",
+          "incidents": 30,
+          "cross_district_rate": 0.35714285714285715
+        },
+        {
+          "month": "2024-05",
+          "incidents": 16,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2024-06",
+          "incidents": 13,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-07",
+          "incidents": 21,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2024-08",
+          "incidents": 10,
+          "cross_district_rate": 0.5714285714285714
+        },
+        {
+          "month": "2024-09",
+          "incidents": 7,
+          "cross_district_rate": 0.5
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 170,
+        "Fire": 4
+      }
+    },
+    "104": {
+      "district": "104",
+      "home_station": "Sugar Land Fire Station 1",
+      "total_incidents": 198,
+      "total_apparatus_dispatches": 373,
+      "cross_district_rate": 0.30303030303030304,
+      "cross_district_apparatus_rate": 0.30563002680965146,
+      "priority_breakdown": {
+        "Emergent": 190,
+        "Non-Emergent": 6,
+        "Non-Emergent Upgraded to Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 168
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 8
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 4
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 4
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 4
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 3
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 3
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 2
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Outside equipment fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        8,
+        2,
+        2,
+        2,
+        3,
+        4,
+        9,
+        3,
+        21,
+        19,
+        41,
+        41,
+        34,
+        38,
+        19,
+        31,
+        26,
+        18,
+        13,
+        12,
+        7,
+        6,
+        9,
+        5
+      ],
+      "day_of_week_distribution": [
+        33,
+        62,
+        58,
+        69,
+        77,
+        37,
+        37
+      ],
+      "shift_breakdown": {
+        "B Shift": 68,
+        "C Shift": 63,
+        "A Shift": 67
+      },
+      "busiest_hour": 10,
+      "busiest_day_of_week": 4,
+      "busiest_day_name": "Thursday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 17,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2023-02",
+          "incidents": 32,
+          "cross_district_rate": 0.29411764705882354
+        },
+        {
+          "month": "2023-03",
+          "incidents": 21,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2023-04",
+          "incidents": 8,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2023-05",
+          "incidents": 30,
+          "cross_district_rate": 0.36363636363636365
+        },
+        {
+          "month": "2023-06",
+          "incidents": 11,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2023-07",
+          "incidents": 26,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-08",
+          "incidents": 25,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-09",
+          "incidents": 26,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-10",
+          "incidents": 15,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2023-11",
+          "incidents": 8,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-12",
+          "incidents": 26,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2024-01",
+          "incidents": 27,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2024-02",
+          "incidents": 15,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2024-03",
+          "incidents": 11,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2024-04",
+          "incidents": 21,
+          "cross_district_rate": 0.5384615384615384
+        },
+        {
+          "month": "2024-05",
+          "incidents": 14,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2024-06",
+          "incidents": 4,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-07",
+          "incidents": 17,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2024-08",
+          "incidents": 16,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-09",
+          "incidents": 3,
+          "cross_district_rate": 0.5
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 195,
+        "Fire": 3
+      }
+    },
+    "105": {
+      "district": "105",
+      "home_station": "Sugar Land Fire Station 1",
+      "total_incidents": 368,
+      "total_apparatus_dispatches": 802,
+      "cross_district_rate": 0.266304347826087,
+      "cross_district_apparatus_rate": 0.2543640897755611,
+      "priority_breakdown": {
+        "Emergent": 345,
+        "Non-Emergent": 20
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 310
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 29
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 5
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 5
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 3
+        },
+        {
+          "item": "Dumpster or other outside trash receptacle fire",
+          "count": 3
+        },
+        {
+          "item": "Brush or brush-and-grass mixture fire",
+          "count": 2
+        },
+        {
+          "item": "Grass fire",
+          "count": 2
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        26,
+        16,
+        23,
+        6,
+        8,
+        15,
+        22,
+        43,
+        17,
+        37,
+        37,
+        43,
+        36,
+        49,
+        44,
+        42,
+        40,
+        63,
+        66,
+        39,
+        38,
+        42,
+        31,
+        19
+      ],
+      "day_of_week_distribution": [
+        119,
+        105,
+        95,
+        90,
+        127,
+        129,
+        137
+      ],
+      "shift_breakdown": {
+        "B Shift": 145,
+        "C Shift": 111,
+        "A Shift": 112
+      },
+      "busiest_hour": 18,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 36,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2023-02",
+          "incidents": 19,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-03",
+          "incidents": 33,
+          "cross_district_rate": 0.3076923076923077
+        },
+        {
+          "month": "2023-04",
+          "incidents": 18,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2023-05",
+          "incidents": 29,
+          "cross_district_rate": 0.36363636363636365
+        },
+        {
+          "month": "2023-06",
+          "incidents": 30,
+          "cross_district_rate": 0.4666666666666667
+        },
+        {
+          "month": "2023-07",
+          "incidents": 37,
+          "cross_district_rate": 0.4375
+        },
+        {
+          "month": "2023-08",
+          "incidents": 50,
+          "cross_district_rate": 0.30434782608695654
+        },
+        {
+          "month": "2023-09",
+          "incidents": 52,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-10",
+          "incidents": 36,
+          "cross_district_rate": 0.3125
+        },
+        {
+          "month": "2023-11",
+          "incidents": 61,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2023-12",
+          "incidents": 47,
+          "cross_district_rate": 0.22727272727272727
+        },
+        {
+          "month": "2024-01",
+          "incidents": 35,
+          "cross_district_rate": 0.11764705882352941
+        },
+        {
+          "month": "2024-02",
+          "incidents": 29,
+          "cross_district_rate": 0.1875
+        },
+        {
+          "month": "2024-03",
+          "incidents": 54,
+          "cross_district_rate": 0.16
+        },
+        {
+          "month": "2024-04",
+          "incidents": 56,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2024-05",
+          "incidents": 44,
+          "cross_district_rate": 0.23809523809523808
+        },
+        {
+          "month": "2024-06",
+          "incidents": 32,
+          "cross_district_rate": 0.07142857142857142
+        },
+        {
+          "month": "2024-07",
+          "incidents": 53,
+          "cross_district_rate": 0.39285714285714285
+        },
+        {
+          "month": "2024-08",
+          "incidents": 44,
+          "cross_district_rate": 0.058823529411764705
+        },
+        {
+          "month": "2024-09",
+          "incidents": 7,
+          "cross_district_rate": 0.3333333333333333
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 357,
+        "Fire": 11
+      }
+    },
+    "201": {
+      "district": "201",
+      "home_station": "Sugar Land Fire Station 2",
+      "total_incidents": 1135,
+      "total_apparatus_dispatches": 2148,
+      "cross_district_rate": 0.17973568281938326,
+      "cross_district_apparatus_rate": 0.17458100558659218,
+      "priority_breakdown": {
+        "Emergent": 1094,
+        "Non-Emergent": 37,
+        "Emergent Downgraded to Non-Emergent": 2
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 945
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 100
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 41
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 10
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 7
+        },
+        {
+          "item": "Building fire",
+          "count": 6
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 4
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 4
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 3
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 3
+        }
+      ],
+      "hourly_distribution": [
+        48,
+        33,
+        47,
+        33,
+        36,
+        32,
+        53,
+        91,
+        100,
+        117,
+        148,
+        148,
+        121,
+        127,
+        134,
+        122,
+        138,
+        108,
+        115,
+        97,
+        88,
+        72,
+        76,
+        64
+      ],
+      "day_of_week_distribution": [
+        277,
+        303,
+        296,
+        341,
+        290,
+        315,
+        326
+      ],
+      "shift_breakdown": {
+        "B Shift": 378,
+        "C Shift": 387,
+        "A Shift": 370
+      },
+      "busiest_hour": 10,
+      "busiest_day_of_week": 3,
+      "busiest_day_name": "Wednesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 149,
+          "cross_district_rate": 0.1875
+        },
+        {
+          "month": "2023-02",
+          "incidents": 112,
+          "cross_district_rate": 0.24242424242424243
+        },
+        {
+          "month": "2023-03",
+          "incidents": 146,
+          "cross_district_rate": 0.22950819672131148
+        },
+        {
+          "month": "2023-04",
+          "incidents": 93,
+          "cross_district_rate": 0.24
+        },
+        {
+          "month": "2023-05",
+          "incidents": 110,
+          "cross_district_rate": 0.21052631578947367
+        },
+        {
+          "month": "2023-06",
+          "incidents": 93,
+          "cross_district_rate": 0.16363636363636364
+        },
+        {
+          "month": "2023-07",
+          "incidents": 102,
+          "cross_district_rate": 0.18181818181818182
+        },
+        {
+          "month": "2023-08",
+          "incidents": 109,
+          "cross_district_rate": 0.13793103448275862
+        },
+        {
+          "month": "2023-09",
+          "incidents": 106,
+          "cross_district_rate": 0.22413793103448276
+        },
+        {
+          "month": "2023-10",
+          "incidents": 86,
+          "cross_district_rate": 0.15555555555555556
+        },
+        {
+          "month": "2023-11",
+          "incidents": 86,
+          "cross_district_rate": 0.13043478260869565
+        },
+        {
+          "month": "2023-12",
+          "incidents": 112,
+          "cross_district_rate": 0.08333333333333333
+        },
+        {
+          "month": "2024-01",
+          "incidents": 94,
+          "cross_district_rate": 0.2982456140350877
+        },
+        {
+          "month": "2024-02",
+          "incidents": 111,
+          "cross_district_rate": 0.25925925925925924
+        },
+        {
+          "month": "2024-03",
+          "incidents": 130,
+          "cross_district_rate": 0.18181818181818182
+        },
+        {
+          "month": "2024-04",
+          "incidents": 114,
+          "cross_district_rate": 0.14754098360655737
+        },
+        {
+          "month": "2024-05",
+          "incidents": 91,
+          "cross_district_rate": 0.19230769230769232
+        },
+        {
+          "month": "2024-06",
+          "incidents": 84,
+          "cross_district_rate": 0.09615384615384616
+        },
+        {
+          "month": "2024-07",
+          "incidents": 143,
+          "cross_district_rate": 0.14864864864864866
+        },
+        {
+          "month": "2024-08",
+          "incidents": 56,
+          "cross_district_rate": 0.06451612903225806
+        },
+        {
+          "month": "2024-09",
+          "incidents": 21,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 1117,
+        "Fire": 18
+      }
+    },
+    "202": {
+      "district": "202",
+      "home_station": "Sugar Land Fire Station 2",
+      "total_incidents": 284,
+      "total_apparatus_dispatches": 527,
+      "cross_district_rate": 0.18661971830985916,
+      "cross_district_apparatus_rate": 0.2049335863377609,
+      "priority_breakdown": {
+        "Emergent": 274,
+        "Non-Emergent": 9,
+        "Non-Emergent Upgraded to Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 237
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 24
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 12
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 5
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 3
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Extrication of victim(s) from vehicle",
+          "count": 1
+        },
+        {
+          "item": "Outside rubbish, trash or waste fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        6,
+        5,
+        5,
+        6,
+        10,
+        16,
+        18,
+        16,
+        31,
+        25,
+        30,
+        46,
+        37,
+        39,
+        28,
+        42,
+        34,
+        24,
+        26,
+        20,
+        14,
+        20,
+        12,
+        17
+      ],
+      "day_of_week_distribution": [
+        95,
+        85,
+        85,
+        79,
+        58,
+        72,
+        53
+      ],
+      "shift_breakdown": {
+        "A Shift": 96,
+        "C Shift": 94,
+        "B Shift": 94
+      },
+      "busiest_hour": 11,
+      "busiest_day_of_week": 0,
+      "busiest_day_name": "Sunday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 34,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-02",
+          "incidents": 26,
+          "cross_district_rate": 0.3125
+        },
+        {
+          "month": "2023-03",
+          "incidents": 26,
+          "cross_district_rate": 0.26666666666666666
+        },
+        {
+          "month": "2023-04",
+          "incidents": 27,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2023-05",
+          "incidents": 9,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2023-06",
+          "incidents": 30,
+          "cross_district_rate": 0.11764705882352941
+        },
+        {
+          "month": "2023-07",
+          "incidents": 27,
+          "cross_district_rate": 0.15384615384615385
+        },
+        {
+          "month": "2023-08",
+          "incidents": 20,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2023-09",
+          "incidents": 31,
+          "cross_district_rate": 0.058823529411764705
+        },
+        {
+          "month": "2023-10",
+          "incidents": 31,
+          "cross_district_rate": 0.17647058823529413
+        },
+        {
+          "month": "2023-11",
+          "incidents": 23,
+          "cross_district_rate": 0.3076923076923077
+        },
+        {
+          "month": "2023-12",
+          "incidents": 35,
+          "cross_district_rate": 0.3125
+        },
+        {
+          "month": "2024-01",
+          "incidents": 34,
+          "cross_district_rate": 0.05555555555555555
+        },
+        {
+          "month": "2024-02",
+          "incidents": 20,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-03",
+          "incidents": 25,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2024-04",
+          "incidents": 26,
+          "cross_district_rate": 0.15384615384615385
+        },
+        {
+          "month": "2024-05",
+          "incidents": 20,
+          "cross_district_rate": 0.07692307692307693
+        },
+        {
+          "month": "2024-06",
+          "incidents": 30,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-07",
+          "incidents": 32,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-08",
+          "incidents": 10,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-09",
+          "incidents": 11,
+          "cross_district_rate": 0.16666666666666666
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 280,
+        "Fire": 4
+      }
+    },
+    "203": {
+      "district": "203",
+      "home_station": "Sugar Land Fire Station 2",
+      "total_incidents": 705,
+      "total_apparatus_dispatches": 1318,
+      "cross_district_rate": 0.14326241134751774,
+      "cross_district_apparatus_rate": 0.1282245827010622,
+      "priority_breakdown": {
+        "Emergent": 686,
+        "Non-Emergent": 15,
+        "Emergent Downgraded to Non-Emergent": 2
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 638
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 14
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 14
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 9
+        },
+        {
+          "item": "Outside rubbish, trash or waste fire",
+          "count": 5
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 3
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 3
+        },
+        {
+          "item": "Grass fire",
+          "count": 3
+        },
+        {
+          "item": "Building fire",
+          "count": 3
+        },
+        {
+          "item": "Brush or brush-and-grass mixture fire",
+          "count": 3
+        }
+      ],
+      "hourly_distribution": [
+        42,
+        27,
+        26,
+        25,
+        25,
+        16,
+        27,
+        51,
+        57,
+        78,
+        85,
+        97,
+        60,
+        66,
+        72,
+        61,
+        101,
+        76,
+        75,
+        59,
+        62,
+        45,
+        40,
+        45
+      ],
+      "day_of_week_distribution": [
+        179,
+        180,
+        198,
+        206,
+        211,
+        168,
+        176
+      ],
+      "shift_breakdown": {
+        "B Shift": 224,
+        "C Shift": 229,
+        "A Shift": 251
+      },
+      "busiest_hour": 16,
+      "busiest_day_of_week": 4,
+      "busiest_day_name": "Thursday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 67,
+          "cross_district_rate": 0.10810810810810811
+        },
+        {
+          "month": "2023-02",
+          "incidents": 57,
+          "cross_district_rate": 0.06896551724137931
+        },
+        {
+          "month": "2023-03",
+          "incidents": 83,
+          "cross_district_rate": 0.14634146341463414
+        },
+        {
+          "month": "2023-04",
+          "incidents": 52,
+          "cross_district_rate": 0.17142857142857143
+        },
+        {
+          "month": "2023-05",
+          "incidents": 56,
+          "cross_district_rate": 0.11428571428571428
+        },
+        {
+          "month": "2023-06",
+          "incidents": 66,
+          "cross_district_rate": 0.16216216216216217
+        },
+        {
+          "month": "2023-07",
+          "incidents": 67,
+          "cross_district_rate": 0.15
+        },
+        {
+          "month": "2023-08",
+          "incidents": 53,
+          "cross_district_rate": 0.11428571428571428
+        },
+        {
+          "month": "2023-09",
+          "incidents": 66,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-10",
+          "incidents": 70,
+          "cross_district_rate": 0.17647058823529413
+        },
+        {
+          "month": "2023-11",
+          "incidents": 88,
+          "cross_district_rate": 0.14705882352941177
+        },
+        {
+          "month": "2023-12",
+          "incidents": 58,
+          "cross_district_rate": 0.16129032258064516
+        },
+        {
+          "month": "2024-01",
+          "incidents": 74,
+          "cross_district_rate": 0.15555555555555556
+        },
+        {
+          "month": "2024-02",
+          "incidents": 65,
+          "cross_district_rate": 0.11764705882352941
+        },
+        {
+          "month": "2024-03",
+          "incidents": 47,
+          "cross_district_rate": 0.19230769230769232
+        },
+        {
+          "month": "2024-04",
+          "incidents": 65,
+          "cross_district_rate": 0.14705882352941177
+        },
+        {
+          "month": "2024-05",
+          "incidents": 82,
+          "cross_district_rate": 0.18604651162790697
+        },
+        {
+          "month": "2024-06",
+          "incidents": 63,
+          "cross_district_rate": 0.0967741935483871
+        },
+        {
+          "month": "2024-07",
+          "incidents": 87,
+          "cross_district_rate": 0.09090909090909091
+        },
+        {
+          "month": "2024-08",
+          "incidents": 36,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-09",
+          "incidents": 16,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 683,
+        "Fire": 22
+      }
+    },
+    "205": {
+      "district": "205",
+      "home_station": "Sugar Land Fire Station 2",
+      "total_incidents": 50,
+      "total_apparatus_dispatches": 187,
+      "cross_district_rate": 0.44,
+      "cross_district_apparatus_rate": 0.45454545454545453,
+      "priority_breakdown": {
+        "Emergent": 50
+      },
+      "incident_type_top10": [
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 27
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 13
+        },
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 6
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 2
+        },
+        {
+          "item": "Road freight or transport vehicle fire",
+          "count": 1
+        },
+        {
+          "item": "Mobile property (vehicle) fire, other",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        4,
+        9,
+        14,
+        7,
+        3,
+        6,
+        3,
+        5,
+        5,
+        9,
+        0,
+        7,
+        3,
+        4,
+        3,
+        0,
+        34,
+        12,
+        15,
+        6,
+        7,
+        20,
+        0,
+        11
+      ],
+      "day_of_week_distribution": [
+        24,
+        24,
+        18,
+        27,
+        30,
+        30,
+        34
+      ],
+      "shift_breakdown": {
+        "A Shift": 18,
+        "C Shift": 14,
+        "B Shift": 18
+      },
+      "busiest_hour": 16,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 8,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-02",
+          "incidents": 17,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-03",
+          "incidents": 11,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-04",
+          "incidents": 22,
+          "cross_district_rate": 0.8333333333333334
+        },
+        {
+          "month": "2023-05",
+          "incidents": 12,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-06",
+          "incidents": 14,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-07",
+          "incidents": 7,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-08",
+          "incidents": 4,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-10",
+          "incidents": 13,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-11",
+          "incidents": 17,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-12",
+          "incidents": 12,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2024-01",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-02",
+          "incidents": 3,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-03",
+          "incidents": 8,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-04",
+          "incidents": 5,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-05",
+          "incidents": 13,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-06",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-07",
+          "incidents": 7,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-08",
+          "incidents": 8,
+          "cross_district_rate": 0.5
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 46,
+        "Fire": 4
+      }
+    },
+    "206": {
+      "district": "206",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 44,
+      "total_apparatus_dispatches": 156,
+      "cross_district_rate": 0.6363636363636364,
+      "cross_district_apparatus_rate": 0.6089743589743589,
+      "priority_breakdown": {
+        "Emergent": 44
+      },
+      "incident_type_top10": [
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 24
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 11
+        },
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 4
+        },
+        {
+          "item": "Road freight or transport vehicle fire",
+          "count": 3
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 2
+        }
+      ],
+      "hourly_distribution": [
+        7,
+        6,
+        0,
+        10,
+        3,
+        3,
+        4,
+        0,
+        8,
+        8,
+        10,
+        0,
+        13,
+        3,
+        8,
+        13,
+        13,
+        6,
+        7,
+        3,
+        6,
+        3,
+        5,
+        17
+      ],
+      "day_of_week_distribution": [
+        13,
+        16,
+        11,
+        32,
+        14,
+        27,
+        43
+      ],
+      "shift_breakdown": {
+        "B Shift": 15,
+        "A Shift": 13,
+        "C Shift": 16
+      },
+      "busiest_hour": 23,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-02",
+          "incidents": 10,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-03",
+          "incidents": 11,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-04",
+          "incidents": 3,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-05",
+          "incidents": 27,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-06",
+          "incidents": 9,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-07",
+          "incidents": 12,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-08",
+          "incidents": 6,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-09",
+          "incidents": 17,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-10",
+          "incidents": 11,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-11",
+          "incidents": 4,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-12",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-02",
+          "incidents": 5,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-03",
+          "incidents": 5,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-05",
+          "incidents": 14,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-06",
+          "incidents": 5,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-07",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-08",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-09",
+          "incidents": 2,
+          "cross_district_rate": 1
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 39,
+        "Fire": 5
+      }
+    },
+    "302": {
+      "district": "302",
+      "home_station": "Sugar Land Fire Station 3",
+      "total_incidents": 699,
+      "total_apparatus_dispatches": 1377,
+      "cross_district_rate": 0.4821173104434907,
+      "cross_district_apparatus_rate": 0.3369644153957879,
+      "priority_breakdown": {
+        "Emergent": 656,
+        "Non-Emergent": 37,
+        "Emergent Downgraded to Non-Emergent": 3
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 621
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 27
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 19
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 4
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 4
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 4
+        },
+        {
+          "item": "Building fire",
+          "count": 4
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 2
+        },
+        {
+          "item": "Brush or brush-and-grass mixture fire",
+          "count": 2
+        },
+        {
+          "item": "Fires in structure other than in a building",
+          "count": 2
+        }
+      ],
+      "hourly_distribution": [
+        25,
+        26,
+        23,
+        22,
+        24,
+        40,
+        24,
+        41,
+        59,
+        56,
+        67,
+        82,
+        47,
+        81,
+        87,
+        83,
+        98,
+        88,
+        56,
+        66,
+        89,
+        81,
+        46,
+        66
+      ],
+      "day_of_week_distribution": [
+        193,
+        204,
+        183,
+        141,
+        238,
+        227,
+        191
+      ],
+      "shift_breakdown": {
+        "B Shift": 225,
+        "A Shift": 229,
+        "C Shift": 245
+      },
+      "busiest_hour": 16,
+      "busiest_day_of_week": 4,
+      "busiest_day_name": "Thursday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 75,
+          "cross_district_rate": 0.4772727272727273
+        },
+        {
+          "month": "2023-02",
+          "incidents": 46,
+          "cross_district_rate": 0.64
+        },
+        {
+          "month": "2023-03",
+          "incidents": 51,
+          "cross_district_rate": 0.5333333333333333
+        },
+        {
+          "month": "2023-04",
+          "incidents": 91,
+          "cross_district_rate": 0.4146341463414634
+        },
+        {
+          "month": "2023-05",
+          "incidents": 82,
+          "cross_district_rate": 0.4523809523809524
+        },
+        {
+          "month": "2023-06",
+          "incidents": 52,
+          "cross_district_rate": 0.43333333333333335
+        },
+        {
+          "month": "2023-07",
+          "incidents": 70,
+          "cross_district_rate": 0.34285714285714286
+        },
+        {
+          "month": "2023-08",
+          "incidents": 54,
+          "cross_district_rate": 0.5161290322580645
+        },
+        {
+          "month": "2023-09",
+          "incidents": 73,
+          "cross_district_rate": 0.4117647058823529
+        },
+        {
+          "month": "2023-10",
+          "incidents": 87,
+          "cross_district_rate": 0.4864864864864865
+        },
+        {
+          "month": "2023-11",
+          "incidents": 56,
+          "cross_district_rate": 0.65625
+        },
+        {
+          "month": "2023-12",
+          "incidents": 96,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2024-01",
+          "incidents": 56,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-02",
+          "incidents": 64,
+          "cross_district_rate": 0.32142857142857145
+        },
+        {
+          "month": "2024-03",
+          "incidents": 67,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-04",
+          "incidents": 69,
+          "cross_district_rate": 0.6097560975609756
+        },
+        {
+          "month": "2024-05",
+          "incidents": 64,
+          "cross_district_rate": 0.47058823529411764
+        },
+        {
+          "month": "2024-06",
+          "incidents": 67,
+          "cross_district_rate": 0.59375
+        },
+        {
+          "month": "2024-07",
+          "incidents": 87,
+          "cross_district_rate": 0.5454545454545454
+        },
+        {
+          "month": "2024-08",
+          "incidents": 61,
+          "cross_district_rate": 0.5517241379310345
+        },
+        {
+          "month": "2024-09",
+          "incidents": 9,
+          "cross_district_rate": 0.4
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 683,
+        "Fire": 16
+      }
+    },
+    "401": {
+      "district": "401",
+      "home_station": "Sugar Land Fire Station 4",
+      "total_incidents": 268,
+      "total_apparatus_dispatches": 501,
+      "cross_district_rate": 0.208955223880597,
+      "cross_district_apparatus_rate": 0.18762475049900199,
+      "priority_breakdown": {
+        "Emergent": 256,
+        "Non-Emergent": 12
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 256
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 4
+        },
+        {
+          "item": "Building fire",
+          "count": 2
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 1
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 1
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Chimney or flue fire, confined to chimney or flue",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        },
+        {
+          "item": "Outside storage fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        15,
+        16,
+        9,
+        9,
+        11,
+        15,
+        9,
+        9,
+        16,
+        43,
+        23,
+        37,
+        26,
+        29,
+        26,
+        39,
+        28,
+        26,
+        24,
+        20,
+        21,
+        21,
+        21,
+        8
+      ],
+      "day_of_week_distribution": [
+        57,
+        69,
+        72,
+        66,
+        74,
+        84,
+        79
+      ],
+      "shift_breakdown": {
+        "A Shift": 95,
+        "C Shift": 86,
+        "B Shift": 87
+      },
+      "busiest_hour": 9,
+      "busiest_day_of_week": 5,
+      "busiest_day_name": "Friday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 19,
+          "cross_district_rate": 0.08333333333333333
+        },
+        {
+          "month": "2023-02",
+          "incidents": 20,
+          "cross_district_rate": 0.1
+        },
+        {
+          "month": "2023-03",
+          "incidents": 13,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-04",
+          "incidents": 25,
+          "cross_district_rate": 0.06666666666666667
+        },
+        {
+          "month": "2023-05",
+          "incidents": 20,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2023-06",
+          "incidents": 9,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-07",
+          "incidents": 28,
+          "cross_district_rate": 0.29411764705882354
+        },
+        {
+          "month": "2023-08",
+          "incidents": 28,
+          "cross_district_rate": 0.21428571428571427
+        },
+        {
+          "month": "2023-09",
+          "incidents": 21,
+          "cross_district_rate": 0.2727272727272727
+        },
+        {
+          "month": "2023-10",
+          "incidents": 26,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-11",
+          "incidents": 14,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2023-12",
+          "incidents": 46,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2024-01",
+          "incidents": 35,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-02",
+          "incidents": 31,
+          "cross_district_rate": 0.23076923076923078
+        },
+        {
+          "month": "2024-03",
+          "incidents": 23,
+          "cross_district_rate": 0.07142857142857142
+        },
+        {
+          "month": "2024-04",
+          "incidents": 26,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2024-05",
+          "incidents": 40,
+          "cross_district_rate": 0.4090909090909091
+        },
+        {
+          "month": "2024-06",
+          "incidents": 17,
+          "cross_district_rate": 0.4166666666666667
+        },
+        {
+          "month": "2024-07",
+          "incidents": 42,
+          "cross_district_rate": 0.20833333333333334
+        },
+        {
+          "month": "2024-08",
+          "incidents": 15,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2024-09",
+          "incidents": 3,
+          "cross_district_rate": 0.6666666666666666
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 263,
+        "Fire": 5
+      }
+    },
+    "402": {
+      "district": "402",
+      "home_station": "Sugar Land Fire Station 4",
+      "total_incidents": 252,
+      "total_apparatus_dispatches": 482,
+      "cross_district_rate": 0.19047619047619047,
+      "cross_district_apparatus_rate": 0.16182572614107885,
+      "priority_breakdown": {
+        "Emergent": 240,
+        "Non-Emergent": 9,
+        "Emergent Downgraded to Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 240
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 3
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 2
+        },
+        {
+          "item": "Confined space rescue",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 1
+        },
+        {
+          "item": "Natural vegetation fire, other",
+          "count": 1
+        },
+        {
+          "item": "Outside equipment fire",
+          "count": 1
+        },
+        {
+          "item": "Cooking fire, confined to container",
+          "count": 1
+        },
+        {
+          "item": "Off-road vehicle or heavy equipment fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        17,
+        6,
+        5,
+        3,
+        13,
+        8,
+        12,
+        8,
+        20,
+        28,
+        26,
+        36,
+        23,
+        23,
+        26,
+        48,
+        28,
+        16,
+        14,
+        42,
+        18,
+        33,
+        20,
+        9
+      ],
+      "day_of_week_distribution": [
+        57,
+        73,
+        74,
+        74,
+        60,
+        68,
+        76
+      ],
+      "shift_breakdown": {
+        "A Shift": 97,
+        "C Shift": 72,
+        "B Shift": 83
+      },
+      "busiest_hour": 15,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 19,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-02",
+          "incidents": 10,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-03",
+          "incidents": 16,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2023-04",
+          "incidents": 21,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2023-05",
+          "incidents": 26,
+          "cross_district_rate": 0.13333333333333333
+        },
+        {
+          "month": "2023-06",
+          "incidents": 24,
+          "cross_district_rate": 0.08333333333333333
+        },
+        {
+          "month": "2023-07",
+          "incidents": 16,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2023-08",
+          "incidents": 21,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-09",
+          "incidents": 32,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2023-10",
+          "incidents": 36,
+          "cross_district_rate": 0.10526315789473684
+        },
+        {
+          "month": "2023-11",
+          "incidents": 28,
+          "cross_district_rate": 0.38461538461538464
+        },
+        {
+          "month": "2023-12",
+          "incidents": 31,
+          "cross_district_rate": 0.23529411764705882
+        },
+        {
+          "month": "2024-01",
+          "incidents": 14,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-02",
+          "incidents": 20,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-03",
+          "incidents": 19,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 29,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-05",
+          "incidents": 34,
+          "cross_district_rate": 0.13333333333333333
+        },
+        {
+          "month": "2024-06",
+          "incidents": 33,
+          "cross_district_rate": 0.13333333333333333
+        },
+        {
+          "month": "2024-07",
+          "incidents": 36,
+          "cross_district_rate": 0.1875
+        },
+        {
+          "month": "2024-08",
+          "incidents": 10,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2024-09",
+          "incidents": 7,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 248,
+        "Fire": 4
+      }
+    },
+    "403": {
+      "district": "403",
+      "home_station": "Sugar Land Fire Station 4",
+      "total_incidents": 110,
+      "total_apparatus_dispatches": 198,
+      "cross_district_rate": 0.21818181818181817,
+      "cross_district_apparatus_rate": 0.19696969696969696,
+      "priority_breakdown": {
+        "Emergent": 108,
+        "Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 102
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 2
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 2
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 1
+        },
+        {
+          "item": "Extrication of victim(s) from vehicle",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 1
+        },
+        {
+          "item": "Special outside fire, other",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        1,
+        2,
+        0,
+        2,
+        4,
+        0,
+        1,
+        11,
+        7,
+        10,
+        35,
+        17,
+        14,
+        26,
+        10,
+        10,
+        4,
+        9,
+        8,
+        6,
+        0,
+        9,
+        3,
+        9
+      ],
+      "day_of_week_distribution": [
+        32,
+        38,
+        20,
+        29,
+        36,
+        23,
+        20
+      ],
+      "shift_breakdown": {
+        "C Shift": 34,
+        "A Shift": 41,
+        "B Shift": 35
+      },
+      "busiest_hour": 10,
+      "busiest_day_of_week": 1,
+      "busiest_day_name": "Monday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 10,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-02",
+          "incidents": 8,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-03",
+          "incidents": 12,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2023-04",
+          "incidents": 18,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2023-05",
+          "incidents": 13,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2023-06",
+          "incidents": 13,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2023-08",
+          "incidents": 11,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2023-09",
+          "incidents": 9,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-10",
+          "incidents": 15,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-11",
+          "incidents": 4,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-12",
+          "incidents": 3,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-01",
+          "incidents": 20,
+          "cross_district_rate": 0.6
+        },
+        {
+          "month": "2024-02",
+          "incidents": 18,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-03",
+          "incidents": 9,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 9,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2024-05",
+          "incidents": 4,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-06",
+          "incidents": 7,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-07",
+          "incidents": 10,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2024-08",
+          "incidents": 2,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-09",
+          "incidents": 3,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 109,
+        "Fire": 1
+      }
+    },
+    "404": {
+      "district": "404",
+      "home_station": "Sugar Land Fire Station 4",
+      "total_incidents": 175,
+      "total_apparatus_dispatches": 310,
+      "cross_district_rate": 0.21142857142857144,
+      "cross_district_apparatus_rate": 0.2,
+      "priority_breakdown": {
+        "Emergent": 169,
+        "Non-Emergent": 5,
+        "Non-Emergent Upgraded to Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 163
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 6
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 3
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 2
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        2,
+        10,
+        6,
+        6,
+        1,
+        7,
+        8,
+        6,
+        21,
+        17,
+        21,
+        22,
+        17,
+        25,
+        20,
+        23,
+        14,
+        11,
+        19,
+        12,
+        5,
+        13,
+        18,
+        6
+      ],
+      "day_of_week_distribution": [
+        34,
+        42,
+        54,
+        43,
+        41,
+        48,
+        48
+      ],
+      "shift_breakdown": {
+        "B Shift": 60,
+        "C Shift": 61,
+        "A Shift": 54
+      },
+      "busiest_hour": 13,
+      "busiest_day_of_week": 2,
+      "busiest_day_name": "Tuesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 17,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2023-02",
+          "incidents": 18,
+          "cross_district_rate": 0.36363636363636365
+        },
+        {
+          "month": "2023-03",
+          "incidents": 10,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2023-04",
+          "incidents": 17,
+          "cross_district_rate": 0.09090909090909091
+        },
+        {
+          "month": "2023-05",
+          "incidents": 12,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2023-06",
+          "incidents": 11,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-07",
+          "incidents": 11,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-08",
+          "incidents": 15,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2023-09",
+          "incidents": 10,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2023-10",
+          "incidents": 22,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-11",
+          "incidents": 22,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-12",
+          "incidents": 12,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-01",
+          "incidents": 35,
+          "cross_district_rate": 0.17391304347826086
+        },
+        {
+          "month": "2024-02",
+          "incidents": 14,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2024-03",
+          "incidents": 7,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-04",
+          "incidents": 21,
+          "cross_district_rate": 0.18181818181818182
+        },
+        {
+          "month": "2024-05",
+          "incidents": 12,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2024-06",
+          "incidents": 11,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2024-07",
+          "incidents": 17,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2024-08",
+          "incidents": 16,
+          "cross_district_rate": 0.125
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 175
+      }
+    },
+    "501": {
+      "district": "501",
+      "home_station": "Sugar Land Fire Station 5",
+      "total_incidents": 263,
+      "total_apparatus_dispatches": 535,
+      "cross_district_rate": 0.376425855513308,
+      "cross_district_apparatus_rate": 0.3121495327102804,
+      "priority_breakdown": {
+        "Emergent": 252,
+        "Non-Emergent": 8,
+        "Emergent Downgraded to Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 224
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 14
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 7
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 6
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 5
+        },
+        {
+          "item": "Water & ice-related rescue  other",
+          "count": 1
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 1
+        },
+        {
+          "item": "Outside equipment fire",
+          "count": 1
+        },
+        {
+          "item": "Building fire",
+          "count": 1
+        },
+        {
+          "item": "Grass fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        0,
+        10,
+        18,
+        7,
+        5,
+        8,
+        3,
+        16,
+        16,
+        33,
+        32,
+        34,
+        41,
+        27,
+        29,
+        40,
+        33,
+        30,
+        27,
+        46,
+        23,
+        19,
+        15,
+        23
+      ],
+      "day_of_week_distribution": [
+        65,
+        76,
+        85,
+        78,
+        95,
+        74,
+        62
+      ],
+      "shift_breakdown": {
+        "B Shift": 94,
+        "C Shift": 85,
+        "A Shift": 84
+      },
+      "busiest_hour": 19,
+      "busiest_day_of_week": 4,
+      "busiest_day_name": "Thursday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 35,
+          "cross_district_rate": 0.47368421052631576
+        },
+        {
+          "month": "2023-02",
+          "incidents": 25,
+          "cross_district_rate": 0.09090909090909091
+        },
+        {
+          "month": "2023-03",
+          "incidents": 28,
+          "cross_district_rate": 0.07692307692307693
+        },
+        {
+          "month": "2023-04",
+          "incidents": 17,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-05",
+          "incidents": 32,
+          "cross_district_rate": 0.13333333333333333
+        },
+        {
+          "month": "2023-06",
+          "incidents": 14,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-07",
+          "incidents": 20,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-08",
+          "incidents": 28,
+          "cross_district_rate": 0.15384615384615385
+        },
+        {
+          "month": "2023-09",
+          "incidents": 24,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-10",
+          "incidents": 22,
+          "cross_district_rate": 0.09090909090909091
+        },
+        {
+          "month": "2023-11",
+          "incidents": 41,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-12",
+          "incidents": 16,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-01",
+          "incidents": 38,
+          "cross_district_rate": 0.6190476190476191
+        },
+        {
+          "month": "2024-02",
+          "incidents": 15,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2024-03",
+          "incidents": 36,
+          "cross_district_rate": 0.6842105263157895
+        },
+        {
+          "month": "2024-04",
+          "incidents": 39,
+          "cross_district_rate": 0.5263157894736842
+        },
+        {
+          "month": "2024-05",
+          "incidents": 25,
+          "cross_district_rate": 0.6153846153846154
+        },
+        {
+          "month": "2024-06",
+          "incidents": 28,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-07",
+          "incidents": 26,
+          "cross_district_rate": 0.46153846153846156
+        },
+        {
+          "month": "2024-08",
+          "incidents": 19,
+          "cross_district_rate": 0.7
+        },
+        {
+          "month": "2024-09",
+          "incidents": 7,
+          "cross_district_rate": 0.75
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 258,
+        "Fire": 5
+      }
+    },
+    "502": {
+      "district": "502",
+      "home_station": "Sugar Land Fire Station 5",
+      "total_incidents": 300,
+      "total_apparatus_dispatches": 451,
+      "cross_district_rate": 0.21333333333333335,
+      "cross_district_apparatus_rate": 0.1973392461197339,
+      "priority_breakdown": {
+        "Emergent": 287,
+        "Non-Emergent": 12,
+        "Emergent Downgraded to Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 236
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 39
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 9
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 7
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 4
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Trash or rubbish fire, contained",
+          "count": 1
+        },
+        {
+          "item": "Dumpster or other outside trash receptacle fire",
+          "count": 1
+        },
+        {
+          "item": "Outside rubbish fire, other",
+          "count": 1
+        },
+        {
+          "item": "Grass fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        10,
+        15,
+        4,
+        2,
+        10,
+        4,
+        15,
+        6,
+        25,
+        37,
+        31,
+        20,
+        26,
+        25,
+        21,
+        18,
+        24,
+        39,
+        25,
+        22,
+        18,
+        25,
+        18,
+        11
+      ],
+      "day_of_week_distribution": [
+        68,
+        47,
+        58,
+        72,
+        64,
+        89,
+        53
+      ],
+      "shift_breakdown": {
+        "A Shift": 109,
+        "B Shift": 110,
+        "C Shift": 81
+      },
+      "busiest_hour": 17,
+      "busiest_day_of_week": 5,
+      "busiest_day_name": "Friday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 20,
+          "cross_district_rate": 0.36363636363636365
+        },
+        {
+          "month": "2023-02",
+          "incidents": 29,
+          "cross_district_rate": 0.10526315789473684
+        },
+        {
+          "month": "2023-03",
+          "incidents": 37,
+          "cross_district_rate": 0.17391304347826086
+        },
+        {
+          "month": "2023-04",
+          "incidents": 14,
+          "cross_district_rate": 0.08333333333333333
+        },
+        {
+          "month": "2023-05",
+          "incidents": 6,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-06",
+          "incidents": 32,
+          "cross_district_rate": 0.09090909090909091
+        },
+        {
+          "month": "2023-07",
+          "incidents": 24,
+          "cross_district_rate": 0.07142857142857142
+        },
+        {
+          "month": "2023-08",
+          "incidents": 20,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2023-09",
+          "incidents": 25,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2023-10",
+          "incidents": 9,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-11",
+          "incidents": 25,
+          "cross_district_rate": 0.21052631578947367
+        },
+        {
+          "month": "2023-12",
+          "incidents": 18,
+          "cross_district_rate": 0.08333333333333333
+        },
+        {
+          "month": "2024-01",
+          "incidents": 23,
+          "cross_district_rate": 0.4117647058823529
+        },
+        {
+          "month": "2024-02",
+          "incidents": 25,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-03",
+          "incidents": 18,
+          "cross_district_rate": 0.3125
+        },
+        {
+          "month": "2024-04",
+          "incidents": 16,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2024-05",
+          "incidents": 41,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-06",
+          "incidents": 33,
+          "cross_district_rate": 0.22727272727272727
+        },
+        {
+          "month": "2024-07",
+          "incidents": 19,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-08",
+          "incidents": 13,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2024-09",
+          "incidents": 4,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 296,
+        "Fire": 4
+      }
+    },
+    "503": {
+      "district": "503",
+      "home_station": "Sugar Land Fire Station 5",
+      "total_incidents": 143,
+      "total_apparatus_dispatches": 306,
+      "cross_district_rate": 0.4405594405594406,
+      "cross_district_apparatus_rate": 0.3954248366013072,
+      "priority_breakdown": {
+        "Emergent": 133,
+        "Non-Emergent": 10
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 102
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 11
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 9
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 4
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 4
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 3
+        },
+        {
+          "item": "Forest, woods or wildland fire",
+          "count": 3
+        },
+        {
+          "item": "Grass fire",
+          "count": 2
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 1
+        },
+        {
+          "item": "Extrication  rescue  other",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        19,
+        1,
+        2,
+        1,
+        0,
+        0,
+        6,
+        2,
+        15,
+        20,
+        14,
+        11,
+        23,
+        25,
+        13,
+        14,
+        13,
+        33,
+        18,
+        18,
+        12,
+        15,
+        16,
+        15
+      ],
+      "day_of_week_distribution": [
+        48,
+        30,
+        24,
+        36,
+        52,
+        42,
+        74
+      ],
+      "shift_breakdown": {
+        "C Shift": 34,
+        "A Shift": 49,
+        "B Shift": 60
+      },
+      "busiest_hour": 17,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 20,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-02",
+          "incidents": 7,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-03",
+          "incidents": 19,
+          "cross_district_rate": 0.6
+        },
+        {
+          "month": "2023-04",
+          "incidents": 13,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2023-05",
+          "incidents": 32,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-06",
+          "incidents": 23,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2023-07",
+          "incidents": 16,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2023-08",
+          "incidents": 19,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-09",
+          "incidents": 26,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-10",
+          "incidents": 11,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2023-11",
+          "incidents": 19,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2023-12",
+          "incidents": 17,
+          "cross_district_rate": 0.7142857142857143
+        },
+        {
+          "month": "2024-01",
+          "incidents": 3,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-02",
+          "incidents": 18,
+          "cross_district_rate": 0.5555555555555556
+        },
+        {
+          "month": "2024-03",
+          "incidents": 6,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2024-04",
+          "incidents": 20,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2024-05",
+          "incidents": 11,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2024-06",
+          "incidents": 12,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2024-07",
+          "incidents": 8,
+          "cross_district_rate": 0.8
+        },
+        {
+          "month": "2024-08",
+          "incidents": 5,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-09",
+          "incidents": 1,
+          "cross_district_rate": 1
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 135,
+        "Fire": 8
+      }
+    },
+    "601": {
+      "district": "601",
+      "home_station": "Sugar Land Fire Station 6",
+      "total_incidents": 1062,
+      "total_apparatus_dispatches": 1862,
+      "cross_district_rate": 0.11958568738229755,
+      "cross_district_apparatus_rate": 0.10526315789473684,
+      "priority_breakdown": {
+        "Emergent": 967,
+        "Non-Emergent": 79,
+        "Emergent Downgraded to Non-Emergent": 10,
+        "Non-Emergent Upgraded to Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 938
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 32
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 31
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 19
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 11
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 4
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 4
+        },
+        {
+          "item": "Cooking fire, confined to container",
+          "count": 4
+        },
+        {
+          "item": "Building fire",
+          "count": 4
+        },
+        {
+          "item": "Extrication  rescue  other",
+          "count": 2
+        }
+      ],
+      "hourly_distribution": [
+        61,
+        35,
+        36,
+        28,
+        39,
+        35,
+        39,
+        75,
+        72,
+        106,
+        121,
+        161,
+        100,
+        144,
+        112,
+        90,
+        110,
+        86,
+        87,
+        71,
+        74,
+        70,
+        66,
+        44
+      ],
+      "day_of_week_distribution": [
+        253,
+        277,
+        320,
+        243,
+        292,
+        254,
+        223
+      ],
+      "shift_breakdown": {
+        "B Shift": 379,
+        "C Shift": 314,
+        "A Shift": 369
+      },
+      "busiest_hour": 11,
+      "busiest_day_of_week": 2,
+      "busiest_day_name": "Tuesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 86,
+          "cross_district_rate": 0.17647058823529413
+        },
+        {
+          "month": "2023-02",
+          "incidents": 60,
+          "cross_district_rate": 0.09090909090909091
+        },
+        {
+          "month": "2023-03",
+          "incidents": 87,
+          "cross_district_rate": 0.16326530612244897
+        },
+        {
+          "month": "2023-04",
+          "incidents": 83,
+          "cross_district_rate": 0.07017543859649122
+        },
+        {
+          "month": "2023-05",
+          "incidents": 105,
+          "cross_district_rate": 0.11666666666666667
+        },
+        {
+          "month": "2023-06",
+          "incidents": 89,
+          "cross_district_rate": 0.17307692307692307
+        },
+        {
+          "month": "2023-07",
+          "incidents": 74,
+          "cross_district_rate": 0.19047619047619047
+        },
+        {
+          "month": "2023-08",
+          "incidents": 114,
+          "cross_district_rate": 0.140625
+        },
+        {
+          "month": "2023-09",
+          "incidents": 99,
+          "cross_district_rate": 0.11538461538461539
+        },
+        {
+          "month": "2023-10",
+          "incidents": 94,
+          "cross_district_rate": 0.1346153846153846
+        },
+        {
+          "month": "2023-11",
+          "incidents": 112,
+          "cross_district_rate": 0.12280701754385964
+        },
+        {
+          "month": "2023-12",
+          "incidents": 122,
+          "cross_district_rate": 0.12857142857142856
+        },
+        {
+          "month": "2024-01",
+          "incidents": 111,
+          "cross_district_rate": 0.08064516129032258
+        },
+        {
+          "month": "2024-02",
+          "incidents": 89,
+          "cross_district_rate": 0.057692307692307696
+        },
+        {
+          "month": "2024-03",
+          "incidents": 75,
+          "cross_district_rate": 0.05
+        },
+        {
+          "month": "2024-04",
+          "incidents": 100,
+          "cross_district_rate": 0.10714285714285714
+        },
+        {
+          "month": "2024-05",
+          "incidents": 105,
+          "cross_district_rate": 0.16071428571428573
+        },
+        {
+          "month": "2024-06",
+          "incidents": 82,
+          "cross_district_rate": 0.08163265306122448
+        },
+        {
+          "month": "2024-07",
+          "incidents": 109,
+          "cross_district_rate": 0.12698412698412698
+        },
+        {
+          "month": "2024-08",
+          "incidents": 47,
+          "cross_district_rate": 0.045454545454545456
+        },
+        {
+          "month": "2024-09",
+          "incidents": 19,
+          "cross_district_rate": 0.16666666666666666
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 1046,
+        "Fire": 16
+      }
+    },
+    "604": {
+      "district": "604",
+      "home_station": "Sugar Land Fire Station 6",
+      "total_incidents": 5,
+      "total_apparatus_dispatches": 7,
+      "cross_district_rate": 0,
+      "cross_district_apparatus_rate": 0,
+      "priority_breakdown": {
+        "Emergent": 5
+      },
+      "incident_type_top10": [
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 2
+        },
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        },
+        {
+          "item": "Grass fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "day_of_week_distribution": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "shift_breakdown": {
+        "B Shift": 3,
+        "A Shift": 2
+      },
+      "busiest_hour": 15,
+      "busiest_day_of_week": 0,
+      "busiest_day_name": "Sunday",
+      "monthly_trend": [
+        {
+          "month": "2023-02",
+          "incidents": 1,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-06",
+          "incidents": 1,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-09",
+          "incidents": 1,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-06",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-09",
+          "incidents": 1,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 3,
+        "Fire": 2
+      }
+    },
+    "605": {
+      "district": "605",
+      "home_station": "Sugar Land Fire Station 6",
+      "total_incidents": 364,
+      "total_apparatus_dispatches": 414,
+      "cross_district_rate": 0.04945054945054945,
+      "cross_district_apparatus_rate": 0.04589371980676329,
+      "priority_breakdown": {
+        "Non-Emergent": 23,
+        "Emergent": 338,
+        "Emergent Downgraded to Non-Emergent": 2
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 249
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 100
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 3
+        },
+        {
+          "item": "Outside rubbish, trash or waste fire",
+          "count": 3
+        },
+        {
+          "item": "Brush or brush-and-grass mixture fire",
+          "count": 3
+        },
+        {
+          "item": "Building fire",
+          "count": 2
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 1
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 1
+        },
+        {
+          "item": "Trash or rubbish fire, contained",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        10,
+        16,
+        7,
+        14,
+        5,
+        8,
+        9,
+        15,
+        17,
+        21,
+        20,
+        12,
+        19,
+        15,
+        15,
+        20,
+        22,
+        21,
+        31,
+        25,
+        29,
+        19,
+        25,
+        19
+      ],
+      "day_of_week_distribution": [
+        64,
+        68,
+        53,
+        54,
+        67,
+        46,
+        62
+      ],
+      "shift_breakdown": {
+        "B Shift": 112,
+        "C Shift": 112,
+        "A Shift": 140
+      },
+      "busiest_hour": 18,
+      "busiest_day_of_week": 1,
+      "busiest_day_name": "Monday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 24,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-02",
+          "incidents": 11,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-03",
+          "incidents": 22,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-04",
+          "incidents": 29,
+          "cross_district_rate": 0.17857142857142858
+        },
+        {
+          "month": "2023-05",
+          "incidents": 20,
+          "cross_district_rate": 0.05263157894736842
+        },
+        {
+          "month": "2023-06",
+          "incidents": 20,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-07",
+          "incidents": 23,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-08",
+          "incidents": 16,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2023-09",
+          "incidents": 27,
+          "cross_district_rate": 0.043478260869565216
+        },
+        {
+          "month": "2023-10",
+          "incidents": 24,
+          "cross_district_rate": 0.058823529411764705
+        },
+        {
+          "month": "2023-11",
+          "incidents": 22,
+          "cross_district_rate": 0.13636363636363635
+        },
+        {
+          "month": "2023-12",
+          "incidents": 23,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-01",
+          "incidents": 17,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-02",
+          "incidents": 16,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-03",
+          "incidents": 24,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 26,
+          "cross_district_rate": 0.043478260869565216
+        },
+        {
+          "month": "2024-05",
+          "incidents": 25,
+          "cross_district_rate": 0.05263157894736842
+        },
+        {
+          "month": "2024-06",
+          "incidents": 13,
+          "cross_district_rate": 0.15384615384615385
+        },
+        {
+          "month": "2024-07",
+          "incidents": 23,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-08",
+          "incidents": 7,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2024-09",
+          "incidents": 2,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 354,
+        "Fire": 10
+      }
+    },
+    "607": {
+      "district": "607",
+      "home_station": "Sugar Land Fire Station 6",
+      "total_incidents": 13,
+      "total_apparatus_dispatches": 45,
+      "cross_district_rate": 0.23076923076923078,
+      "cross_district_apparatus_rate": 0.17777777777777778,
+      "priority_breakdown": {
+        "Emergent": 12,
+        "Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 5
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 5
+        },
+        {
+          "item": "Swift water rescue",
+          "count": 1
+        },
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        7,
+        2,
+        2,
+        3,
+        0,
+        0,
+        3,
+        12,
+        0,
+        4,
+        8,
+        2,
+        0,
+        0,
+        0
+      ],
+      "day_of_week_distribution": [
+        14,
+        0,
+        10,
+        2,
+        10,
+        5,
+        4
+      ],
+      "shift_breakdown": {
+        "A Shift": 4,
+        "B Shift": 7,
+        "C Shift": 2
+      },
+      "busiest_hour": 16,
+      "busiest_day_of_week": 0,
+      "busiest_day_name": "Sunday",
+      "monthly_trend": [
+        {
+          "month": "2023-02",
+          "incidents": 4,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-06",
+          "incidents": 2,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-09",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-10",
+          "incidents": 12,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-12",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-01",
+          "incidents": 5,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-02",
+          "incidents": 5,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-03",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-05",
+          "incidents": 2,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-06",
+          "incidents": 3,
+          "cross_district_rate": 0.5
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 12,
+        "Fire": 1
+      }
+    },
+    "608": {
+      "district": "608",
+      "home_station": "Sugar Land Fire Station 6",
+      "total_incidents": 28,
+      "total_apparatus_dispatches": 101,
+      "cross_district_rate": 0.17857142857142858,
+      "cross_district_apparatus_rate": 0.1782178217821782,
+      "priority_breakdown": {
+        "Emergent": 27,
+        "Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 19
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 5
+        },
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 4
+        }
+      ],
+      "hourly_distribution": [
+        0,
+        0,
+        2,
+        4,
+        0,
+        3,
+        4,
+        9,
+        10,
+        6,
+        13,
+        4,
+        3,
+        5,
+        0,
+        16,
+        9,
+        0,
+        0,
+        2,
+        0,
+        3,
+        5,
+        3
+      ],
+      "day_of_week_distribution": [
+        3,
+        14,
+        20,
+        9,
+        16,
+        18,
+        21
+      ],
+      "shift_breakdown": {
+        "B Shift": 6,
+        "A Shift": 10,
+        "C Shift": 12
+      },
+      "busiest_hour": 15,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-02",
+          "incidents": 5,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-04",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-05",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-06",
+          "incidents": 9,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-07",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-09",
+          "incidents": 7,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-10",
+          "incidents": 4,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-11",
+          "incidents": 17,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-12",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-01",
+          "incidents": 5,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-02",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-05",
+          "incidents": 4,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-06",
+          "incidents": 9,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-08",
+          "incidents": 10,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-09",
+          "incidents": 4,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 28
+      }
+    },
+    "609": {
+      "district": "609",
+      "home_station": "Sugar Land Fire Station 1",
+      "total_incidents": 27,
+      "total_apparatus_dispatches": 100,
+      "cross_district_rate": 0.7037037037037037,
+      "cross_district_apparatus_rate": 0.7,
+      "priority_breakdown": {
+        "Emergent": 26,
+        "Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 18
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 5
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 2
+        },
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 1
+        },
+        {
+          "item": "Road freight or transport vehicle fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        0,
+        0,
+        0,
+        3,
+        3,
+        0,
+        3,
+        0,
+        4,
+        8,
+        10,
+        11,
+        9,
+        15,
+        5,
+        2,
+        5,
+        7,
+        0,
+        5,
+        3,
+        2,
+        5,
+        0
+      ],
+      "day_of_week_distribution": [
+        9,
+        8,
+        6,
+        24,
+        26,
+        22,
+        5
+      ],
+      "shift_breakdown": {
+        "A Shift": 7,
+        "B Shift": 10,
+        "C Shift": 10
+      },
+      "busiest_hour": 13,
+      "busiest_day_of_week": 4,
+      "busiest_day_name": "Thursday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-02",
+          "incidents": 6,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-03",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-06",
+          "incidents": 2,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-08",
+          "incidents": 4,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-10",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-11",
+          "incidents": 11,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2023-12",
+          "incidents": 12,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-01",
+          "incidents": 13,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2024-02",
+          "incidents": 8,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-03",
+          "incidents": 7,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-04",
+          "incidents": 3,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-05",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-06",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-07",
+          "incidents": 12,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-09",
+          "incidents": 4,
+          "cross_district_rate": 1
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 24,
+        "Fire": 3
+      }
+    },
+    "610": {
+      "district": "610",
+      "home_station": "Sugar Land Fire Station 6",
+      "total_incidents": 761,
+      "total_apparatus_dispatches": 1294,
+      "cross_district_rate": 0.1314060446780552,
+      "cross_district_apparatus_rate": 0.1143740340030912,
+      "priority_breakdown": {
+        "Emergent": 709,
+        "Non-Emergent": 42,
+        "Emergent Downgraded to Non-Emergent": 9
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 682
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 26
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 18
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 11
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 4
+        },
+        {
+          "item": "Grass fire",
+          "count": 4
+        },
+        {
+          "item": "Building fire",
+          "count": 3
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 3
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 2
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        27,
+        17,
+        26,
+        18,
+        30,
+        26,
+        21,
+        37,
+        46,
+        68,
+        69,
+        97,
+        117,
+        80,
+        60,
+        76,
+        92,
+        77,
+        56,
+        73,
+        58,
+        45,
+        42,
+        36
+      ],
+      "day_of_week_distribution": [
+        182,
+        181,
+        180,
+        182,
+        189,
+        180,
+        200
+      ],
+      "shift_breakdown": {
+        "B Shift": 238,
+        "C Shift": 246,
+        "A Shift": 277
+      },
+      "busiest_hour": 12,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 75,
+          "cross_district_rate": 0.1276595744680851
+        },
+        {
+          "month": "2023-02",
+          "incidents": 65,
+          "cross_district_rate": 0.20512820512820512
+        },
+        {
+          "month": "2023-03",
+          "incidents": 65,
+          "cross_district_rate": 0.12195121951219512
+        },
+        {
+          "month": "2023-04",
+          "incidents": 67,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-05",
+          "incidents": 57,
+          "cross_district_rate": 0.22857142857142856
+        },
+        {
+          "month": "2023-06",
+          "incidents": 69,
+          "cross_district_rate": 0.21428571428571427
+        },
+        {
+          "month": "2023-07",
+          "incidents": 52,
+          "cross_district_rate": 0.08823529411764706
+        },
+        {
+          "month": "2023-08",
+          "incidents": 84,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2023-09",
+          "incidents": 50,
+          "cross_district_rate": 0.13333333333333333
+        },
+        {
+          "month": "2023-10",
+          "incidents": 48,
+          "cross_district_rate": 0.07142857142857142
+        },
+        {
+          "month": "2023-11",
+          "incidents": 95,
+          "cross_district_rate": 0.03571428571428571
+        },
+        {
+          "month": "2023-12",
+          "incidents": 64,
+          "cross_district_rate": 0.08571428571428572
+        },
+        {
+          "month": "2024-01",
+          "incidents": 69,
+          "cross_district_rate": 0.21951219512195122
+        },
+        {
+          "month": "2024-02",
+          "incidents": 79,
+          "cross_district_rate": 0.14634146341463414
+        },
+        {
+          "month": "2024-03",
+          "incidents": 58,
+          "cross_district_rate": 0.1
+        },
+        {
+          "month": "2024-04",
+          "incidents": 62,
+          "cross_district_rate": 0.10810810810810811
+        },
+        {
+          "month": "2024-05",
+          "incidents": 59,
+          "cross_district_rate": 0.08823529411764706
+        },
+        {
+          "month": "2024-06",
+          "incidents": 52,
+          "cross_district_rate": 0.0625
+        },
+        {
+          "month": "2024-07",
+          "incidents": 65,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2024-08",
+          "incidents": 50,
+          "cross_district_rate": 0.15384615384615385
+        },
+        {
+          "month": "2024-09",
+          "incidents": 9,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 746,
+        "Fire": 15
+      }
+    },
+    "701": {
+      "district": "701",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 159,
+      "total_apparatus_dispatches": 349,
+      "cross_district_rate": 0.3270440251572327,
+      "cross_district_apparatus_rate": 0.27507163323782235,
+      "priority_breakdown": {
+        "Emergent": 146,
+        "Non-Emergent": 12,
+        "Emergent Downgraded to Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 143
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 6
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 3
+        },
+        {
+          "item": "Building fire",
+          "count": 2
+        },
+        {
+          "item": "Grass fire",
+          "count": 2
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Outside equipment fire",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        7,
+        5,
+        7,
+        4,
+        4,
+        6,
+        4,
+        14,
+        29,
+        45,
+        20,
+        36,
+        8,
+        26,
+        17,
+        9,
+        9,
+        12,
+        16,
+        10,
+        25,
+        18,
+        12,
+        6
+      ],
+      "day_of_week_distribution": [
+        38,
+        29,
+        72,
+        49,
+        35,
+        72,
+        54
+      ],
+      "shift_breakdown": {
+        "C Shift": 45,
+        "B Shift": 67,
+        "A Shift": 47
+      },
+      "busiest_hour": 9,
+      "busiest_day_of_week": 2,
+      "busiest_day_name": "Tuesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 4,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-02",
+          "incidents": 29,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-03",
+          "incidents": 30,
+          "cross_district_rate": 0.23076923076923078
+        },
+        {
+          "month": "2023-04",
+          "incidents": 7,
+          "cross_district_rate": 0.8
+        },
+        {
+          "month": "2023-05",
+          "incidents": 25,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2023-06",
+          "incidents": 17,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2023-07",
+          "incidents": 15,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-08",
+          "incidents": 25,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-09",
+          "incidents": 32,
+          "cross_district_rate": 0.5625
+        },
+        {
+          "month": "2023-10",
+          "incidents": 22,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-11",
+          "incidents": 27,
+          "cross_district_rate": 0.45454545454545453
+        },
+        {
+          "month": "2023-12",
+          "incidents": 11,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-01",
+          "incidents": 15,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2024-02",
+          "incidents": 23,
+          "cross_district_rate": 0.07142857142857142
+        },
+        {
+          "month": "2024-03",
+          "incidents": 11,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 11,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2024-05",
+          "incidents": 20,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-06",
+          "incidents": 9,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2024-07",
+          "incidents": 9,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-08",
+          "incidents": 5,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-09",
+          "incidents": 2,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 153,
+        "Fire": 6
+      }
+    },
+    "702": {
+      "district": "702",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 196,
+      "total_apparatus_dispatches": 385,
+      "cross_district_rate": 0.35714285714285715,
+      "cross_district_apparatus_rate": 0.2831168831168831,
+      "priority_breakdown": {
+        "Emergent": 181,
+        "Non-Emergent": 11,
+        "Non-Emergent Upgraded to Emergent": 1,
+        "Emergent Downgraded to Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 173
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 6
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 6
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 3
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 1
+        },
+        {
+          "item": "Brush or brush-and-grass mixture fire",
+          "count": 1
+        },
+        {
+          "item": "Dumpster or other outside trash receptacle fire",
+          "count": 1
+        },
+        {
+          "item": "Cooking fire, confined to container",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        },
+        {
+          "item": "Special outside fire, other",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        12,
+        18,
+        14,
+        10,
+        2,
+        3,
+        10,
+        13,
+        17,
+        36,
+        21,
+        20,
+        25,
+        16,
+        35,
+        16,
+        19,
+        11,
+        20,
+        18,
+        14,
+        10,
+        15,
+        10
+      ],
+      "day_of_week_distribution": [
+        50,
+        50,
+        58,
+        63,
+        68,
+        39,
+        57
+      ],
+      "shift_breakdown": {
+        "C Shift": 49,
+        "B Shift": 74,
+        "A Shift": 73
+      },
+      "busiest_hour": 9,
+      "busiest_day_of_week": 4,
+      "busiest_day_name": "Thursday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 18,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2023-02",
+          "incidents": 7,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-03",
+          "incidents": 14,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2023-04",
+          "incidents": 19,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-05",
+          "incidents": 52,
+          "cross_district_rate": 0.32
+        },
+        {
+          "month": "2023-06",
+          "incidents": 22,
+          "cross_district_rate": 0.45454545454545453
+        },
+        {
+          "month": "2023-07",
+          "incidents": 7,
+          "cross_district_rate": 0.6
+        },
+        {
+          "month": "2023-08",
+          "incidents": 18,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-09",
+          "incidents": 27,
+          "cross_district_rate": 0.3076923076923077
+        },
+        {
+          "month": "2023-10",
+          "incidents": 14,
+          "cross_district_rate": 0.2
+        },
+        {
+          "month": "2023-11",
+          "incidents": 26,
+          "cross_district_rate": 0.6153846153846154
+        },
+        {
+          "month": "2023-12",
+          "incidents": 27,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2024-01",
+          "incidents": 16,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2024-02",
+          "incidents": 23,
+          "cross_district_rate": 0.38461538461538464
+        },
+        {
+          "month": "2024-03",
+          "incidents": 17,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 20,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-05",
+          "incidents": 19,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2024-06",
+          "incidents": 14,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-07",
+          "incidents": 13,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-08",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-09",
+          "incidents": 6,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 189,
+        "Fire": 7
+      }
+    },
+    "703": {
+      "district": "703",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 490,
+      "total_apparatus_dispatches": 995,
+      "cross_district_rate": 0.32040816326530613,
+      "cross_district_apparatus_rate": 0.26532663316582916,
+      "priority_breakdown": {
+        "Emergent": 465,
+        "Non-Emergent": 24,
+        "Emergent Downgraded to Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 410
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 32
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 21
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 11
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 3
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 2
+        },
+        {
+          "item": "Natural vegetation fire, other",
+          "count": 2
+        },
+        {
+          "item": "Brush or brush-and-grass mixture fire",
+          "count": 2
+        },
+        {
+          "item": "Extrication  rescue  other",
+          "count": 1
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        25,
+        35,
+        15,
+        28,
+        29,
+        34,
+        21,
+        31,
+        35,
+        70,
+        55,
+        32,
+        81,
+        54,
+        78,
+        60,
+        58,
+        56,
+        43,
+        30,
+        48,
+        33,
+        23,
+        21
+      ],
+      "day_of_week_distribution": [
+        137,
+        141,
+        174,
+        119,
+        160,
+        122,
+        142
+      ],
+      "shift_breakdown": {
+        "B Shift": 161,
+        "C Shift": 176,
+        "A Shift": 153
+      },
+      "busiest_hour": 12,
+      "busiest_day_of_week": 2,
+      "busiest_day_name": "Tuesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 70,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-02",
+          "incidents": 30,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-03",
+          "incidents": 32,
+          "cross_district_rate": 0.47368421052631576
+        },
+        {
+          "month": "2023-04",
+          "incidents": 41,
+          "cross_district_rate": 0.34782608695652173
+        },
+        {
+          "month": "2023-05",
+          "incidents": 52,
+          "cross_district_rate": 0.4230769230769231
+        },
+        {
+          "month": "2023-06",
+          "incidents": 56,
+          "cross_district_rate": 0.37037037037037035
+        },
+        {
+          "month": "2023-07",
+          "incidents": 40,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-08",
+          "incidents": 63,
+          "cross_district_rate": 0.45454545454545453
+        },
+        {
+          "month": "2023-09",
+          "incidents": 63,
+          "cross_district_rate": 0.45161290322580644
+        },
+        {
+          "month": "2023-10",
+          "incidents": 50,
+          "cross_district_rate": 0.45
+        },
+        {
+          "month": "2023-11",
+          "incidents": 54,
+          "cross_district_rate": 0.21739130434782608
+        },
+        {
+          "month": "2023-12",
+          "incidents": 70,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2024-01",
+          "incidents": 48,
+          "cross_district_rate": 0.15384615384615385
+        },
+        {
+          "month": "2024-02",
+          "incidents": 35,
+          "cross_district_rate": 0.375
+        },
+        {
+          "month": "2024-03",
+          "incidents": 56,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-04",
+          "incidents": 47,
+          "cross_district_rate": 0.08333333333333333
+        },
+        {
+          "month": "2024-05",
+          "incidents": 47,
+          "cross_district_rate": 0.2608695652173913
+        },
+        {
+          "month": "2024-06",
+          "incidents": 37,
+          "cross_district_rate": 0.22727272727272727
+        },
+        {
+          "month": "2024-07",
+          "incidents": 47,
+          "cross_district_rate": 0.19047619047619047
+        },
+        {
+          "month": "2024-08",
+          "incidents": 45,
+          "cross_district_rate": 0.043478260869565216
+        },
+        {
+          "month": "2024-09",
+          "incidents": 12,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 482,
+        "Fire": 8
+      }
+    },
+    "704": {
+      "district": "704",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 3,
+      "total_apparatus_dispatches": 5,
+      "cross_district_rate": 0.3333333333333333,
+      "cross_district_apparatus_rate": 0.2,
+      "priority_breakdown": {
+        "Emergent": 3
+      },
+      "incident_type_top10": [
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 1
+        },
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "day_of_week_distribution": [
+        1,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shift_breakdown": {
+        "A Shift": 3
+      },
+      "busiest_hour": 21,
+      "busiest_day_of_week": 2,
+      "busiest_day_name": "Tuesday",
+      "monthly_trend": [
+        {
+          "month": "2023-04",
+          "incidents": 1,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 1,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-07",
+          "incidents": 3,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 3
+      }
+    },
+    "705": {
+      "district": "705",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 197,
+      "total_apparatus_dispatches": 386,
+      "cross_district_rate": 0.3604060913705584,
+      "cross_district_apparatus_rate": 0.2772020725388601,
+      "priority_breakdown": {
+        "Emergent": 186,
+        "Non-Emergent": 11
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 174
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 10
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 3
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 2
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 2
+        },
+        {
+          "item": "Natural vegetation fire, other",
+          "count": 2
+        },
+        {
+          "item": "Cooking fire, confined to container",
+          "count": 2
+        },
+        {
+          "item": "Trash or rubbish fire, contained",
+          "count": 1
+        },
+        {
+          "item": "Building fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        9,
+        9,
+        8,
+        8,
+        10,
+        10,
+        14,
+        18,
+        21,
+        11,
+        7,
+        8,
+        32,
+        17,
+        21,
+        26,
+        23,
+        25,
+        36,
+        23,
+        13,
+        15,
+        14,
+        8
+      ],
+      "day_of_week_distribution": [
+        65,
+        66,
+        41,
+        48,
+        36,
+        77,
+        53
+      ],
+      "shift_breakdown": {
+        "B Shift": 71,
+        "A Shift": 60,
+        "C Shift": 66
+      },
+      "busiest_hour": 18,
+      "busiest_day_of_week": 5,
+      "busiest_day_name": "Friday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 11,
+          "cross_district_rate": 0.625
+        },
+        {
+          "month": "2023-02",
+          "incidents": 18,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2023-03",
+          "incidents": 30,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-04",
+          "incidents": 29,
+          "cross_district_rate": 0.38461538461538464
+        },
+        {
+          "month": "2023-05",
+          "incidents": 33,
+          "cross_district_rate": 0.4375
+        },
+        {
+          "month": "2023-06",
+          "incidents": 21,
+          "cross_district_rate": 0.45454545454545453
+        },
+        {
+          "month": "2023-07",
+          "incidents": 14,
+          "cross_district_rate": 0.7
+        },
+        {
+          "month": "2023-08",
+          "incidents": 31,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2023-09",
+          "incidents": 15,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-10",
+          "incidents": 22,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-11",
+          "incidents": 11,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-12",
+          "incidents": 26,
+          "cross_district_rate": 0.5833333333333334
+        },
+        {
+          "month": "2024-01",
+          "incidents": 13,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2024-02",
+          "incidents": 16,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-03",
+          "incidents": 15,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 13,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2024-05",
+          "incidents": 11,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-06",
+          "incidents": 20,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-07",
+          "incidents": 22,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2024-08",
+          "incidents": 10,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-09",
+          "incidents": 5,
+          "cross_district_rate": 0.5
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 191,
+        "Fire": 6
+      }
+    },
+    "706": {
+      "district": "706",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 149,
+      "total_apparatus_dispatches": 322,
+      "cross_district_rate": 0.3288590604026846,
+      "cross_district_apparatus_rate": 0.3167701863354037,
+      "priority_breakdown": {
+        "Emergent": 139,
+        "Non-Emergent": 10
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 137
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 3
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 3
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 1
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Special outside fire, other",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        },
+        {
+          "item": "Brush or brush-and-grass mixture fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        17,
+        5,
+        9,
+        8,
+        10,
+        18,
+        2,
+        7,
+        12,
+        19,
+        5,
+        14,
+        7,
+        3,
+        20,
+        23,
+        13,
+        22,
+        25,
+        18,
+        25,
+        6,
+        21,
+        13
+      ],
+      "day_of_week_distribution": [
+        46,
+        48,
+        43,
+        45,
+        42,
+        39,
+        59
+      ],
+      "shift_breakdown": {
+        "A Shift": 48,
+        "B Shift": 56,
+        "C Shift": 45
+      },
+      "busiest_hour": 18,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 33,
+          "cross_district_rate": 0.4666666666666667
+        },
+        {
+          "month": "2023-02",
+          "incidents": 12,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-03",
+          "incidents": 23,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-04",
+          "incidents": 19,
+          "cross_district_rate": 0.8
+        },
+        {
+          "month": "2023-05",
+          "incidents": 16,
+          "cross_district_rate": 0.625
+        },
+        {
+          "month": "2023-06",
+          "incidents": 16,
+          "cross_district_rate": 0.5555555555555556
+        },
+        {
+          "month": "2023-07",
+          "incidents": 21,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2023-08",
+          "incidents": 22,
+          "cross_district_rate": 0.625
+        },
+        {
+          "month": "2023-09",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-10",
+          "incidents": 22,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2023-11",
+          "incidents": 13,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-12",
+          "incidents": 29,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2024-01",
+          "incidents": 27,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-02",
+          "incidents": 15,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2024-03",
+          "incidents": 9,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2024-04",
+          "incidents": 7,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-05",
+          "incidents": 2,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-06",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-07",
+          "incidents": 10,
+          "cross_district_rate": 0.14285714285714285
+        },
+        {
+          "month": "2024-08",
+          "incidents": 17,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 146,
+        "Fire": 3
+      }
+    },
+    "707": {
+      "district": "707",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 201,
+      "total_apparatus_dispatches": 379,
+      "cross_district_rate": 0.34328358208955223,
+      "cross_district_apparatus_rate": 0.29815303430079154,
+      "priority_breakdown": {
+        "Emergent": 189,
+        "Non-Emergent": 12
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 175
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 10
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 7
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Rescue or EMS standby",
+          "count": 1
+        },
+        {
+          "item": "Mobile property (vehicle) fire, other",
+          "count": 1
+        },
+        {
+          "item": "Grass fire",
+          "count": 1
+        },
+        {
+          "item": "Natural vegetation fire, other",
+          "count": 1
+        },
+        {
+          "item": "Building fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        8,
+        0,
+        4,
+        5,
+        6,
+        2,
+        13,
+        13,
+        18,
+        15,
+        41,
+        26,
+        12,
+        22,
+        24,
+        21,
+        24,
+        23,
+        8,
+        19,
+        25,
+        15,
+        19,
+        16
+      ],
+      "day_of_week_distribution": [
+        51,
+        63,
+        46,
+        50,
+        50,
+        52,
+        67
+      ],
+      "shift_breakdown": {
+        "B Shift": 66,
+        "C Shift": 68,
+        "A Shift": 67
+      },
+      "busiest_hour": 10,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 18,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-02",
+          "incidents": 16,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-03",
+          "incidents": 20,
+          "cross_district_rate": 0.46153846153846156
+        },
+        {
+          "month": "2023-04",
+          "incidents": 9,
+          "cross_district_rate": 0.8333333333333334
+        },
+        {
+          "month": "2023-05",
+          "incidents": 19,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2023-06",
+          "incidents": 18,
+          "cross_district_rate": 0.45454545454545453
+        },
+        {
+          "month": "2023-07",
+          "incidents": 14,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2023-08",
+          "incidents": 14,
+          "cross_district_rate": 0.7142857142857143
+        },
+        {
+          "month": "2023-09",
+          "incidents": 21,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-10",
+          "incidents": 11,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-11",
+          "incidents": 27,
+          "cross_district_rate": 0.46153846153846156
+        },
+        {
+          "month": "2023-12",
+          "incidents": 22,
+          "cross_district_rate": 0.5714285714285714
+        },
+        {
+          "month": "2024-01",
+          "incidents": 33,
+          "cross_district_rate": 0.06666666666666667
+        },
+        {
+          "month": "2024-02",
+          "incidents": 18,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-03",
+          "incidents": 14,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-04",
+          "incidents": 22,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2024-05",
+          "incidents": 25,
+          "cross_district_rate": 0.23076923076923078
+        },
+        {
+          "month": "2024-06",
+          "incidents": 15,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2024-07",
+          "incidents": 21,
+          "cross_district_rate": 0.15384615384615385
+        },
+        {
+          "month": "2024-08",
+          "incidents": 20,
+          "cross_district_rate": 0.08333333333333333
+        },
+        {
+          "month": "2024-09",
+          "incidents": 2,
+          "cross_district_rate": 0.5
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 195,
+        "Fire": 6
+      }
+    },
+    "709": {
+      "district": "709",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 68,
+      "total_apparatus_dispatches": 131,
+      "cross_district_rate": 0.39705882352941174,
+      "cross_district_apparatus_rate": 0.29770992366412213,
+      "priority_breakdown": {
+        "Non-Emergent": 7,
+        "Emergent": 61
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 62
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 2
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 1
+        },
+        {
+          "item": "Outside rubbish, trash or waste fire",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        7,
+        1,
+        0,
+        2,
+        1,
+        3,
+        1,
+        0,
+        5,
+        7,
+        8,
+        5,
+        7,
+        8,
+        7,
+        2,
+        9,
+        7,
+        4,
+        13,
+        13,
+        4,
+        6,
+        11
+      ],
+      "day_of_week_distribution": [
+        37,
+        12,
+        23,
+        12,
+        13,
+        22,
+        12
+      ],
+      "shift_breakdown": {
+        "C Shift": 20,
+        "B Shift": 17,
+        "A Shift": 31
+      },
+      "busiest_hour": 19,
+      "busiest_day_of_week": 0,
+      "busiest_day_name": "Sunday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 5,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-02",
+          "incidents": 6,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-03",
+          "incidents": 18,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-04",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-05",
+          "incidents": 9,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-06",
+          "incidents": 9,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-07",
+          "incidents": 1,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-08",
+          "incidents": 7,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2023-09",
+          "incidents": 4,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-10",
+          "incidents": 5,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-11",
+          "incidents": 12,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-12",
+          "incidents": 8,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-01",
+          "incidents": 4,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-03",
+          "incidents": 19,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2024-05",
+          "incidents": 6,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-06",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-07",
+          "incidents": 7,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2024-08",
+          "incidents": 2,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 66,
+        "Fire": 2
+      }
+    },
+    "711": {
+      "district": "711",
+      "home_station": "Sugar Land Fire Station 7",
+      "total_incidents": 9,
+      "total_apparatus_dispatches": 27,
+      "cross_district_rate": 0.4444444444444444,
+      "cross_district_apparatus_rate": 0.5925925925925926,
+      "priority_breakdown": {
+        "Emergent": 9
+      },
+      "incident_type_top10": [
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 3
+        },
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 3
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        0,
+        6,
+        0,
+        0,
+        6
+      ],
+      "day_of_week_distribution": [
+        7,
+        4,
+        6,
+        0,
+        3,
+        1,
+        6
+      ],
+      "shift_breakdown": {
+        "A Shift": 5,
+        "C Shift": 3,
+        "B Shift": 1
+      },
+      "busiest_hour": 20,
+      "busiest_day_of_week": 0,
+      "busiest_day_name": "Sunday",
+      "monthly_trend": [
+        {
+          "month": "2023-06",
+          "incidents": 10,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-07",
+          "incidents": 3,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-12",
+          "incidents": 4,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-03",
+          "incidents": 1,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-06",
+          "incidents": 4,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-08",
+          "incidents": 5,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 8,
+        "Fire": 1
+      }
+    },
+    "1S1": {
+      "district": "1S1",
+      "home_station": "Sugar Land Fire Station 1",
+      "total_incidents": 175,
+      "total_apparatus_dispatches": 383,
+      "cross_district_rate": 0.5085714285714286,
+      "cross_district_apparatus_rate": 0.4412532637075718,
+      "priority_breakdown": {
+        "Emergent": 170,
+        "Non-Emergent": 4
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 119
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 34
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 10
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 3
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 2
+        },
+        {
+          "item": "Grass fire",
+          "count": 2
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 2
+        },
+        {
+          "item": "Extrication of victim(s) from vehicle",
+          "count": 1
+        },
+        {
+          "item": "Extrication of victim(s) from machinery",
+          "count": 1
+        },
+        {
+          "item": "Natural vegetation fire, other",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        2,
+        8,
+        0,
+        2,
+        2,
+        2,
+        4,
+        15,
+        22,
+        26,
+        16,
+        36,
+        25,
+        33,
+        27,
+        38,
+        28,
+        26,
+        10,
+        27,
+        15,
+        6,
+        13,
+        0
+      ],
+      "day_of_week_distribution": [
+        39,
+        47,
+        67,
+        57,
+        63,
+        65,
+        45
+      ],
+      "shift_breakdown": {
+        "C Shift": 53,
+        "A Shift": 61,
+        "B Shift": 61
+      },
+      "busiest_hour": 15,
+      "busiest_day_of_week": 2,
+      "busiest_day_name": "Tuesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 18,
+          "cross_district_rate": 0.6
+        },
+        {
+          "month": "2023-02",
+          "incidents": 17,
+          "cross_district_rate": 0.7777777777777778
+        },
+        {
+          "month": "2023-03",
+          "incidents": 33,
+          "cross_district_rate": 0.5714285714285714
+        },
+        {
+          "month": "2023-04",
+          "incidents": 8,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-05",
+          "incidents": 20,
+          "cross_district_rate": 0.5555555555555556
+        },
+        {
+          "month": "2023-06",
+          "incidents": 17,
+          "cross_district_rate": 0.5555555555555556
+        },
+        {
+          "month": "2023-07",
+          "incidents": 14,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-08",
+          "incidents": 19,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-09",
+          "incidents": 16,
+          "cross_district_rate": 0.8888888888888888
+        },
+        {
+          "month": "2023-10",
+          "incidents": 31,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-11",
+          "incidents": 17,
+          "cross_district_rate": 0.5555555555555556
+        },
+        {
+          "month": "2023-12",
+          "incidents": 22,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2024-01",
+          "incidents": 25,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2024-02",
+          "incidents": 24,
+          "cross_district_rate": 0.16666666666666666
+        },
+        {
+          "month": "2024-03",
+          "incidents": 21,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2024-04",
+          "incidents": 9,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-05",
+          "incidents": 28,
+          "cross_district_rate": 0.38461538461538464
+        },
+        {
+          "month": "2024-06",
+          "incidents": 12,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2024-07",
+          "incidents": 19,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2024-08",
+          "incidents": 9,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-09",
+          "incidents": 4,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 170,
+        "Fire": 5
+      }
+    },
+    "1S2": {
+      "district": "1S2",
+      "home_station": "Sugar Land Fire Station 1",
+      "total_incidents": 44,
+      "total_apparatus_dispatches": 79,
+      "cross_district_rate": 0.6136363636363636,
+      "cross_district_apparatus_rate": 0.5822784810126582,
+      "priority_breakdown": {
+        "Emergent": 41,
+        "Non-Emergent": 3
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 37
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 2
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 2
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 1
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        15,
+        13,
+        13,
+        6,
+        14,
+        7,
+        5,
+        4,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "day_of_week_distribution": [
+        0,
+        24,
+        16,
+        17,
+        8,
+        12,
+        2
+      ],
+      "shift_breakdown": {
+        "B Shift": 14,
+        "C Shift": 14,
+        "A Shift": 16
+      },
+      "busiest_hour": 9,
+      "busiest_day_of_week": 1,
+      "busiest_day_name": "Monday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 3,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-02",
+          "incidents": 2,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-03",
+          "incidents": 3,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-04",
+          "incidents": 4,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2023-06",
+          "incidents": 3,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-07",
+          "incidents": 1,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-08",
+          "incidents": 3,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-10",
+          "incidents": 8,
+          "cross_district_rate": 0.6
+        },
+        {
+          "month": "2023-11",
+          "incidents": 7,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-02",
+          "incidents": 6,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2024-03",
+          "incidents": 8,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-04",
+          "incidents": 10,
+          "cross_district_rate": 0.8333333333333334
+        },
+        {
+          "month": "2024-05",
+          "incidents": 3,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-06",
+          "incidents": 13,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2024-07",
+          "incidents": 5,
+          "cross_district_rate": 0.3333333333333333
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 44
+      }
+    },
+    "3M1": {
+      "district": "3M1",
+      "home_station": "Sugar Land Fire Station 3",
+      "total_incidents": 267,
+      "total_apparatus_dispatches": 535,
+      "cross_district_rate": 0.449438202247191,
+      "cross_district_apparatus_rate": 0.3401869158878505,
+      "priority_breakdown": {
+        "Emergent": 260,
+        "Non-Emergent": 5
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 234
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 14
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 8
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 2
+        },
+        {
+          "item": "Extrication of victim(s) from machinery",
+          "count": 2
+        },
+        {
+          "item": "Trench/below-grade rescue",
+          "count": 1
+        },
+        {
+          "item": "Extrication of victim(s) from vehicle",
+          "count": 1
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 1
+        },
+        {
+          "item": "Building fire",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        19,
+        16,
+        9,
+        16,
+        11,
+        12,
+        9,
+        11,
+        16,
+        31,
+        18,
+        25,
+        32,
+        30,
+        24,
+        32,
+        39,
+        41,
+        18,
+        14,
+        31,
+        21,
+        43,
+        17
+      ],
+      "day_of_week_distribution": [
+        72,
+        72,
+        76,
+        48,
+        75,
+        105,
+        87
+      ],
+      "shift_breakdown": {
+        "B Shift": 102,
+        "C Shift": 84,
+        "A Shift": 80
+      },
+      "busiest_hour": 22,
+      "busiest_day_of_week": 5,
+      "busiest_day_name": "Friday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 24,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-02",
+          "incidents": 23,
+          "cross_district_rate": 0.4166666666666667
+        },
+        {
+          "month": "2023-03",
+          "incidents": 23,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-04",
+          "incidents": 27,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-05",
+          "incidents": 34,
+          "cross_district_rate": 0.2857142857142857
+        },
+        {
+          "month": "2023-06",
+          "incidents": 11,
+          "cross_district_rate": 0.5714285714285714
+        },
+        {
+          "month": "2023-07",
+          "incidents": 23,
+          "cross_district_rate": 0.23076923076923078
+        },
+        {
+          "month": "2023-08",
+          "incidents": 37,
+          "cross_district_rate": 0.2777777777777778
+        },
+        {
+          "month": "2023-09",
+          "incidents": 17,
+          "cross_district_rate": 0.625
+        },
+        {
+          "month": "2023-10",
+          "incidents": 30,
+          "cross_district_rate": 0.6
+        },
+        {
+          "month": "2023-11",
+          "incidents": 25,
+          "cross_district_rate": 0.38461538461538464
+        },
+        {
+          "month": "2023-12",
+          "incidents": 19,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2024-01",
+          "incidents": 27,
+          "cross_district_rate": 0.36363636363636365
+        },
+        {
+          "month": "2024-02",
+          "incidents": 21,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2024-03",
+          "incidents": 29,
+          "cross_district_rate": 0.6428571428571429
+        },
+        {
+          "month": "2024-04",
+          "incidents": 34,
+          "cross_district_rate": 0.5909090909090909
+        },
+        {
+          "month": "2024-05",
+          "incidents": 42,
+          "cross_district_rate": 0.5238095238095238
+        },
+        {
+          "month": "2024-06",
+          "incidents": 9,
+          "cross_district_rate": 0.625
+        },
+        {
+          "month": "2024-07",
+          "incidents": 33,
+          "cross_district_rate": 0.6111111111111112
+        },
+        {
+          "month": "2024-08",
+          "incidents": 38,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2024-09",
+          "incidents": 9,
+          "cross_district_rate": 0.4
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 264,
+        "Fire": 3
+      }
+    },
+    "3M2": {
+      "district": "3M2",
+      "home_station": "Sugar Land Fire Station 3",
+      "total_incidents": 225,
+      "total_apparatus_dispatches": 444,
+      "cross_district_rate": 0.5911111111111111,
+      "cross_district_apparatus_rate": 0.49099099099099097,
+      "priority_breakdown": {
+        "Emergent": 218,
+        "Emergent Downgraded to Non-Emergent": 1,
+        "Non-Emergent": 6
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 197
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 10
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 6
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 3
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 3
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 2
+        },
+        {
+          "item": "High-angle rescue",
+          "count": 1
+        },
+        {
+          "item": "Cooking fire, confined to container",
+          "count": 1
+        },
+        {
+          "item": "Natural vegetation fire, other",
+          "count": 1
+        },
+        {
+          "item": "Chimney or flue fire, confined to chimney or flue",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        9,
+        10,
+        6,
+        2,
+        9,
+        14,
+        16,
+        22,
+        11,
+        36,
+        30,
+        46,
+        39,
+        20,
+        41,
+        31,
+        14,
+        8,
+        9,
+        14,
+        19,
+        22,
+        8,
+        8
+      ],
+      "day_of_week_distribution": [
+        56,
+        89,
+        45,
+        63,
+        71,
+        65,
+        55
+      ],
+      "shift_breakdown": {
+        "A Shift": 93,
+        "C Shift": 60,
+        "B Shift": 72
+      },
+      "busiest_hour": 11,
+      "busiest_day_of_week": 1,
+      "busiest_day_name": "Monday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 19,
+          "cross_district_rate": 0.5833333333333334
+        },
+        {
+          "month": "2023-02",
+          "incidents": 24,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2023-03",
+          "incidents": 21,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-04",
+          "incidents": 14,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2023-05",
+          "incidents": 29,
+          "cross_district_rate": 0.5384615384615384
+        },
+        {
+          "month": "2023-06",
+          "incidents": 24,
+          "cross_district_rate": 0.4444444444444444
+        },
+        {
+          "month": "2023-07",
+          "incidents": 29,
+          "cross_district_rate": 0.5454545454545454
+        },
+        {
+          "month": "2023-08",
+          "incidents": 28,
+          "cross_district_rate": 0.6428571428571429
+        },
+        {
+          "month": "2023-09",
+          "incidents": 26,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2023-10",
+          "incidents": 20,
+          "cross_district_rate": 0.8461538461538461
+        },
+        {
+          "month": "2023-11",
+          "incidents": 18,
+          "cross_district_rate": 0.125
+        },
+        {
+          "month": "2023-12",
+          "incidents": 17,
+          "cross_district_rate": 0.6
+        },
+        {
+          "month": "2024-01",
+          "incidents": 21,
+          "cross_district_rate": 0.7777777777777778
+        },
+        {
+          "month": "2024-02",
+          "incidents": 26,
+          "cross_district_rate": 0.5833333333333334
+        },
+        {
+          "month": "2024-03",
+          "incidents": 15,
+          "cross_district_rate": 0.6666666666666666
+        },
+        {
+          "month": "2024-04",
+          "incidents": 33,
+          "cross_district_rate": 0.5789473684210527
+        },
+        {
+          "month": "2024-05",
+          "incidents": 10,
+          "cross_district_rate": 0.7142857142857143
+        },
+        {
+          "month": "2024-06",
+          "incidents": 17,
+          "cross_district_rate": 0.7272727272727273
+        },
+        {
+          "month": "2024-07",
+          "incidents": 25,
+          "cross_district_rate": 0.42857142857142855
+        },
+        {
+          "month": "2024-08",
+          "incidents": 20,
+          "cross_district_rate": 0.5555555555555556
+        },
+        {
+          "month": "2024-09",
+          "incidents": 8,
+          "cross_district_rate": 1
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 220,
+        "Fire": 5
+      }
+    },
+    "3S1": {
+      "district": "3S1",
+      "home_station": "Sugar Land Fire Station 4",
+      "total_incidents": 83,
+      "total_apparatus_dispatches": 168,
+      "cross_district_rate": 0.5421686746987951,
+      "cross_district_apparatus_rate": 0.6369047619047619,
+      "priority_breakdown": {
+        "Emergent": 74,
+        "Emergent Downgraded to Non-Emergent": 1,
+        "Non-Emergent": 7
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 78
+        },
+        {
+          "item": "Building fire",
+          "count": 2
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Cooking fire, confined to container",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        6,
+        2,
+        3,
+        1,
+        7,
+        10,
+        0,
+        6,
+        6,
+        13,
+        7,
+        5,
+        9,
+        2,
+        3,
+        4,
+        18,
+        10,
+        8,
+        10,
+        5,
+        18,
+        7,
+        8
+      ],
+      "day_of_week_distribution": [
+        21,
+        19,
+        29,
+        14,
+        29,
+        18,
+        38
+      ],
+      "shift_breakdown": {
+        "C Shift": 20,
+        "B Shift": 38,
+        "A Shift": 25
+      },
+      "busiest_hour": 16,
+      "busiest_day_of_week": 6,
+      "busiest_day_name": "Saturday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 7,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-02",
+          "incidents": 9,
+          "cross_district_rate": 0.25
+        },
+        {
+          "month": "2023-03",
+          "incidents": 7,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2023-04",
+          "incidents": 2,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-05",
+          "incidents": 4,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-06",
+          "incidents": 14,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-07",
+          "incidents": 10,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-08",
+          "incidents": 21,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2023-09",
+          "incidents": 3,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2023-10",
+          "incidents": 8,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-11",
+          "incidents": 12,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-12",
+          "incidents": 2,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-01",
+          "incidents": 5,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2024-02",
+          "incidents": 7,
+          "cross_district_rate": 0.75
+        },
+        {
+          "month": "2024-03",
+          "incidents": 13,
+          "cross_district_rate": 0.5714285714285714
+        },
+        {
+          "month": "2024-04",
+          "incidents": 5,
+          "cross_district_rate": 1
+        },
+        {
+          "month": "2024-05",
+          "incidents": 16,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-06",
+          "incidents": 17,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2024-07",
+          "incidents": 2,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-08",
+          "incidents": 3,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-09",
+          "incidents": 1,
+          "cross_district_rate": 1
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 80,
+        "Fire": 3
+      }
+    },
+    "3S2": {
+      "district": "3S2",
+      "home_station": "Sugar Land Fire Station 4",
+      "total_incidents": 583,
+      "total_apparatus_dispatches": 1154,
+      "cross_district_rate": 0.4665523156089194,
+      "cross_district_apparatus_rate": 0.5190641247833622,
+      "priority_breakdown": {
+        "Emergent": 548,
+        "Non-Emergent Upgraded to Emergent": 1,
+        "Emergent Downgraded to Non-Emergent": 1,
+        "Non-Emergent": 30
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 465
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 63
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 22
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 5
+        },
+        {
+          "item": "Brush or brush-and-grass mixture fire",
+          "count": 5
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 3
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 3
+        },
+        {
+          "item": "Forest, woods or wildland fire",
+          "count": 3
+        },
+        {
+          "item": "Cooking fire, confined to container",
+          "count": 3
+        },
+        {
+          "item": "Building fire",
+          "count": 3
+        }
+      ],
+      "hourly_distribution": [
+        30,
+        8,
+        18,
+        12,
+        23,
+        15,
+        26,
+        34,
+        37,
+        72,
+        58,
+        58,
+        82,
+        58,
+        103,
+        81,
+        55,
+        85,
+        58,
+        63,
+        61,
+        48,
+        50,
+        19
+      ],
+      "day_of_week_distribution": [
+        135,
+        153,
+        178,
+        199,
+        159,
+        180,
+        150
+      ],
+      "shift_breakdown": {
+        "B Shift": 187,
+        "A Shift": 198,
+        "C Shift": 198
+      },
+      "busiest_hour": 14,
+      "busiest_day_of_week": 3,
+      "busiest_day_name": "Wednesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 50,
+          "cross_district_rate": 0.6551724137931034
+        },
+        {
+          "month": "2023-02",
+          "incidents": 48,
+          "cross_district_rate": 0.5652173913043478
+        },
+        {
+          "month": "2023-03",
+          "incidents": 50,
+          "cross_district_rate": 0.43333333333333335
+        },
+        {
+          "month": "2023-04",
+          "incidents": 53,
+          "cross_district_rate": 0.391304347826087
+        },
+        {
+          "month": "2023-05",
+          "incidents": 52,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-06",
+          "incidents": 60,
+          "cross_district_rate": 0.4
+        },
+        {
+          "month": "2023-07",
+          "incidents": 58,
+          "cross_district_rate": 0.6428571428571429
+        },
+        {
+          "month": "2023-08",
+          "incidents": 56,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2023-09",
+          "incidents": 63,
+          "cross_district_rate": 0.2413793103448276
+        },
+        {
+          "month": "2023-10",
+          "incidents": 59,
+          "cross_district_rate": 0.45161290322580644
+        },
+        {
+          "month": "2023-11",
+          "incidents": 62,
+          "cross_district_rate": 0.45161290322580644
+        },
+        {
+          "month": "2023-12",
+          "incidents": 91,
+          "cross_district_rate": 0.5135135135135135
+        },
+        {
+          "month": "2024-01",
+          "incidents": 32,
+          "cross_district_rate": 0.6875
+        },
+        {
+          "month": "2024-02",
+          "incidents": 70,
+          "cross_district_rate": 0.3939393939393939
+        },
+        {
+          "month": "2024-03",
+          "incidents": 49,
+          "cross_district_rate": 0.56
+        },
+        {
+          "month": "2024-04",
+          "incidents": 67,
+          "cross_district_rate": 0.5
+        },
+        {
+          "month": "2024-05",
+          "incidents": 90,
+          "cross_district_rate": 0.47619047619047616
+        },
+        {
+          "month": "2024-06",
+          "incidents": 48,
+          "cross_district_rate": 0.2413793103448276
+        },
+        {
+          "month": "2024-07",
+          "incidents": 49,
+          "cross_district_rate": 0.52
+        },
+        {
+          "month": "2024-08",
+          "incidents": 33,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2024-09",
+          "incidents": 14,
+          "cross_district_rate": 0.4
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 564,
+        "Fire": 19
+      }
+    },
+    "4S1": {
+      "district": "4S1",
+      "home_station": "Sugar Land Fire Station 4",
+      "total_incidents": 808,
+      "total_apparatus_dispatches": 1454,
+      "cross_district_rate": 0.23514851485148514,
+      "cross_district_apparatus_rate": 0.21939477303988997,
+      "priority_breakdown": {
+        "Emergent": 755,
+        "Non-Emergent": 42,
+        "Non-Emergent Upgraded to Emergent": 2
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 735
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 23
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 16
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 10
+        },
+        {
+          "item": "Emergency medical service incident  other",
+          "count": 7
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 4
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 4
+        },
+        {
+          "item": "Passenger vehicle fire",
+          "count": 3
+        },
+        {
+          "item": "Building fire",
+          "count": 2
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        17,
+        17,
+        12,
+        13,
+        8,
+        25,
+        18,
+        16,
+        72,
+        80,
+        119,
+        127,
+        121,
+        122,
+        120,
+        133,
+        96,
+        85,
+        52,
+        70,
+        46,
+        46,
+        28,
+        11
+      ],
+      "day_of_week_distribution": [
+        149,
+        228,
+        233,
+        201,
+        223,
+        203,
+        217
+      ],
+      "shift_breakdown": {
+        "B Shift": 273,
+        "C Shift": 256,
+        "A Shift": 279
+      },
+      "busiest_hour": 15,
+      "busiest_day_of_week": 2,
+      "busiest_day_name": "Tuesday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 56,
+          "cross_district_rate": 0.2571428571428571
+        },
+        {
+          "month": "2023-02",
+          "incidents": 71,
+          "cross_district_rate": 0.15384615384615385
+        },
+        {
+          "month": "2023-03",
+          "incidents": 63,
+          "cross_district_rate": 0.21951219512195122
+        },
+        {
+          "month": "2023-04",
+          "incidents": 73,
+          "cross_district_rate": 0.175
+        },
+        {
+          "month": "2023-05",
+          "incidents": 64,
+          "cross_district_rate": 0.23684210526315788
+        },
+        {
+          "month": "2023-06",
+          "incidents": 80,
+          "cross_district_rate": 0.22727272727272727
+        },
+        {
+          "month": "2023-07",
+          "incidents": 87,
+          "cross_district_rate": 0.2553191489361702
+        },
+        {
+          "month": "2023-08",
+          "incidents": 71,
+          "cross_district_rate": 0.19047619047619047
+        },
+        {
+          "month": "2023-09",
+          "incidents": 66,
+          "cross_district_rate": 0.275
+        },
+        {
+          "month": "2023-10",
+          "incidents": 73,
+          "cross_district_rate": 0.2682926829268293
+        },
+        {
+          "month": "2023-11",
+          "incidents": 69,
+          "cross_district_rate": 0.2727272727272727
+        },
+        {
+          "month": "2023-12",
+          "incidents": 81,
+          "cross_district_rate": 0.27906976744186046
+        },
+        {
+          "month": "2024-01",
+          "incidents": 57,
+          "cross_district_rate": 0.23529411764705882
+        },
+        {
+          "month": "2024-02",
+          "incidents": 50,
+          "cross_district_rate": 0.24
+        },
+        {
+          "month": "2024-03",
+          "incidents": 70,
+          "cross_district_rate": 0.1388888888888889
+        },
+        {
+          "month": "2024-04",
+          "incidents": 103,
+          "cross_district_rate": 0.19607843137254902
+        },
+        {
+          "month": "2024-05",
+          "incidents": 91,
+          "cross_district_rate": 0.28
+        },
+        {
+          "month": "2024-06",
+          "incidents": 81,
+          "cross_district_rate": 0.23809523809523808
+        },
+        {
+          "month": "2024-07",
+          "incidents": 79,
+          "cross_district_rate": 0.325
+        },
+        {
+          "month": "2024-08",
+          "incidents": 55,
+          "cross_district_rate": 0.20689655172413793
+        },
+        {
+          "month": "2024-09",
+          "incidents": 14,
+          "cross_district_rate": 0.2857142857142857
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 800,
+        "Fire": 8
+      }
+    },
+    "5M1": {
+      "district": "5M1",
+      "home_station": "Sugar Land Fire Station 5",
+      "total_incidents": 340,
+      "total_apparatus_dispatches": 401,
+      "cross_district_rate": 0.12058823529411765,
+      "cross_district_apparatus_rate": 0.12718204488778054,
+      "priority_breakdown": {
+        "Emergent": 330,
+        "Non-Emergent": 8,
+        "Emergent Downgraded to Non-Emergent": 1
+      },
+      "incident_type_top10": [
+        {
+          "item": "EMS call  excluding vehicle accident with injury",
+          "count": 225
+        },
+        {
+          "item": "Medical assist  assist EMS crew",
+          "count": 89
+        },
+        {
+          "item": "Motor vehicle accident with no injuries.",
+          "count": 10
+        },
+        {
+          "item": "Motor vehicle accident with injuries",
+          "count": 5
+        },
+        {
+          "item": "Removal of victim(s) from stalled elevator",
+          "count": 3
+        },
+        {
+          "item": "Building fire",
+          "count": 2
+        },
+        {
+          "item": "Lock-in (if lock out   use 511 )",
+          "count": 1
+        },
+        {
+          "item": "Motor vehicle/pedestrian accident (MV Ped)",
+          "count": 1
+        },
+        {
+          "item": "Special outside fire, other",
+          "count": 1
+        },
+        {
+          "item": "Natural vegetation fire, other",
+          "count": 1
+        }
+      ],
+      "hourly_distribution": [
+        11,
+        13,
+        7,
+        8,
+        6,
+        11,
+        11,
+        11,
+        13,
+        22,
+        25,
+        32,
+        14,
+        37,
+        18,
+        24,
+        20,
+        28,
+        20,
+        20,
+        20,
+        8,
+        15,
+        7
+      ],
+      "day_of_week_distribution": [
+        55,
+        44,
+        66,
+        45,
+        86,
+        61,
+        44
+      ],
+      "shift_breakdown": {
+        "B Shift": 123,
+        "A Shift": 143,
+        "C Shift": 74
+      },
+      "busiest_hour": 13,
+      "busiest_day_of_week": 4,
+      "busiest_day_name": "Thursday",
+      "monthly_trend": [
+        {
+          "month": "2023-01",
+          "incidents": 20,
+          "cross_district_rate": 0.058823529411764705
+        },
+        {
+          "month": "2023-02",
+          "incidents": 19,
+          "cross_district_rate": 0.1875
+        },
+        {
+          "month": "2023-03",
+          "incidents": 13,
+          "cross_district_rate": 0.3333333333333333
+        },
+        {
+          "month": "2023-04",
+          "incidents": 9,
+          "cross_district_rate": 0.2222222222222222
+        },
+        {
+          "month": "2023-05",
+          "incidents": 19,
+          "cross_district_rate": 0.1111111111111111
+        },
+        {
+          "month": "2023-06",
+          "incidents": 11,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-07",
+          "incidents": 12,
+          "cross_district_rate": 0.18181818181818182
+        },
+        {
+          "month": "2023-08",
+          "incidents": 16,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-09",
+          "incidents": 15,
+          "cross_district_rate": 0.13333333333333333
+        },
+        {
+          "month": "2023-10",
+          "incidents": 15,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2023-11",
+          "incidents": 28,
+          "cross_district_rate": 0.041666666666666664
+        },
+        {
+          "month": "2023-12",
+          "incidents": 22,
+          "cross_district_rate": 0.23809523809523808
+        },
+        {
+          "month": "2024-01",
+          "incidents": 16,
+          "cross_district_rate": 0
+        },
+        {
+          "month": "2024-02",
+          "incidents": 18,
+          "cross_district_rate": 0.05555555555555555
+        },
+        {
+          "month": "2024-03",
+          "incidents": 31,
+          "cross_district_rate": 0.15
+        },
+        {
+          "month": "2024-04",
+          "incidents": 23,
+          "cross_district_rate": 0.13043478260869565
+        },
+        {
+          "month": "2024-05",
+          "incidents": 21,
+          "cross_district_rate": 0.05263157894736842
+        },
+        {
+          "month": "2024-06",
+          "incidents": 16,
+          "cross_district_rate": 0.0625
+        },
+        {
+          "month": "2024-07",
+          "incidents": 50,
+          "cross_district_rate": 0.3
+        },
+        {
+          "month": "2024-08",
+          "incidents": 22,
+          "cross_district_rate": 0.05263157894736842
+        },
+        {
+          "month": "2024-09",
+          "incidents": 5,
+          "cross_district_rate": 0
+        }
+      ],
+      "service_type_breakdown": {
+        "EMS": 334,
+        "Fire": 6
+      }
+    }
+  }
+}

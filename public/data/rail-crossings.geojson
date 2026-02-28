@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated_at": "2026-02-14T08:17:43.858Z",
+    "description": "Transportation corridors that create barriers to emergency response"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Union Pacific Railroad",
+        "type": "railroad",
+        "description": "Major rail corridor running parallel to US-90 through Sugar Land"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.64,
+            29.575
+          ],
+          [
+            -95.62,
+            29.578
+          ],
+          [
+            -95.6,
+            29.58
+          ],
+          [
+            -95.585,
+            29.585
+          ],
+          [
+            -95.56,
+            29.59
+          ],
+          [
+            -95.53,
+            29.595
+          ],
+          [
+            -95.49,
+            29.6
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US-90 (South Main Street)",
+        "type": "highway",
+        "description": "Major east-west arterial running parallel to railroad"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.64,
+            29.57
+          ],
+          [
+            -95.6,
+            29.572
+          ],
+          [
+            -95.58,
+            29.575
+          ],
+          [
+            -95.54,
+            29.578
+          ],
+          [
+            -95.49,
+            29.582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US-59 / I-69 (Southwest Freeway)",
+        "type": "highway",
+        "description": "Major interstate highway running NE-SW through Sugar Land"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.65,
+            29.545
+          ],
+          [
+            -95.62,
+            29.555
+          ],
+          [
+            -95.59,
+            29.57
+          ],
+          [
+            -95.55,
+            29.585
+          ],
+          [
+            -95.51,
+            29.575
+          ],
+          [
+            -95.47,
+            29.58
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TX-6 (Southwest Bypass)",
+        "type": "highway",
+        "description": "North-south bypass on the western side"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.63,
+            29.52
+          ],
+          [
+            -95.63,
+            29.55
+          ],
+          [
+            -95.635,
+            29.58
+          ],
+          [
+            -95.64,
+            29.62
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Station Strain Atlas",
+  "subtitle": "Mapping where Sugar Land's emergency response system is quietly under stress",
+  "thesis": "Every day, Sugar Land Fire-EMS dispatches an average of 22 emergency units across 7 stations. In 95% of cases, the system works exactly as designed — the nearest station responds. But in the remaining 1 in 4 calls, the closest unit is already committed, and backup must come from farther away — sometimes crossing US-90, the railroad, or the Southwest Freeway to get there. This dashboard maps where that strain concentrates. Station 3, serving the First Colony corridor, relies on backup from other stations for nearly half its calls — the highest rate in the city. Boundary districts caught between station territories run even higher. Today, the system absorbs this strain without slowing down. But as Sugar Land grows, these quiet pressure points will be the first to break.",
+  "highlight_districts": ["3M2", "302", "3S2", "1S1", "3S1"],
+  "highlight_station": "Sugar Land Fire Station 3",
+  "highlight_reason": "Station 3's districts average a 49.5% cross-district rate — the highest of any station. Nearly half of all incidents in its coverage area require backup from another station.",
+  "data_summary": {
+    "total_incidents": 13988,
+    "total_apparatus_dispatches": 26287,
+    "date_range": "Jan 2023 – Sep 2024",
+    "months_analyzed": 21,
+    "overall_cross_district_rate": 26.6,
+    "stations": 7,
+    "districts": 42
+  },
+  "narrative_framing": {
+    "type": "resilience",
+    "primary_message": "Response times remain stable even under strain",
+    "secondary_message": "District strain patterns reveal growth pressure points",
+    "call_to_action": "Use these insights for proactive resource allocation as Sugar Land grows"
+  },
+  "correlation_summary": {
+    "main_correlation_r2": 0.022,
+    "interpretation": "No significant relationship between cross-district rate and response time",
+    "conclusion": "System is resilient — strain doesn't degrade performance"
+  },
+  "station_rankings": {
+    "highest_strain": {
+      "station": "Sugar Land Fire Station 3",
+      "rate": 49.5
+    },
+    "most_self_sufficient": {
+      "station": "Sugar Land Fire Station 6",
+      "rate": 11.3
+    }
+  },
+  "geographic_insights": {
+    "barrier_zones": ["1S1", "1S2", "3S1", "3S2", "3M1", "3M2"],
+    "barrier_description": "Districts near railroad/US-90 corridor show highest strain",
+    "highway_districts": ["609", "206"],
+    "highway_description": "Highway MVA districts have extreme cross-district rates but low volume"
+  },
+  "recommendations": [
+    {
+      "severity": "high",
+      "text": "Station 3 needs capacity relief — its districts average 49.5% cross-district deployment."
+    },
+    {
+      "severity": "medium",
+      "text": "Boundary zones (3M2, 3S1, 1S1) are chronic strain points — consider a dedicated swing unit."
+    },
+    {
+      "severity": "medium",
+      "text": "District 609 (US-90 corridor) has 70% cross-district rate for MVAs — evaluate highway pre-positioning."
+    }
+  ]
+}
