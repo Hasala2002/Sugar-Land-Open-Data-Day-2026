@@ -2,6 +2,17 @@
 
 **Open Data Day 2026 Datathon Entry | Sugar Land, TX**
 
+## Live Demo
+
+🔗 **https://sugarlandemsfireanalysis.netlify.app**
+
+### Highlights
+
+- Interactive station-strain map focused on Sugar Land city limits
+- Station-by-station strain ranking with top high-strain district callouts
+- Station drill-down profile with incident mix and export-load metrics
+- System overview and recommendations panel for rapid judge review
+
 ## The Problem
 
 Sugar Land's Fire-EMS system serves a city divided by US-90, US-59/I-69, and active freight rail corridors. When the nearest emergency unit is already committed, backup must navigate these barriers — adding time when every second counts.
