@@ -38,7 +38,7 @@ An interactive web dashboard featuring:
 ## Tech Stack
 
 - React + Vite
-- Leaflet (maps)
+- Mapbox (maps)
 - Recharts (charts)
 - Tailwind CSS
 - Node.js (data processing)
