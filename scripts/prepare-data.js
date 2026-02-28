@@ -650,7 +650,9 @@ function main() {
 }
 
 // Run the script
-main().catch(err => {
+Promise.resolve()
+  .then(main)
+  .catch(err => {
   console.error('❌ Fatal error:', err);
   process.exit(1);
 });
